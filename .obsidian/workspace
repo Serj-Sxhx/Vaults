@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "5a10b42dcc091058",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08f20583e9868c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "06 Notes/Curiosity.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc6481d5a947aa62",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf81bd1fcf3aba36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "874292d2bd1072c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3af33df6ac79ea98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "field tripp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.49999809265137
+  },
+  "right": {
+    "id": "d37a5055b195e4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ff781100dec780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5b341cede6632e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 Notes/Curiosity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dc133a58d4d2fde5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "81f9777129d82fb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b20509309a4d292d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e08f20583e9868c9",
+  "lastOpenFiles": [
+    "06 Notes/Curiosity.md",
+    "01 Projects/Live and Learn Together Handbook.md",
+    "Keepers of the Fabric.md",
+    "Untitled.md",
+    "Phanes.md",
+    "khronos.md",
+    "Ananke.md",
+    "02 Areas/Myth.md",
+    "06 Notes/Field Tripping @School.md",
+    "02 Areas/Economics as developmental contexts for humans.md"
+  ]
+}

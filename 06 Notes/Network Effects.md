@@ -1,0 +1,1 @@
+https://www.dropbox.com/s/fm9fdmy0l2nnm2o/The%20Network%20Effects%20Bible%20%28eBook%29.pdf?dl=0&utm_medium=email&_hsmi=98064206&_hsenc=p2ANqtz--hJ4Qf-UjV0NTX6NsNDXEOuBd-614NjlKO8-htXLAHDgflzAqcjfQzWE2T1rk8_6Gz1LWmPuQLI51ParLUniLZZWz4BQ&utm_content=98064206&utm_source=hs_automation

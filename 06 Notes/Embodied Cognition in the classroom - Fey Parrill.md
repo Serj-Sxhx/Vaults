@@ -1,0 +1,5 @@
+https://twitter.com/anniemurphypaul/status/1377359090398072832
+
+https://www.researchgate.net/publication/341832734_Using_Cognitive_Science_to_Teach_Cognitive_Science_Embodied_Teaching_and_Learning_in_the_Cognitive_Science_Classroom
+
+[[Fey Parrill]]

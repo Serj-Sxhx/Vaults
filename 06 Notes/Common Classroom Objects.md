@@ -1,0 +1,13 @@
+- Whiteboards / Flipcharts
+- Pens
+- Paper / Notebooks
+- Sticky Notes 
+- Flashcards
+- Online video content
+- Physical Books
+- Teachers
+- Students
+- Chairs 
+- Tables
+- Smartphones
+- Laptops

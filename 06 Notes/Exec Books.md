@@ -1,0 +1,1 @@
+My wishlist for exec. books: – author did their "real thinking" in the authoring computational environment – reading environment invites + supports meaningful experimentation/exploration – book elements transparently and usefully reusable by author and readers in derivative works
