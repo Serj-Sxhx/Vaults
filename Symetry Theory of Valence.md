@@ -1,0 +1,1 @@
+https://opentheory.net/2021/07/a-primer-on-the-symmetry-theory-of-valence/

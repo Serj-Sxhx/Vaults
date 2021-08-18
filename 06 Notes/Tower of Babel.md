@@ -1,0 +1,1 @@
+The tower in [[machine princess and the thunderhawk]] is the remnants of babel. the 8 tribes built something ontop and they have divided language.

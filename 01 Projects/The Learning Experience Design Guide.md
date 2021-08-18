@@ -5,7 +5,7 @@ A handbook of principles and practices for designing meaningful, effective and e
 
 ## What is Learning Experience Design (LXD)
 
-The process of facilitating the development of leaners by providing them with a systematic set of learning experiences and activities supported by content, feedback and technology.
+The process of facilitating the development of learners by providing them with a systematic set of learning experiences and activities supported by content, feedback and technology.
 
 ![[What is LXD_.png]]
 
@@ -185,6 +185,10 @@ If you've cared for children or been a child yourself you'd probably remember a 
 **Child:** But mooom! Everyone's getting latest toy X. Jenny has one, timmy has it!
 
 Children base a lot of their [identity on what others desire](https://www.youtube.com/watch?v=OgB9p2BA4fw) as they develop new types of empathy and ways to relate to the world. Being mindful of what developmental stages your learners are at can help you to apply different pedagogical strategies for different ages and motivations.
+
+---
+##### Draft in Progress: The quality of writing below this point is haphazard, disjointed, and possibly nonsensical. It's probably a good idea to come back later.
+---
 
 # Ch.3 Great teaching
 

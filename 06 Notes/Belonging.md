@@ -1,11 +1,17 @@
 : Being supported, encouraged, feeling at home, in my learning community; the opposite is being 'out of place'.
-## What are the key dimensions of X?
 
-## What are observable behaviours that might indicate if someone is X?
+Beliefs 
+- I don't respect what the community thinks is important -  I am selfish, irresponsible, careless, etc. (LOST, ALONE)
 
-## What values guide attention when someone is X?
+
+## What are the key dimensions of Belonging?
+
+## What are observable behaviours that might indicate if someone is Belonging?
+
+## What values guide attention when someone is Belonging?
 
 ## What are the hard steps of Belonging
+
 MAYBE: matchmaking (Surfacing + Signaling / Markings) + connection
 
 sharing food is a great way to connect
@@ -40,9 +46,70 @@ Types of Care and Problem
 
 
 
-## What norms make those hard steps easier 
+## What norms make those hard steps easier
+
+- Group Identity 
+	- Ritual Set - Initialism the group. Name, Superpowers, Hive Minds 
+
+- Free Movement 
+- Appreciation - pointing out the ways that you appreciate eachother. 
+- Understanding - under ideologies
+- Showing up for other people when things are tough. 
+	- Surface what's bad for you
+
 
 ## What norms make those hard steps harder
+`Hero's Introduction`
+Person that you know 
+Character from a book 
+Family member, close
+
+What do you find inspiring about that person 
+Is it a way that they treat people, vibe, approach to life, 
+
+Inspiration matchmaking 
+
+
+
+` Read it like it's yours`
+Around belonging. 
+
+why is this good
+Write down ways that you feel like you don't belong.
+Put the stack in another room and take one that's not yours 
+Sit down again then read them out.
+
+
+`Doubt clubs`
+
+
+`Weekly for the group version`
+- Everybody writes down what they're struggling with the most right now.
+- Everybody splits into two groups. 
+- Each team brainstorms and finds a solution to that teams problems. 
+
+`Initiation to the group version`
+- Hi i'm tim im new here
+- Get time to write down 3 of his biggest problems that he's facing
+- tim goes for self care 
+- in the mean time the group gets together and reads all the challenges, lists resources then solves
+
+`anti debate`
+disagreement 
+steel man 
+winner is the one who can ,
+stakes - give token of best perspective taker.
+
+points for perspective taking monthly - group decides 1-10 how well did you steel man it  
+
+
+
+`Secret Adminrer`
+Week Long 
+- Each member of a group draws a name out of a hat.
+- Observe that group member and write down what you appreciate about them for a week
+- Shuffle the observation so that the In a group circle read outloud Still anonymous read out all the things you observed. 'What's great about person X is... 
+- 
 
 ---
 Type 

@@ -1,4 +1,13 @@
 : Seeing myself as one who learns, grows, improves over time, having travelled already; the opposite is being 'stuck and static'.
+
+Reflect backwards and internalize success 
+
+self beliefs 
+-	I lack the ability to learn/improve/perform - I am foolish, incapable, incompetent, unworthy, etc. (WORTHLESS(Self Image in the Community) <> Valued, INSIGNIFICANT(Performance) <> significant, HELPLESS <> Powerful, INADEQUATE <> Significant)
+
+Existential entrapment. 
+
+
  
  ## What are the key dimensions of X?
 
@@ -43,7 +52,7 @@ Sit with difficult emotions
 
 Provide and receive support around dificult emotions
 
-Assess what is going wrong in other parts of your life
+Assess what is going wrong in other parts of your life - Seeing it as a connected to shame patterns
 
 Identify what feels impossible
 
@@ -68,6 +77,35 @@ Play with removing or imposing constraints
 ## What norms make those hard steps easier 
 
 ## What norms make those hard steps harder
+
+## Games 
+`Mascot Game` + Micro Actions
+-	Each person (or person who's stuck) Picks someone who's inspiring 
+-	Brainstorm What qualities they find inspiring. 
+-	The group outlines the situation for the person by mapping what seems hopeless not questioning if it's true
+	-	*Advanced* Play split brain with the various aspects of I can't do this. 
+-	Everyone takes the position of the mascot embodying these qualities - They each thing about what  the mascot would recommend to do from his point of view. - *Advanced* respond to the split brain
+
+`Read it like it's yours - Proud edition`
+[Look in games and activities - HS]
+- Write something that you're proud of on a piece of paper, don't write your name on it.
+- Fold it and put 
+
+
+
+
+`Coaching Olympics`
+- Kids do a mock exam paper
+- Group the students who struggle at topic x 
+- Group the coaches or pro students
+- Optional (set up chairs in a circle)
+- Rotate coaches each questions 
+- And mark the coaches name next to the question
+- Best Coach award goes to the coach with the most names next to correct exam paper questions
+- Best learner award goes to highest test score improved from pre-test results.
+
+`Creative lineage map`
+- List of what this person would do
 
 ---
 Type #🌱 

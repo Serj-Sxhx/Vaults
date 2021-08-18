@@ -1,0 +1,8 @@
+
+
+We don’t schedule sessions back-to-back. We leave 30 minutes minimum between them, assuming no travel time. During this gap, the team conducts a “hot wash critique”9 of what each person heard. Find a quiet place out of the stakeholder’s way where everyone can voice what they observed and what stood out to them. When there isn’t enough time for a hot wash, we have team members annotate or circle their notes to help them remember top-of-mind points (Figure 16.9).
+
+The “hot wash” critique occurs immediately after the Engagement Session closes
+Capturing impressions during the hot wash is important, especially if there are multiple sessions per day. Sessions start to blur into one another. As each person presents her top impressions, others listen for things they heard or saw. If there is a conflict, the Facilitator makes a note of it but doesn’t stop the process. The team returns to these points after everyone has had their turn. After the first individual reports out, the next reports only things they witnessed that differed from the first. In the interest of time, repeating the same observations provides no value. Finally, after everyone has had a turn, the Facilitator returns to any points of conflict or controversy. The team discusses, as briefly as possible, nuances or differences of opinion. For Engagement Sessions lasting 30–60 minutes, the hot wash shouldn’t take more than 15 minutes, even with a full contingent of team members.
+
+![[Pasted image 20210721201703.png]]

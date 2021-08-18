@@ -1,0 +1,119 @@
+[Research Notes](https://publish.obsidian.md/sxhx/01+Projects/PxP+Homepage) | [Website](https://paideiaxpraxis.com/) | [Youtube](https://www.youtube.com/channel/UCaVg9NP0mQ093iNfWTID8Zg) | [Twitter](https://twitter.com/Serjhunt_ARK) | [Notion Templates](https://gumroad.com/paideiaxpraxis) | [[About & Work  - Serj Hunt]]
+
+Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating tools and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
+
+I'm a learning experience designer (UX / LXD), associate at [Jearni Sciences CIC](https://www.linkedin.com/company/jearni/) and independent researcher. My research is focused on learner agency, self directed learning [[Learning power]] and humane technology through a 4E cognitive science lens.
+
+I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with instructional design (ID) 
+
+I've been involved in the humane tech movement as part of the founding team at [Human Systems](https://human-systems.org/) and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to learning networks and ed-tech.
+
+I've also lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
+
+I run an online lab and community exploring the intersection of Tools for Thought and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
+
+I'm also hacking on tools for self-directed learning [@Vivid](https://www.vivid.so/)
+
+Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, and what facilities and resources should/nt exist.
+
+ Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational political / civic technologies, inspired by the ideas at groups like @RadxChange and by continued application of my work at @humsys
+ 
+---
+
+### Research Overview
+
+If you've landed here, chances are, you're probably familiar with some of my work. Behind that work is me carving a path to remain deeply connected to some of my [turtly questions](https://www.notion.so/Turtleocracy-47a6df7692bf4e95a39504a73a50a295) which revolve around a couple main themes.
+
+**🔍 Why Ed-Tech has failed to disrupt the classroom and alternate approaches to designing & deploying.**
+
+**🔍  Adaptive & high agency learners, and how to support [[Guy Claxton]]'s notion of 'Results +'**
+
+**🔍 Cross-cultural anthropological studies on human development, learning networks and communities of practice.**
+
+**🔍 Intergenerational & Inter-Org Knowledge - What can we learn from the longest enduring organizations? What and whose knowledge should be preserved and passed on to future generations / How and why will it be taught?**
+
+**🔍 Scenius, Matchmaking and CrowdSource Problem Solving - What teaching, learning and relating is best to foster scenius? What technologies will help us solve problems together?**
+
+
+Generally I'm interested in broadening the notion of education beyond just what occurs in schooling as it opens up new lines of designing things.
+
+I love questions of what new conditions are required for people to engage and practice new behaviours, and explore meaning-making outside of becoming useful to a labour market. 
+
+I've often found the conversation around what the best school might be, to be an un-fruitful line of inquiry. That's because I believe many of the issues we face in education are downstream of larger global systems such as healthcare, economics and military systems.
+
+The gig economy, universal basic Income, the prussian war machine, longer life expectancy through medical sciences, and rising teacher workloads because of state policies, all enable and constrain the quality and shape of this thing we call education. 
+
+Instead, I'm interested in what kinds of social and technological environments, economies and cultures are required to embrace the diversity of a learner's complex life world, curiosities, values, inspirations and intelligences?
+
+As I alternate between 'researcher mode' to 'implementer mind' I'll be creating experiments for social and silicon technologies that support life long learning, and communities of practice.
+
+My experiments are often [action research](https://en.wikipedia.org/wiki/Action_research) meaning that I answer questions mainly through building, running workshops and creating learning experiences while reflecting in the process.
+
+
+Underlying all this is a belief; That children are the key to the shackles created by the shortcomings of older generations. Without sustainable futures for them, there is no innovation or progress, no walking through the scientific orchard, or discovery of religious and mystical experience. They are the portal between this world and the future. So opening their creative aperture is opening our collective imagination towards new worlds and new ways of being together.
+
+---
+
+*slow to update*
+
+**Projects**
+
+*Current*
+
+[Vivid](https://www.vivid.so/) - Vivid uses AI (GPT-3) to break down any topic or skill into bite-size lessons made up of free online content. Build your expertise in any subject, at your own pace, LXD & Dev.
+
+[[Redesign Education Horizon 2030]] - **Forecasting & Strategy**. Using UNESCO's 'Futures Literacy' methodology to sense emerging technologies which will disrupt and change the shape of education systems.
+
+[[The Pedagogy of Tools for Thought]] - **Experimental Program**. Envisioning beyond Tools for Thought as narrowly defined technological objects. Developing the social practices for them as cultural objects of pedagogical transformation.
+
+[[The ecosystem for self-directed, lifelong learners.]] - **Validation and Tech Spec**. A self-directed learning-approach to open world education via a technologically connected web of learning objects, facilities, experiences and the skilled people.
+
+
+
+*Previous*
+-   Curriculum & Trainer [@HumanSystems](https://human-systems.org/)
+-   Pedagogy & Facilitator [@TheLearningSprint](https://www.thelearningsprint.com/)
+-   Content & LXD [@Zapier Academy](https://www.youtube.com/channel/UCzEQpEckBEM_FpRSCLLKcNQ)
+-   [[Live and Learn Together Handbook]] - **Pedagogical Strategies** / Game Design. A handbook of experimental pedagogical strategies and new social practices for learning together. WIP
+
+**Side Projects**
+
+- Self Directed Learning x Tools for Thought [@Paideia X Praxis Community](https://paideiaxpraxis.com)
+- Creator [@Edu-Creator OS](https://educreator-os.com/)
+- K-12 + Highschool Pedagogy Design [@Jearni](https://sxhx.notion.site/Paideia-X-Praxis-Games-for-Supporting-Learning-Power-6cdf16affb3b46dfbd89318fc0b58d82)
+-  Writer [@Social Arts](https://handbook.social-arts.org/)
+-  Market Research [Self Directed Learning Market Map](https://www.notion.so/Re-Design-Education-Market-Map-2a62324fa9814ab8961818d8cd03b77b)
+-  Creator [@Buildacommunity.co](http://buildacommunity.co/)
+-  Creator [@anotionteacher](https://twitter.com/anotionteacher)
+-  [[The Learning Experience Design Guide]] - **Writing**. A guide covering the fundamentals and principles of learning experience design WIP
+-  [[Matchmaking by Curiocity]] - **Tool**. Analytic for building connections between learners. WIP
+
+**Consulting**
+
+-   Strategy & Messaging [@Growth Public School](https://www.growthps.org/)
+-   Gamification & Messaging [@Worldpackers](https://www.worldpackers.com/)
+
+**Workshops & Speaking**
+
+-   [How To Measure Learning w/ Serj & Tara](https://transcend-network.com/fellowship) (Transcend Network Fellowship, March 2021)
+-   [Creating Online Course Using Notion](https://www.crowdcast.io/e/notion-for-course/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) - (Notion Community - June 2021)
+-   [Crypto x Sustainability Founders Forum](https://www.thenyxbali.com/) (TheNyx Bali collab with [Seeds](https://joinseeds.earth/))
+
+**Podcasts**
+
+-   [Taking Agency Over Your Learning](https://open.spotify.com/episode/48hFSg0j3DmkNihsI6qYiZ?si=K28RtqafQGCj7AN7G_V2Ww) - ZNotes Pomcast - Apr 2021
+
+
+---
+
+Ultimately I hope, with your support, we can create novel small scale learning-protopias. Learning spaces where the norms and interactions around pedagogy, curriculums, technology and assessments are quite different.
+
+Your support for this journey is deeply appreciated. With nervous excitement and wild curiosity.
+
+Serj
+
+Patreon: [](https://patreon.com/Mimetis)[https://patreon.com/Mimetis](https://patreon.com/Mimetis)
+
+Bitcoin Donations 1AWJqZ5r1Lcx1FJ2Ciq1gMtXB4YgCgnQvE
+
+Etherium Donations 0x5e5400102F84B31A490a6be16A5BbA48F4FDE58B

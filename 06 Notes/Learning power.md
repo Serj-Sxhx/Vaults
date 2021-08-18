@@ -16,6 +16,9 @@ Type #🌱
 Tags [[Live and Learn Together Handbook]] [[Dimensions of learning power (Jearni)]]
 
 Links / References:
+https://www.linkedin.com/company/jearni/
+https://jearni.co/
+https://lecticalive.org/about/vcol#gsc.tab=0
 
 
 ---

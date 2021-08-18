@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Ars Magna",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "zoom-image"
+  ],
+  "baseFontSize": 14
+}

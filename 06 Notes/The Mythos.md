@@ -1,0 +1,1 @@
+a thunderdome style culture clash 

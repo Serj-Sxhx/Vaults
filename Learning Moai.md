@@ -1,0 +1,1 @@
+A group of. between 3-6 learners who have overlapping learning goals, complimentary and overlapping skill sets to provide accountability and support for eachother's learning journey.

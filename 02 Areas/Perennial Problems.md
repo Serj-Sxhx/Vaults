@@ -1,13 +1,36 @@
+Dear Reader. 
 
-![[PxP Perenial Problems.png]]
+I've been trying my best to map the perennial problems and translate them into accessible non academic & world religion language.
+
+This is the original sketch that John gives us
+@27:56 https://www.youtube.com/watch?v=2kQooMZzR7w&t=1893s
+![[Screenshot 2021-07-15 at 12.27.51.png]]
+
+As per John's account, what's required is an ecology of [[Psycho Technology]]s that help us to overcome the Perennial Problems. 
+
+I've been doing work in similar and overlapping spaces as part of the team that birthed https://meaning.supplies/. A site where you can find social practices for different 'values'
+
+I've also participate and actively support communities of Authentic Relating, Circling and the [Monastic Academy](https://www.monasticacademy.com/).
+
+### Fancy helping?
+
+1. Below are definitions of the perennial problems and their solutions. If you have any suggestions for language that you could use to explain all of this to your grandma then please reach out via [twitter](https://twitter.com/Serjhunt_ARK) or email Serj(at)paideiaxpraxis.com
+
+2. I work with a team who design psychometric for learning analytics and strongly believe that psychometric assessments can be made for the dimensions outlined by John. My hypothesis is that this would radically change the way we allocate resources in therapy and even the way we think about public health and wellness for both local communities and from a policy standpoint. Psychometric assessments are a long road to design. If you know anyone in this field who would be open to collaborating on this, or has design psychometric assessments before then please contact me via twitter or email (above)
+3. Got a [[Psycho Technology]] social practice, game or therapy style that solves perennial problems? DM me or comment and let me know what perennial problem it relates to, often it's multiple. I'll be making a list of practices and redesigning this list soon [here](https://coda.io/d/Suite-of-Practices-Social-Arts_dWxc2daM6zY). If it's a social practice then consider leaving it on [meaning supplies](https://meaning.supplies/)
+
+### Definitions
+![[Perennial Problems.png]]
  
- The perennial problems are of course perennial because the very machinery of our cognition that makes us adaptive also makes us perpetually vulnerable to self deceptive. Most cultures cultivate an ecology of [[Psycho Technology]]s typically in the form of a religion for addressing the perennial problems but that set of psycho technologies has to be fitted into a legitimizing and sustaining worldview.
+ The perennial problems are of course perennial because the very machinery of our cognition that makes us adaptive also makes us perpetually vulnerable to self deceptive behaviours. And because of the affordances of the arena that our cognitive machinery operates in and through.
+ 
+ Most cultures cultivate an ecology of [[Psycho Technology]]s typically in the form of a religion for addressing the perennial problems but that set of psycho technologies has to be fitted into a legitimizing and sustaining worldview.
 
-[[Wisdom]] Wisdom is a dynamical systems that is counter-active to the machinery of self deception that helps to afford self organized transformation into a life of flourishing. A life that is deeply meaningful.
+Dynamical Systems version: [[Wisdom]] Wisdom is a dynamical systems that is counter-active to the machinery of self deception that helps to afford self organized transformation into a life of flourishing. A life that is deeply meaningful.
 
-Wisdom is knowing how to make the transformative leap of self-transcendence from the every day world to the real world.
+Slightly Woo version: Wisdom is knowing how to make the transformative leap of self-transcendence from the every day world to the real world.
 
-It is your capacity to overcome self-deception and to enhance your contact with reality. There is also a psychological component. It’s also the capacity to avoid self-destructive behavior.
+Grandma-ish version: It is your capacity to overcome self-deception and to enhance your contact with reality. There is also a psychological component. It’s also the capacity to avoid self-destructive behavior.
 
 Wisdom is a set of practices which overcomes the [[Perennial Problems]]
 The 7 perennial problems are:

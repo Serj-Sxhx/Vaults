@@ -5,6 +5,11 @@ pedagogy exists to compare and re-evaluate our ways of teaching, to think how it
 
 I made this compressed guide to explore 4 core learning theories behind the art, craft and science of pedagogy.
 
+_Also check out these great resources and primers on learning theories_
+- [A Primer on Learning Theories](https://edarxiv.org/ze5hc)
+- [A Visual Summary: 32 Learning Theories Every Teacher Should Know](https://www.teachthought.com/learning/a-visual-summary-the-most-important-learning-theories/)
+
+
 ### Where did the word Pedagogy come from? 
 
 The word pedagogy comes from the ancient Greek 'paidagōgós',

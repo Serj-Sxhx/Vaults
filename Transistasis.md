@@ -1,0 +1,1 @@
+: The power or tendency of living things to keep changing itself according to the transformation of the circumstances. Transistasis is the antonym of "Homeostasis".

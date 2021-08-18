@@ -1,0 +1,2 @@
+What the inventive genius of mankind has bestowed upon us in the last hundred years could have made human life care free and happy if the development of the organizing power of man had been able to to keep step with his technical advances. As it is, the hardly bought achievements of the machine age in the hands of our generation are as dangerous as a razor blade in the hands of a 3 year old boy. - Albert Einstein 1932
+

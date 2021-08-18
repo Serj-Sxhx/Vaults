@@ -1,0 +1,1 @@
+A community event that happen about once a month where present what they've learnt using a scaffoled format 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06 Notes/Curiosity.md",
-            "mode": "preview"
+            "file": "02 Areas/Auger.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "field tripp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.49999809265137
+    "width": 303.0121879577637
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/Curiosity.md",
+                "file": "02 Areas/Auger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -94,7 +94,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -105,26 +105,32 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "16b1f78ba682f315",
+            "type": "leaf",
+            "state": {
+              "type": "chat",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
-    "06 Notes/Curiosity.md",
+    "02 Areas/Auger.md",
+    "02 Areas/Anthropology.md",
+    "06 Notes/Social Imaginary Artwork.md",
+    "01 Projects/The Pedagogy of Tools for Thought.md",
+    "01 Projects/The Learning Experience Design Guide.md",
+    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+    "01 Projects/Matchmaking by Curiocity.md",
     "01 Projects/Live and Learn Together Handbook.md",
-    "Keepers of the Fabric.md",
-    "Untitled.md",
-    "Phanes.md",
-    "khronos.md",
-    "Ananke.md",
-    "02 Areas/Myth.md",
-    "06 Notes/Field Tripping @School.md",
-    "02 Areas/Economics as developmental contexts for humans.md"
+    "01 Projects/About & Work  - Serj Hunt.md",
+    "06 Notes/CHOICES, VALUES, AND INTERFACES - Jake Orthwein.md"
   ]
 }
