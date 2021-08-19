@@ -4,9 +4,9 @@ Hello wonderful human! Serj here. I'm just a future parent who's passionate abou
 
 I'm a learning experience designer (UX / LXD), associate at [Jearni Sciences CIC](https://www.linkedin.com/company/jearni/) and independent researcher. My research is focused on learner agency, self directed learning [[Learning power]] and humane technology through a 4E cognitive science lens.
 
-I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with instructional design (ID) 
+I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with content creation and Instructional Design for training. 
 
-I've been involved in the humane tech movement as part of the founding team at [Human Systems](https://human-systems.org/) and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to learning networks and ed-tech.
+I've been involved in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/) and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to learning networks and ed-tech.
 
 I've also lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
 
