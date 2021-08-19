@@ -16,7 +16,7 @@ I'm also hacking on tools for self-directed learning [@Vivid](https://www.vivid.
 
 Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, and what facilities and resources should/nt exist.
 
- Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational political / civic technologies, inspired by the ideas at groups like @RadxChange and by continued application of my work at @humsys
+ Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational political / civic technologies, inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
  
 ---
 
@@ -35,15 +35,15 @@ If you've landed here, chances are, you're probably familiar with some of my wor
 **🔍 Scenius, Matchmaking and CrowdSource Problem Solving - What teaching, learning and relating is best to foster scenius? What technologies will help us solve problems together?**
 
 
-Generally I'm interested in broadening the notion of education beyond just what occurs in schooling as it opens up new lines of designing things.
+Generally I'm interested in designing trusted learning outside of changing how schools operate or single programmes.
 
-I love questions of what new conditions are required for people to engage and practice new behaviours, and explore meaning-making outside of becoming useful to a labour market. 
+I love questions of what new conditions or environments are required for people to engage and practice new behaviours, and explore meaning-making outside of becoming useful to a labour market. 
 
 I've often found the conversation around what the best school might be, to be an un-fruitful line of inquiry. That's because I believe many of the issues we face in education are downstream of larger global systems such as healthcare, economics and military systems.
 
 The gig economy, universal basic Income, the prussian war machine, longer life expectancy through medical sciences, and rising teacher workloads because of state policies, all enable and constrain the quality and shape of this thing we call education. 
 
-Instead, I'm interested in what kinds of social and technological environments, economies and cultures are required to embrace the diversity of a learner's complex life world, curiosities, values, inspirations and intelligences?
+Instead, I'm interested in what kinds of social and technological environments, economies and cultures are required to support the development and diversity of a learner's complex life world, curiosities, values, inspirations and intelligences?
 
 As I alternate between 'researcher mode' to 'implementer mind' I'll be creating experiments for social and silicon technologies that support life long learning, and communities of practice.
 
@@ -54,7 +54,7 @@ Underlying all this is a belief; That children are the key to the shackles creat
 
 ---
 
-*slow to update*
+*slow to update...Moving Portfolio from Notion*
 
 ### Projects
 
