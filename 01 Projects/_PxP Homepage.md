@@ -8,7 +8,7 @@ Please be patient while I migrate my notes from Notion to here.
 
 You're looking through the ever-increasing digital aperture into my mind and personality. This is a place to dive into my rationale 
 
-Much of what I have to say has already been said. I simply re-synthesize it for modern times because people don't hear it. I write and speak passionately, while standing on the shoulders of [these giants](https://www.notion.so/sxhx/Serj-s-Creative-Lineage-7eb7113a0ef64efd81e0681ddf451c85).
+Much of what I have to say has already been said. I simply re-synthesize it for modern times because people don't hear it or forget. I write and speak passionately, while standing on the shoulders of [these giants](https://www.notion.so/sxhx/Serj-s-Creative-Lineage-7eb7113a0ef64efd81e0681ddf451c85).
 
 ![[Gold Divider for Notion.png]]
 

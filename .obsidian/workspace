@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 Areas/Auger.md",
+            "file": "01 Projects/_PxP Homepage.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Areas/Auger.md",
+                "file": "01 Projects/_PxP Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,8 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
+    "01 Projects/_PxP Homepage.md",
+    "01 Projects/About & Work  - Serj Hunt.md",
     "02 Areas/Auger.md",
     "02 Areas/Anthropology.md",
     "06 Notes/Social Imaginary Artwork.md",
@@ -129,8 +131,6 @@
     "01 Projects/The Learning Experience Design Guide.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "01 Projects/Matchmaking by Curiocity.md",
-    "01 Projects/Live and Learn Together Handbook.md",
-    "01 Projects/About & Work  - Serj Hunt.md",
-    "06 Notes/CHOICES, VALUES, AND INTERFACES - Jake Orthwein.md"
+    "01 Projects/Live and Learn Together Handbook.md"
   ]
 }

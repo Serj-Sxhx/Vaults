@@ -56,7 +56,7 @@ Underlying all this is a belief; That children are the key to the shackles creat
 
 *slow to update*
 
-**Projects**
+### Projects
 
 *Current*
 
@@ -74,13 +74,12 @@ Underlying all this is a belief; That children are the key to the shackles creat
 -   Curriculum & Trainer [@HumanSystems](https://human-systems.org/)
 -   Pedagogy & Facilitator [@TheLearningSprint](https://www.thelearningsprint.com/)
 -   Content & LXD [@Zapier Academy](https://www.youtube.com/channel/UCzEQpEckBEM_FpRSCLLKcNQ)
--   [[Live and Learn Together Handbook]] - **Pedagogical Strategies** / Game Design. A handbook of experimental pedagogical strategies and new social practices for learning together. WIP
+-   K-12 + Highschool Pedagogy Design [@Jearni](https://sxhx.notion.site/Paideia-X-Praxis-Games-for-Supporting-Learning-Power-6cdf16affb3b46dfbd89318fc0b58d82)
 
 **Side Projects**
 
 - Self Directed Learning x Tools for Thought [@Paideia X Praxis Community](https://paideiaxpraxis.com)
 - Creator [@Edu-Creator OS](https://educreator-os.com/)
-- K-12 + Highschool Pedagogy Design [@Jearni](https://sxhx.notion.site/Paideia-X-Praxis-Games-for-Supporting-Learning-Power-6cdf16affb3b46dfbd89318fc0b58d82)
 -  Writer [@Social Arts](https://handbook.social-arts.org/)
 -  Market Research [Self Directed Learning Market Map](https://www.notion.so/Re-Design-Education-Market-Map-2a62324fa9814ab8961818d8cd03b77b)
 -  Creator [@Buildacommunity.co](http://buildacommunity.co/)
@@ -97,16 +96,13 @@ Underlying all this is a belief; That children are the key to the shackles creat
 
 -   [How To Measure Learning w/ Serj & Tara](https://transcend-network.com/fellowship) (Transcend Network Fellowship, March 2021)
 -   [Creating Online Course Using Notion](https://www.crowdcast.io/e/notion-for-course/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) - (Notion Community - June 2021)
--   [Crypto x Sustainability Founders Forum](https://www.thenyxbali.com/) (TheNyx Bali collab with [Seeds](https://joinseeds.earth/))
+-   [Crypto x Sustainability Founders Forum](https://www.thenyxbali.com/) (TheNYX Bali collab with [Seeds](https://joinseeds.earth/))
 
-**Podcasts**
-
--   [Taking Agency Over Your Learning](https://open.spotify.com/episode/48hFSg0j3DmkNihsI6qYiZ?si=K28RtqafQGCj7AN7G_V2Ww) - ZNotes Pomcast - Apr 2021
 
 
 ---
 
-Ultimately I hope, with your support, we can create novel small scale learning-protopias. Learning spaces where the norms and interactions around pedagogy, curriculums, technology and assessments are quite different.
+Ultimately I hope, with your support, we can create novel small scale learning-protopias. Learning spaces where the norms and interactions around pedagogy, curriculum, technology and assessments are quite different.
 
 Your support for this journey is deeply appreciated. With nervous excitement and wild curiosity.
 
