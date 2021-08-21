@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/About & Work  - Serj Hunt.md",
-            "mode": "source"
+            "file": "02 Areas/Newtwork Effects.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "network effects",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/About & Work  - Serj Hunt.md",
+                "file": "02 Areas/Newtwork Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
+    "02 Areas/Newtwork Effects.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/_PxP Homepage.md",
     "02 Areas/Auger.md",
@@ -130,7 +132,6 @@
     "01 Projects/The Pedagogy of Tools for Thought.md",
     "01 Projects/The Learning Experience Design Guide.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
-    "01 Projects/Matchmaking by Curiocity.md",
-    "01 Projects/Live and Learn Together Handbook.md"
+    "01 Projects/Matchmaking by Curiocity.md"
   ]
 }
