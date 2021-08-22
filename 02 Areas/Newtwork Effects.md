@@ -53,9 +53,31 @@ In order of strength:
 	- The higher the density the more powerful it's NFX
 	- Density is uneaven across a network which leads to Clustering
 - Clustering 
-	- e.g. Some people are more active in sub channels in 
+	- e.g. Slack: Some people form subgroups (channels) are more active in than the broader network
+	- e.g. Twitter: People who share similar interests create links with each other
 	- Bridge: When two clusters are connected by a solitary link
-
+- Clustering coefficient
+	-  A network with a high clustering coefficient will increase exponentially in value while it grows. A network with low clustering will increase in value at a slower rate
+	-  Tactics for increasing clustering coefficient.
+- Critical Mass
+	-  the point at which the value produced by the network exceeds the value of the product itself and of competing products 
+	-  Lower in 'Physical Networks' e.g. AT&T - You need both the phone and the line for it to be immediate value which exceeds the value of the product itself.
+	-  Higher in platforms e.g. Windows - The OS is valuable standalone but, value exceeds the value of the product itself when 3rd party developers and users interact. 
+	-  Before the size of the network reaches critical mass, the product remains quite vulnerable and may not have much value to users
+	-  The challenge is to build enough initial value to incentivize early adopters to start using the product even before the network effects value has kicked in.
+- Sarnoff's Law
+- Metcalfe's Law
+- Reed's Law\
+- Disintermediation
+	- To prevent disintermediation, provide 
+		- tools, 
+		- reputation, 
+		- insurance,
+		- compliance, 
+		- leads 
+		- incentives. 
+	- See the Disitermediation playbook about the many things you can try if your marketplace is challenged with this problem.
+		- 
 
 
 # In building products,
