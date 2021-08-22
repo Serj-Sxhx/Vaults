@@ -29,7 +29,13 @@
     "developmentalized",
     "makerspaces",
     "Colearning",
-    "unbundled"
+    "unbundled",
+    "Directionality",
+    "Influencer",
+    "Undirected",
+    "unreciprocated",
+    "directionality",
+    "undirected"
   ],
   "promptDelete": false,
   "strictLineBreaks": true
