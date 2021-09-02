@@ -11,9 +11,18 @@
 ---
 
 # Should the state guarantee universal healthcare?
+- Rawls, Yes: Health is a fundamental human right
+- Nozick: It's birthed from unfair means.
 # Should there be an inheritance tax?
+- Rawls, 
+- Nozick
 # Should there be a draft army?
-# Should you be aloud to sell your Vote 
+Rawls - Draft through random process 
+Nozick - Volunteer, individuals have the right to contract to risk
+# Should you be aloud to sell your Vote
+Rawls - behind a veil of ignorance, the vote is the individuals rights
+Nozick - Under your own discretion can sell you vote, who should tell you not to? 
+
 ---
 
 ---
@@ -60,5 +69,17 @@
 		- In a legitimate way from someone who owns it 
 		- Or in a legitimate way from no one owning it. 
 		- E.g. Say each of us has $100 and there are thousands and thousands of us all of whom are fans of the great 1970s basketball star Wilt Chamberlain, so suppose you give 25 cents of your money to Wilt Chamberlain and I give 25 cents of my money to Wilt Chamberlain and our friend gives 25 cents of his money to Wilt Chamberlain and so on thousands and thousands of times. Until Wilt Chamberlain comes to have not the $100 with which each of us started out, but thousands and thousands and thousands of dollars.  In Nozick’s view any decision to take away any of the money which Wilt Chamberlain got through this voluntary and legitimate transaction is a violation of rights. **Then no distribution of income, including one in which 1% of the people own 99% of the wealth could ever be illegitimate because what matters is how it actually came into being.**
+		- Individual decisions that are acceptable, may be problematic if large numbers of people make those decisions
+
 
 --- 
+
+# Tragedy of the commons
+e.g. so suppose there is a green area where I let my cow graze and you let your cow graze and our neighbor lets his cow graze.  So far no problem, for each of our cows there is enough to eat, but suppose that each of us instead of having one cow has 50.
+
+- If you alone had 50 cows there would be no problem. 
+- If I alone had 50 cows there would be no problem, 
+- but if hundreds of us have 50 cows the entire green space will disappear and all of our cows will die.  
+
+This structure manifests itself in situation after situation.  Over fishing results from each of us taking what would be a fine amount of fish if were the only ones doing it, but an amount that becomes problematic if others are doing likewise.  Each of us polluting a small amount causes no problem.  All of us polluting together can lead to drastic consequences.
+
