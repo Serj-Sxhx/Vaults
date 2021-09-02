@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Democratic Education.md",
+            "file": "06 Notes/Learning power.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Democratic Education.md",
+                "file": "06 Notes/Learning power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
+    "06 Notes/Learning power.md",
     "Untitled.md",
     "06 Notes/Critical Mass.md",
     "My Pedagogic Creed.md",
@@ -132,7 +133,6 @@
     "Agency.md",
     "02 Areas/Newtwork Effects.md",
     "01 Projects/About & Work  - Serj Hunt.md",
-    "01 Projects/_PxP Homepage.md",
-    "02 Areas/Auger.md"
+    "01 Projects/_PxP Homepage.md"
   ]
 }
