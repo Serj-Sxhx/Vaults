@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Agency.md",
+            "file": "Political Philosophy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agency.md",
+                "file": "Political Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
+    "Untitled.md",
     "Agency.md",
     "02 Areas/Newtwork Effects.md",
     "01 Projects/About & Work  - Serj Hunt.md",
@@ -132,7 +133,6 @@
     "02 Areas/Anthropology.md",
     "06 Notes/Social Imaginary Artwork.md",
     "01 Projects/The Pedagogy of Tools for Thought.md",
-    "01 Projects/The Learning Experience Design Guide.md",
-    "01 Projects/The ecosystem for self-directed, lifelong learners..md"
+    "01 Projects/The Learning Experience Design Guide.md"
   ]
 }
