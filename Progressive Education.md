@@ -12,3 +12,8 @@
 -   De-emphasis on textbooks in favor of varied learning resources
 -   Emphasis on [lifelong learning](https://en.wikipedia.org/wiki/Lifelong_learning "Lifelong learning") and social skills
 -   Assessment by evaluation of child's projects and productions
+
+
+# Dewey
+
+ Information presented to the student will be transformed into new forms, images, and symbols by the student so that they fit with their development and interests. The development of this is natural. To repress this process and attempt to "substitute the adult for the child" (Dewey, 1897, para. 52) would weaken the intellectual curiosity of the child.

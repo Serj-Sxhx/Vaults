@@ -7,6 +7,9 @@ Type
 Tags 
 
 Links / References:
-
+[Critical pedagogy](https://en.wikipedia.org/wiki/Critical_pedagogy), 
+[Critical Consciousness](https://en.wikipedia.org/wiki/Critical_consciousness),
+[Critical Theory](https://en.wikipedia.org/wiki/Critical_theory)
+[Social Theory]()
 
 ---

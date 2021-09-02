@@ -1,0 +1,11 @@
+: Democratic education is often specifically emancipatory, with the students' voices being equal to the teacher's.
+
+In 1693, [John Locke](https://en.wikipedia.org/wiki/John_Locke "John Locke") published _[Some Thoughts Concerning Education](https://en.wikipedia.org/wiki/Some_Thoughts_Concerning_Education "Some Thoughts Concerning Education")_. In describing the teaching of children, he declares,
+
+> None of the things they are to learn, should ever be made a burthen to them, or impos'd on them as a task. Whatever is so propos'd, presently becomes irksome; the mind takes an aversion to it, though before it were a thing of delight or indifferency. Let a child but be order'd to whip his top at a certain time every day, whether he has or has not a mind to it; let this be but requir'd of him as a duty, wherein he must spend so many hours morning and afternoon, and see whether he will not soon be weary of any play at this rate.[[3]](https://en.wikipedia.org/wiki/Democratic_education#cite_note-3)
+
+[Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau "Jean-Jacques Rousseau")’s book of advice on education, _[Émile](https://en.wikipedia.org/wiki/Emile,_or_On_Education "Emile, or On Education")_, was first published in 1762. Émile, the imaginary pupil he uses for illustration, was only to learn what he could appreciate as useful.[[4]](https://en.wikipedia.org/wiki/Democratic_education#cite_note-4) He was to enjoy his lessons, and learn to rely on his own judgement and experience. “The tutor must not lay down precepts, he must let them be discovered,”[[5]](https://en.wikipedia.org/wiki/Democratic_education#cite_note-5) wrote Rousseau, and urged him not make Émile learn science, but let him discover it.[[6]](https://en.wikipedia.org/wiki/Democratic_education#cite_note-6) He also said that we should not substitute books for personal experience because this does not teach us to reason; it teaches us to use other people's reasoning; it teaches us to believe a great deal but never to know anything.
+
+# First Democratic School
+[Democratic School of Hadera](https://en.wikipedia.org/wiki/Democratic_School_of_Hadera)
+[Democratic School Conference](https://en.wikipedia.org/wiki/International_Democratic_Education_Conference)

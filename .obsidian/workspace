@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Progressive Education.md",
+            "file": "Democratic Education.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.0121879577637,
-    "collapsed": true
+    "width": 173.01218795776367
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progressive Education.md",
+                "file": "Democratic Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +124,15 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
-    "Progressive Education.md",
     "Untitled.md",
+    "06 Notes/Critical Mass.md",
+    "My Pedagogic Creed.md",
+    "John Dewey.md",
+    "Progressive Education.md",
     "Agency.md",
     "02 Areas/Newtwork Effects.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/_PxP Homepage.md",
-    "02 Areas/Auger.md",
-    "02 Areas/Anthropology.md",
-    "06 Notes/Social Imaginary Artwork.md",
-    "01 Projects/The Pedagogy of Tools for Thought.md"
+    "02 Areas/Auger.md"
   ]
 }
