@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/About & Work  - Serj Hunt.md",
-            "mode": "preview"
+            "file": "06 Notes/constructuvism.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 173.01218795776367,
-    "collapsed": true
+    "width": 299.0121879577637
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/About & Work  - Serj Hunt.md",
+                "file": "06 Notes/constructuvism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +124,15 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
-    "01 Projects/About & Work  - Serj Hunt.md",
+    "constructuvism.md",
+    "choice architecture.md",
+    "Artificial Inteligence.md",
+    "App Suggested Pathways.png",
     "Agency.md",
+    "01 Projects/The Pedagogy of Tools for Thought.md",
+    "01 Projects/The Learning Experience Design Guide.md",
+    "01 Projects/About & Work  - Serj Hunt.md",
     "02 Areas/Perennial Problems.md",
-    "06 Notes/Orientation to learning.md",
-    "06 Notes/Dimensions of learning power (Jearni).md",
-    "06 Notes/Belonging.md",
-    "06 Notes/Collaboration.md",
-    "06 Notes/Curiosity.md",
-    "06 Notes/Creativity.md",
-    "06 Notes/Sense-making.md"
+    "06 Notes/Orientation to learning.md"
   ]
 }
