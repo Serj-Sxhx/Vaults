@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+            "file": "06 Notes/Agency.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+                "file": "06 Notes/Agency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +124,7 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
+    "06 Notes/Agency.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "constructuvism.md",
     "choice architecture.md",
@@ -133,7 +133,6 @@
     "Agency.md",
     "01 Projects/The Pedagogy of Tools for Thought.md",
     "01 Projects/The Learning Experience Design Guide.md",
-    "01 Projects/About & Work  - Serj Hunt.md",
-    "02 Areas/Perennial Problems.md"
+    "01 Projects/About & Work  - Serj Hunt.md"
   ]
 }
