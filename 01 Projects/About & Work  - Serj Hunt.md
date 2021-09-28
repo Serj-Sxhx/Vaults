@@ -2,7 +2,7 @@
 
 Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating tools and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
 
-I'm a learning experience designer (UX / LXD), associate at [Jearni Sciences CIC](https://www.linkedin.com/company/jearni/) and independent researcher. My research is focused on learner agency, self directed learning [[Learning power]] and humane technology through a 4E cognitive science lens.
+I'm a learning experience designer (UX / LXD), associate at [Jearni Sciences CIC](https://www.linkedin.com/company/jearni/) and independent researcher. My research is focused on learner agency, self directed learning [[Learning power]] and 
 
 I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with content creation and Instructional Design for training. 
 
@@ -12,7 +12,7 @@ I've also lead workshops for ed-tech / future of work founders via [Transcend Ne
 
 I run an online lab and community exploring the intersection of Tools for Thought and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
 
-I'm also hacking on tools for self-directed learning [@Vivid](https://www.vivid.so/)
+I'm also hacking on A.I tools for self-directed learning [@Vivid](https://www.vivid.so/)
 
 Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, and what facilities and resources should/nt exist.
 
@@ -26,18 +26,18 @@ If you've landed here, chances are, you're probably familiar with some of my wor
 
 **🔍 Why Ed-Tech has failed to disrupt the classroom and alternate approaches to designing & deploying.**
 
-**🔍  Adaptive & high agency learners, and how to support [[Guy Claxton]]'s notion of 'Results +'**
+**🔍  Adaptive & high agency learners and development of character identity 
 
 **🔍 Cross-cultural anthropological studies on human development, learning networks and communities of practice.**
 
-**🔍 Intergenerational & Inter-Org Knowledge - What can we learn from the longest enduring organizations? What and whose knowledge should be preserved and passed on to future generations / How and why will it be taught?**
+**🔍 Intergenerational & Inter-Org Knowledge Transfer - What can we learn from the longest enduring organizations? What and whose knowledge should be preserved and passed on to future generations / How and why will it be taught?**
 
 **🔍 Scenius, Matchmaking and CrowdSource Problem Solving - What teaching, learning and relating is best to foster scenius? What technologies will help us solve problems together?**
 
 
 Generally I'm interested in designing trusted learning outside of changing how schools operate or single programmes.
 
-I love questions of what new conditions or environments are required for people to engage and practice new behaviours, and explore meaning-making outside of becoming useful to a labour market. 
+I love questions of what new conditions or environments are required for people to engage and practice new behaviours, and explore meaning-making outside of becoming useful to a labor market. 
 
 I've often found the conversation around what the best school might be, to be an un-fruitful line of inquiry. That's because I believe many of the issues we face in education are downstream of larger global systems such as healthcare, economics and military systems.
 
