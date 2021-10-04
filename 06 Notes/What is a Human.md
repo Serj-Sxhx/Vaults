@@ -30,7 +30,7 @@ Attention
 Intentions 
 
 
-Thoughts: 
+Thoughts 
 Beliefs
 Emotions
 Intentions
