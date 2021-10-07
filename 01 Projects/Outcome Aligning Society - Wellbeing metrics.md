@@ -24,7 +24,7 @@ Can we tether the lifeblood of our economyâ€”cashflow, attention, and resourcesâ
 
 **Perennial Problems psychometric assessment survey.**
 
-![Wooden Hand iPhone 12 Pro.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6d24063-f054-4d21-8b97-f72c66d4dcad/Wooden_Hand_iPhone_12_Pro.png)
+![[Wooden Hand iPhone 12 Pro.png]]
 
 `User flow`
 

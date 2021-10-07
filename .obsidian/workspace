@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06 Notes/Creativity.md",
-            "mode": "source"
+            "file": "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/Creativity.md",
+                "file": "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +124,15 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
+    "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
+    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+    "01 Projects/The Learning Experience Design Guide.md",
+    "01 Projects/The Pedagogy of Tools for Thought.md",
     "06 Notes/Creativity.md",
     "06 Notes/Sense-making.md",
     "06 Notes/What is a Human.md",
     "05 Daily Notes/2021-04-05.md",
-    "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
     "Untitled.md",
-    "01 Projects/Matchmaking by Curiocity.md",
-    "City as a classroom - Lit Note.md",
-    "City as a School.png",
-    "Guild - New Community Bussiness Model(27).md"
+    "01 Projects/Matchmaking by Curiocity.md"
   ]
 }
