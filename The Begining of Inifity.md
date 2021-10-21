@@ -25,19 +25,7 @@ so on.
 ### Falibalism 
 
 
-Fallibilists expect even their best and most
-
-fundamental explanations to contain misconceptions in addition to
-
-truth, and so they are predisposed to try to change them for the better.
-
-      
-
-So it is fallibilism, not mere rejection of authority, that is
-
-essential for the initiation of unlimited knowledge growth – the
-
-beginning of infinity.
+Fallibilists expect even their best and most fundamental explanations to contain misconceptions in addition to truth, and so they are predisposed to try to change them for the better. So it is fallibilism, not mere rejection of authority, that is essential for the initiation of unlimited knowledge growth – the beginning of infinity.
 
 
 ### Conjecture 
