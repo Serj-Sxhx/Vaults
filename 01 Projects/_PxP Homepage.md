@@ -44,13 +44,13 @@ _Still moving notes from Notion - Open theses for each core theme coming soon_
 
 **🔍 Why Ed-Tech has failed to disrupt the classroom and alternate approaches to designing & deploying.**
 
-**🔍 Adaptive & high agency learners, and how to support [[Guy Claxton]]'s' notion of 'Results +'**
+**🔍 Adaptive & high agency learners by supporting [[Learning power]]**
 
 **🔍 Cross cultural anthropological studies on human development, learning networks and communities of practice.**
 
 **🔍 Intergenerational & Inter-Org Knowledge - What can we learn from the longest enduring organisations? What and whose knowledge should be preserved and passed on to future generations / How and why will it be taught?**
 
-**🔍 Scenius, Matchmaking and Crowdsource Problem Solving - What teaching, learning and relating is best to foster scenius? What technologies will help us solve problems together?**
+**🔍 Scenius, Matchmaking and Crowdsource Problem Solving - What teaching, learning and relating is best to foster scenius? What technologies will help us solve problems together, co-ordinate, learn together and develop our collective intelligence?**
 
 ---
 
