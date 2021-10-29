@@ -1,5 +1,5 @@
 ## Welcome to my public Notes
-[Website](https://paideiaxpraxis.com/) | [Youtube](https://www.youtube.com/channel/UCaVg9NP0mQ093iNfWTID8Zg) | [Twitter](https://twitter.com/Serjhunt_ARK) | [Notion Templates](https://gumroad.com/paideiaxpraxis) |
+[Website](https://paideiaxpraxis.com/) | [Youtube](https://www.youtube.com/channel/UCaVg9NP0mQ093iNfWTID8Zg) | [Twitter](https://twitter.com/Serjhunt_ARK) | [Notion Templates](https://gumroad.com/paideiaxpraxis) | [CV](https://read.cv/serjhunt)
 
 *Initializing...*
  [[About & Work  - Serj Hunt]]

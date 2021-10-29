@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06 Notes/Agency.md",
-            "mode": "source"
+            "file": "01 Projects/_PxP Homepage.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/Agency.md",
+                "file": "01 Projects/_PxP Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
-    "06 Notes/Agency.md",
     "01 Projects/_PxP Homepage.md",
+    "01 Projects/About & Work  - Serj Hunt.md",
+    "06 Notes/Agency.md",
     "The Begining of Inifity.md",
     "Untitled.md",
     "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
     "06 Notes/Course Design Formula.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "01 Projects/The Learning Experience Design Guide.md",
-    "01 Projects/The Pedagogy of Tools for Thought.md",
-    "06 Notes/Creativity.md"
+    "01 Projects/The Pedagogy of Tools for Thought.md"
   ]
 }

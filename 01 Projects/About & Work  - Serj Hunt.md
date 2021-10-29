@@ -56,6 +56,8 @@ Underlying all this is a belief; That children are the key to the shackles creat
 
 *slow to update...Moving Portfolio from Notion*
 
+[Click to view CV](https://read.cv/serjhunt)
+
 ### Projects
 
 *Current*
