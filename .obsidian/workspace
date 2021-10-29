@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/_PxP Homepage.md",
+            "file": "06 Notes/Agency.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/_PxP Homepage.md",
+                "file": "06 Notes/Agency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
-    "01 Projects/_PxP Homepage.md",
     "06 Notes/Agency.md",
+    "01 Projects/_PxP Homepage.md",
     "The Begining of Inifity.md",
     "Untitled.md",
     "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
