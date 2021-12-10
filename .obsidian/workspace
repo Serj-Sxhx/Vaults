@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 Areas/Wisdom.md",
+            "file": "01 Projects/_PxP Homepage.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Areas/Wisdom.md",
+                "file": "01 Projects/_PxP Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,13 +119,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
-    "02 Areas/Wisdom.md",
     "01 Projects/_PxP Homepage.md",
     "01 Projects/About & Work  - Serj Hunt.md",
+    "02 Areas/Wisdom.md",
     "06 Notes/Agency.md",
     "The Begining of Inifity.md",
     "Untitled.md",
