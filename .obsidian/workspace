@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/_PxP Homepage.md",
-            "mode": "preview"
+            "file": "Age of Augmentation.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/_PxP Homepage.md",
+                "file": "Age of Augmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
   },
   "active": "e08f20583e9868c9",
   "lastOpenFiles": [
+    "Age of Augmentation.md",
     "01 Projects/_PxP Homepage.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "02 Areas/Wisdom.md",
     "06 Notes/Agency.md",
     "The Begining of Inifity.md",
-    "Untitled.md",
     "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
     "06 Notes/Course Design Formula.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
