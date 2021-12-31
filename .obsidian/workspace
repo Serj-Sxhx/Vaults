@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e08f20583e9868c9",
+        "id": "2409c5626a67dc80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Age of Augmentation.md",
-            "mode": "source"
+            "file": "01 Projects/About & Work  - Serj Hunt.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -22,9 +23,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf81bd1fcf3aba36",
+        "id": "c3d36ead5881f58f",
         "type": "tabs",
         "children": [
+          {
+            "id": "e08f20583e9868c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Age of Augmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "874292d2bd1072c5",
             "type": "leaf",
@@ -48,11 +61,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.0121879577637
+    "width": 267
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Age of Augmentation.md",
+                "file": "01 Projects/About & Work  - Serj Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e08f20583e9868c9",
+  "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "Age of Augmentation.md",
-    "01 Projects/_PxP Homepage.md",
     "01 Projects/About & Work  - Serj Hunt.md",
-    "02 Areas/Wisdom.md",
-    "06 Notes/Agency.md",
-    "The Begining of Inifity.md",
-    "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
-    "06 Notes/Course Design Formula.md",
-    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
-    "01 Projects/The Learning Experience Design Guide.md"
+    "01 Projects/_PxP Homepage.md",
+    "01 Projects/Live and Learn Together Handbook.md",
+    "John Dewey.md",
+    "Learning Moai.md",
+    "NeuroScience.md",
+    "Logo (1).png",
+    "LRS(Ledger) (2).png",
+    "Guild - New Community Bussiness Model(27).md",
+    "01 Projects/Matchmaking by Curiocity.md"
   ]
 }

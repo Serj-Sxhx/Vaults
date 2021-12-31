@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "zoom-image"
   ],
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "translucency": false
 }
