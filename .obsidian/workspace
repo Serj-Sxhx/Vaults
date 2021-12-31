@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/About & Work  - Serj Hunt.md",
+            "file": "01 Projects/_PxP Homepage.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/About & Work  - Serj Hunt.md",
+                "file": "01 Projects/_PxP Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,8 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/_PxP Homepage.md",
+    "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/Live and Learn Together Handbook.md",
     "John Dewey.md",
     "Learning Moai.md",
