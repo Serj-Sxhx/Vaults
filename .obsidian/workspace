@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/_PxP Homepage.md",
+            "file": "06 Notes/Field Tripping @School.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "structural",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/_PxP Homepage.md",
+                "file": "06 Notes/Field Tripping @School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,7 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "06 Notes/Field Tripping @School.md",
     "01 Projects/_PxP Homepage.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/Live and Learn Together Handbook.md",
@@ -146,7 +147,6 @@
     "NeuroScience.md",
     "Logo (1).png",
     "LRS(Ledger) (2).png",
-    "Guild - New Community Bussiness Model(27).md",
-    "01 Projects/Matchmaking by Curiocity.md"
+    "Guild - New Community Bussiness Model(27).md"
   ]
 }
