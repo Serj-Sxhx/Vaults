@@ -87,29 +87,9 @@ The most striking episodes of human progress actually come from advances in our 
 
 Here are some examples of the distinction:
 
-  
+![[Screenshot 2022-01-06 at 12.06.11.png]]
 
-Participation Technology
 
-General Technology
-
-Tools cultivating shared interests
-
-Tools privileging their wielders
-
-Education (Wikipedia, investigative journalism, liberal education: practices that aim for full epistemic equality between participants.)
-
-Propaganda (Facebook, public relations, certain kinds of professional training: practices that do not aim for epistemic equality between participants.)
-
-Democracy (Pol.is, quadratic voting, in-person deliberative techniques)
-
-Hierarchy (surveillance technology, physical coercion technology)
-
-Conversation Facilitation AI (AI designed to provide helpful and transparent context for interactions between humans, like a mediator or facilitator)
-
-Human Manipulation AI (AI designed to deceive or influence humans for a third party’s purposes)
-
-  
 
 Participation technologies can improve just as substantively and exponentially as any other technologies! However, the market under-invests in them, because their gains are inherently more widely distributed, and less capturable for private-gain-seeking shareholders. This is a big part of the problem with capitalism, that we hope to help address.
 
