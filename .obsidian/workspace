@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+            "file": "4 Identities of a Teacher.md",
             "mode": "source",
             "source": false
           }
@@ -26,18 +26,6 @@
         "id": "c3d36ead5881f58f",
         "type": "tabs",
         "children": [
-          {
-            "id": "e08f20583e9868c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Age of Augmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "874292d2bd1072c5",
             "type": "leaf",
@@ -61,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+                "file": "4 Identities of a Teacher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +124,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "4 Identities of a Teacher.md",
+    "Auger.md",
+    "About RadicalxChange.md",
+    "01 Projects/About & Work  - Serj Hunt.md",
+    "01 Projects/The Pedagogy of Tools for Thought.md",
+    "01 Projects/The Learning Experience Design Guide.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
-    "About Radical x Change.md",
     "06 Notes/Field Tripping @School.md",
     "01 Projects/_PxP Homepage.md",
-    "01 Projects/About & Work  - Serj Hunt.md",
-    "01 Projects/Live and Learn Together Handbook.md",
-    "John Dewey.md",
-    "Learning Moai.md",
-    "NeuroScience.md",
-    "Logo (1).png"
+    "01 Projects/Live and Learn Together Handbook.md"
   ]
 }

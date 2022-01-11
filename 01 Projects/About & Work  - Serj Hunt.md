@@ -12,11 +12,11 @@ I've also lead workshops for ed-tech / future of work founders via [Transcend Ne
 
 I run an online lab and community exploring the intersection of Tools for Thought and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
 
-I'm also hacking on A.I tools for self-directed learning [@Vivid](https://www.vivid.so/)
+I'm also hacking on A.I tools for self-directed learning using GPT-3 and other Language models.
 
 Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, and what facilities and resources should/nt exist.
 
- Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational political / civic technologies, inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
+ Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational [[participatory / civic technologies]], inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
  
 ---
 
