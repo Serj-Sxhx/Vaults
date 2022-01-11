@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "About Radical x Change.md",
+            "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About Radical x Change.md",
+                "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,11 +133,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "About Radical x Change.md",
     "06 Notes/Field Tripping @School.md",
     "01 Projects/_PxP Homepage.md",
@@ -146,7 +146,6 @@
     "John Dewey.md",
     "Learning Moai.md",
     "NeuroScience.md",
-    "Logo (1).png",
-    "LRS(Ledger) (2).png"
+    "Logo (1).png"
   ]
 }
