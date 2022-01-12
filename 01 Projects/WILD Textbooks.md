@@ -1,4 +1,3 @@
-https://twitter.com/andy_matuschak/status/1377488092131553281
 
 My friend
 
