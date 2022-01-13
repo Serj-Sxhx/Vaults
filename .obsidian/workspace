@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cultivating Organic Learning environments.md",
+            "file": "01 Projects/About & Work  - Serj Hunt.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultivating Organic Learning environments.md",
+                "file": "01 Projects/About & Work  - Serj Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "01 Projects/About & Work  - Serj Hunt.md",
+    "01 Projects/_PxP Homepage.md",
     "Cultivating Organic Learning environments.md",
     "01 Projects/WILD Textbooks.md",
     "Wooden Hand iPhone 12 Pro.png",
@@ -131,8 +133,6 @@
     "NeuroScience.md",
     "Moai Teachback.md",
     "Measuring Understanding (1).png",
-    "Measuring Understanding.png",
-    "Manager Dashboard.png",
-    "LRS(Ledger) (2).png"
+    "Measuring Understanding.png"
   ]
 }

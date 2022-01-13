@@ -14,6 +14,8 @@ I run an online lab and community exploring the intersection of Tools for Though
 
 I'm also hacking on A.I tools for self-directed learning using GPT-3 and other Language models.
 
+I consult and coach a maximum of three individuals and/or organisations a year that are working on a project with significant potential for creating a more hopeful, humane, inspiring and empowering education ecosystem. 
+
 Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, and what facilities and resources should/nt exist.
 
  Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational [[participatory / civic technologies]], inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
