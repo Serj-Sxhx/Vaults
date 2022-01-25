@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Enabling the 'Golden age of pedagogy'.md",
-            "mode": "source",
-            "source": false
+            "file": "Cultivating Organic Learning environments.md",
+            "mode": "source"
           }
         }
       }
@@ -53,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enabling the 'Golden age of pedagogy'.md",
+                "file": "Cultivating Organic Learning environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +123,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "Enabling the 'Golden age of pedagogy'.md",
+    "Cultivating Organic Learning environments.md",
+    "4 Identities of a Teacher.md",
+    "01 Projects/Matchmaking by Curiocity.md",
+    "01 Projects/Age of Augmentation.md",
+    "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
-    "01 Projects/WILD Textbooks.md",
     "01 Projects/The Learning Experience Design Guide.md",
     "01 Projects/The Pedagogy of Tools for Thought.md",
-    "01 Projects/About & Work  - Serj Hunt.md",
-    "01 Projects/_PxP Homepage.md",
-    "Cultivating Organic Learning environments.md",
-    "Wooden Hand iPhone 12 Pro.png",
-    "My Pedagogic Creed.md"
+    "01 Projects/WILD Textbooks.md",
+    "01 Projects/Enabling the 'Golden age of pedagogy'.md"
   ]
 }

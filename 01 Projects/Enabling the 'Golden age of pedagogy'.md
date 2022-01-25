@@ -1,16 +1,13 @@
-This note is in response to Ray Girn's article on Montessorium.com, titled 'The Coming Golden Age of Pedagogy'
+This note is in response to Ray Girn's article on Montessorium.com, titled ['The Coming Golden Age of Pedagogy'].(https://montessorium.com/initiatives/montessori-in-the-digital-age)
 
-His thesis is 
+Ray's thesis is 
 
-> Thesis:the promise of ed tech, to be realized, is wholly dependent on the understanding and adoption of a fresh pedagogical framework.
+> : the promise of ed tech, to be realized, is wholly dependent on the understanding and adoption of a fresh pedagogical framework.
 
 
+How does it need to be distinct from our current pedagogy.
 
-What is a fresh pedagogical framework? How does it need to be disctinct from our current pedagogy.
-
-Software has not yet 'disrupted' education. 
-
-What is stopping software from transforming education?
+Software has not yet 'disrupted' education. What is stopping software from transforming education?
 
 What else could it be besides the usual culprits of a lack of incentives and insufficient financing?
 
@@ -28,7 +25,7 @@ How might we optimise a recommendation engine for learning?
 
 The web is rife with content that is optimised for engagement, not learning. For edu-tainment to be both engaging and conducive to learning we have to provide robust ways to integrate thinking and doing in our content.
 
-Gaming and gamification has long been held as the best way to interweave thought and action. 
+Gaming and gamification has revered as on of the the best ways to interweave thought and action. 
 Enabling flow in learning is essential to bridge the gap. 
 
 Some pedagogical problems:
@@ -43,7 +40,21 @@ Wha is the relationship between between cognitive development, character develop
 
 > As the printing press made possible books in the vernacular, unlocking freedom of conscience; as property rights made possible industry, unlocking material abundance; so software promises to make possible high-agency pedagogy and to unlock human self-creation.
 
-Buy the software alone is not sufficient, we need a new approach to pedagogy which provides answers to some of these deepest questions. Rebuilding the core of pedagogy will require us to disrupt some bedrock of everyday life, approaches like self directed learning, mon
+Buy the software alone is not sufficient, we need a new approach to pedagogy which provides answers to some of these deepest questions. Rebuilding the core of pedagogy will require us to disrupt some bedrock of everyday life, approaches like self directed learning and Montessori, challenge the whole teacher student relationship. 
+
+How should teacherly authority be established and acted on in practice? What is our agreed upon legitimation process for our 'teachers'?
+
+How can software be a portal to learning in 'the real world' by enabling more and better affordance for doing in and out of school? 
+
+>It’s likely that AR and VR will find education to be their most valuable niche—once the pedagogy becomes clear. AI will serve agency rather than undercut it—once the pedagogy becomes clear.
+
+>  To master our own development is to master our own futures.It is *the* means of fully adapting to the dislocations of the Information Age. It renders it a force for maturation.
+
+>So will software eat education? Yes. 
+>
+>But what’s far, far more: in so doing, it will eat pedagogy. The result will be the most radical transformation in our ability to serve the human potential. And it will be glorious.
+
+Pedagogy will eat software
 
 ---
 Type 
