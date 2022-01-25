@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/About & Work  - Serj Hunt.md",
+            "file": "Enabling the 'Golden age of pedagogy'.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/About & Work  - Serj Hunt.md",
+                "file": "Enabling the 'Golden age of pedagogy'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,24 +116,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "Enabling the 'Golden age of pedagogy'.md",
+    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+    "01 Projects/WILD Textbooks.md",
+    "01 Projects/The Learning Experience Design Guide.md",
+    "01 Projects/The Pedagogy of Tools for Thought.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/_PxP Homepage.md",
     "Cultivating Organic Learning environments.md",
-    "01 Projects/WILD Textbooks.md",
     "Wooden Hand iPhone 12 Pro.png",
-    "My Pedagogic Creed.md",
-    "NeuroScience.md",
-    "Moai Teachback.md",
-    "Measuring Understanding (1).png",
-    "Measuring Understanding.png"
+    "My Pedagogic Creed.md"
   ]
 }
