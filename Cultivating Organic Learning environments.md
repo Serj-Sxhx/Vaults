@@ -38,31 +38,12 @@ center he used this as an illustrative
 
 example of a philosophy that he called
 
-counter productivity where he said that
+[[counter productivity]] where he said
 
-technologies tend to bring efficiencies
 
-up until a certain point of application
+Technologies tend to bring efficiencies up until a certain point of application and beyond that point of application they tend to bring inefficiencies in exactly the opposite direction of the purpose for which they were intended and this is true not just for automobiles but lots of things from antibiotics to emails
 
-and beyond that point of application
-
-they tend to bring inefficiencies in
-
-exactly the opposite direction of the
-
-purpose for which they were intended and
-
-this is true not just for automobiles
-
-but lots of things from antibiotics to
-
-emails and I think I think about this a
-
-lot because I make technologies and I'd
-
-like them to do what I like them to do
-
-and I think the problem is not in
+the problem is not in
 
 technology per se but in the kind of
 
