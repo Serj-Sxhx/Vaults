@@ -2,12 +2,15 @@ This note is in response to Ray Girn's article on Montessorium.com, titled ['The
 
 Ray's thesis is 
 
-> : the promise of ed tech, to be realized, is wholly dependent on the understanding and adoption of a fresh pedagogical framework.
+> The promise of ed tech, to be realized, is wholly dependent on the understanding and adoption of a fresh pedagogical framework.
 
 
-How does it need to be distinct from our current pedagogy.
+How does it need to be distinct from our public school pedagogy.
 
 Software has not yet 'disrupted' education. What is stopping software from transforming education?
+Many technologists hold the belief that the technology will be broad sweeping like a bulldozer and clear out the old paradigm and usher in a new ear for human potential. However introducing technology into such entrenched systems as our public school system, still requires a long developmental process for the educator. A process of discovering new knowledge of a technology, being persuaded to use it, deciding that they will try it, then rejecting or accepting it. And if you're lucky, they might go on to try new features and progressively use new features as they become more confident with it in practice. 
+
+Perhaps what's new is that the demands of educators are now reaching breakpoints, many will rapidly adopt new technology, innovate or adapt to survive the complexity and workload.
 
 What else could it be besides the usual culprits of a lack of incentives and insufficient financing?
 
@@ -26,6 +29,7 @@ How might we optimise a recommendation engine for learning?
 The web is rife with content that is optimised for engagement, not learning. For edu-tainment to be both engaging and conducive to learning we have to provide robust ways to integrate thinking and doing in our content.
 
 Gaming and gamification has revered as on of the the best ways to interweave thought and action. 
+
 Enabling flow in learning is essential to bridge the gap. 
 
 Some pedagogical problems:
@@ -36,7 +40,7 @@ Some pedagogical problems:
 4.  What is the nature of healthy, sustainable motivation, and how do we systematically inspire it in individual learners?
 5.  A big one: how do we *combine solutions* to the above so that they don’t trade off against one another?
 
-Wha is the relationship between between cognitive development, character development, enculturation, and vocational training.
+What is the relationship between between cognitive development, character development, enculturation, and vocational training.
 
 > As the printing press made possible books in the vernacular, unlocking freedom of conscience; as property rights made possible industry, unlocking material abundance; so software promises to make possible high-agency pedagogy and to unlock human self-creation.
 
