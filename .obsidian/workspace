@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 Projects/Enabling the 'Golden age of pedagogy'.md",
+            "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/Enabling the 'Golden age of pedagogy'.md",
+                "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +123,7 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "01 Projects/Enabling the 'Golden age of pedagogy'.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/Age of Augmentation.md",
@@ -131,7 +131,6 @@
     "4 Identities of a Teacher.md",
     "01 Projects/Matchmaking by Curiocity.md",
     "01 Projects/Outcome Aligning Society - Wellbeing metrics.md",
-    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "01 Projects/The Learning Experience Design Guide.md",
     "01 Projects/The Pedagogy of Tools for Thought.md"
   ]
