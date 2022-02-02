@@ -8,7 +8,7 @@ It's pretty undisputed that learning to learn, being a critical self-directed li
 
 "Over the next century, scholars and fans aided by computational algorithms, will knit together the books of the world into a single networked literature. A reader will be able to generate a social graph of an idea, or timeline of a concept, or a networked map of influence for any notion in the library. We'll come to understand that no work, no idea, stands truly alone, but that all good true and beautiful things are networks, ecosystems of intertwined parts, related entities and similar works" - **Kevin Kelly - Editor Wired Magazine**
 
-[[Zachery Stein]], [[Ivan Illich]], and many other pioneers in educational philosophy all point to a converging new form of learning configuration. The ecosystem. 
+[[Zachery Stein]], [[Ivan Illich]], [[]] and many other pioneers in educational philosophy all point to a converging new form of learning configuration. The ecosystem. 
 
 My goal in this note is to synthesize they ideas presented to outline a schema of the proposed system, it's mechanisms, assumptions and finally experiments by which we can reduce risk and uncertainty in the project.  
   
