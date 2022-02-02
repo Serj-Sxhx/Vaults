@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History of Education.md",
-            "mode": "preview"
+            "file": "1. History Of Education in Antiquity.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scaf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of Education.md",
+                "file": "1. History Of Education in Antiquity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +123,7 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "1. History Of Education in Antiquity.md",
     "History of Education.md",
     "01 Projects/The Learning Experience Design Guide.md",
     "01 Projects/Enabling the 'Golden age of pedagogy'.md",
@@ -133,7 +132,6 @@
     "01 Projects/About & Work  - Serj Hunt.md",
     "01 Projects/Age of Augmentation.md",
     "Cultivating Organic Learning environments.md",
-    "4 Identities of a Teacher.md",
-    "01 Projects/Matchmaking by Curiocity.md"
+    "4 Identities of a Teacher.md"
   ]
 }
