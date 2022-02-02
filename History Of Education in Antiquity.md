@@ -130,4 +130,53 @@ Dewey - New left in the 60s
 - Constructivist - Critique the sage on the stage, 
 - John mcwarder - Linguistics Professor
 	- Audible History of language
-	- 
+
+### Orienting in Antiquity 600BCE
+![[Screenshot 2022-02-02 at 09.41.16.png]]
+
+- Greece is sharing religions and 
+- Oral culture thats starting to become literary 
+- Organized by Polity
+
+- For citizen, this meant that you had a polical say
+	- you got more as a citizen
+	- Mainly Vocational teaching from father to son
+		- Teaching a son a profession meant assistance in it from him when he’s young and support for you when you are old.
+	- for citizen, more literacy, physical education and "music" [[Musica]]
+		- Music and literature (Poems to song)
+		- Homer and Hecied 
+	- A school model is being added to a tutelage model
+		- You hire or pay / or send your child for tutelage by a wise uncle or expert 
+		- Gymnastics 
+		- Gymnastics tended to become a larger focus as the child gets older, with Sparta being an exception. In other words middle school-high school age was a high point usually for gymnastics
+	- Delivered in roughly elementary / middle school years
+	- 6/7 - 14 with error bars 
+	- Middle school isn't invented until 20th 
+- Book 8 of the politics
+	- Music is a big part of the educational discourse in Antiquity
+	- Aristotle expressing opinions of what instrument to play and what modes are befitting of what kind of man you are.
+	- Mixolydian mode is bad for you
+	- Dorian 
+
+# Why is music so big in educational discourse in 600BCE? 
+
+- Character and moral development to teach the cultural core?
+	- They want the kids of scales and music which stirrs the soul the right way and what music invokes that 'correct' character.
+- Another theory: music was the MEDIUM of transmission (our medium is writing) and we do a lot of talking about what good writing is (strunk and white) and even what tools we use to write (twitter, note-taking tools, etc)
+- Music by default became a part of greek education. It was already there and then it became formalized and then people a
+- Education emerges from an existing set of existing set of cultural practices.
+- Initially, musikē is just “things of the muses” so poetry in general, and poetry was set to music. So for an oral culture, this was “literature”. The elements that we call “musical
+- Okay so that's music
+
+# What about Literature in musikē 
+
+![[Screenshot 2022-02-02 at 09.59.28.png]]
+
+- What educational value could you get out of this passage?
+- Given 7-14 year olds, what educational value could you get out of this.
+- **Performance aspect**: Learn it, enncat it, perform it. 
+- **Homer for Moral Development**: 
+- **Teach as Literature:** Whats going on here and ask how it relates to one's own experiences.
+- **Structure**: A tool for literacy You know this punctuation and grammar and meter away. 
+	- Literary technology for doing punctuation and writing did not exist in 600BCE
+	- Dactyllic hexameter
