@@ -60,7 +60,7 @@ Theognis Elegies 27-38
 
 *This particular text is a good example of learning through association with other members of the polis, probably one’s elders, and thus it taps into the theme of education— particularly moral education—through society.*
 
-
+# Live Call Notes
 ---
 
 - Trying to understand education now
@@ -74,8 +74,60 @@ Theognis Elegies 27-38
 - Beuracratic bloat 
 
 
+### Progressive
 - Two big narrative, related but both cant be true 
 	-	Factory model narrative e.g. Sir ken robinson
 	-	Pre 19th is already rote, authority, 
 	-	19th / 20th centenary shift to prepare people for industry
 	-	You get a school which resembles in it's pedagogy a factory line
+		-	Brian Kaplan
+	- Big part of the progressive critique 
+	- Educational wastelands - Author Bestor
+	- Out of Our Minds
+
+### Critique
+- Wasn't industrial development further along in the UK before the US?
+- Did the north industrial
+- 
+- Tom Sawyer - Skipping school in 1800s 
+	- Whats going wrong in education precedes the industrial
+- 
+Adler 
+Hursh
+
+Reussau 
+Locke
+Dewey - New left in the 60s
+
+
+### Traditionalist 
+- It's premised on teaching you stuff that you need to know
+	- It delivers a cultural core (Social Scientific,) that varies by time and place
+		- Homer
+		- Bible
+		- Moral Dense materials
+		- It's not
+
+### Critique
+- was it the case that we had the learning and student experience really achieving its goal
+- That whats progressive educators touch turns to dust.
+
+
+### Montessori
+- One of the best critiques of traditional education
+
+
+### Other
+- The history of philosophy without gaps
+
+- Preleminerary 
+- Bias 
+- How 
+- Who 
+- Certification and Credits
+
+
+- Constructivist - Critique the sage on the stage, 
+- John mcwarder - Linguistics Professor
+	- Audible History of language
+	- 
