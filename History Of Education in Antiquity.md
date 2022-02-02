@@ -158,25 +158,64 @@ Dewey - New left in the 60s
 	- Mixolydian mode is bad for you
 	- Dorian 
 
-# Why is music so big in educational discourse in 600BCE? 
+### Why is music so big in educational discourse in 600BCE? 
 
 - Character and moral development to teach the cultural core?
 	- They want the kids of scales and music which stirrs the soul the right way and what music invokes that 'correct' character.
 - Another theory: music was the MEDIUM of transmission (our medium is writing) and we do a lot of talking about what good writing is (strunk and white) and even what tools we use to write (twitter, note-taking tools, etc)
 - Music by default became a part of greek education. It was already there and then it became formalized and then people a
-- Education emerges from an existing set of existing set of cultural practices.
+> Education emerges from an existing set of existing set of cultural practices, it's only 
 - Initially, musikē is just “things of the muses” so poetry in general, and poetry was set to music. So for an oral culture, this was “literature”. The elements that we call “musical
 - Okay so that's music
 
-# What about Literature in musikē 
+### What about Literature in musikē 
 
 ![[Screenshot 2022-02-02 at 09.59.28.png]]
 
 - What educational value could you get out of this passage?
 - Given 7-14 year olds, what educational value could you get out of this.
 - **Performance aspect**: Learn it, enncat it, perform it. 
-- **Homer for Moral Development**: 
+- **Homer for Moral edification**: This is morally loaded content, oration is a high virtue
 - **Teach as Literature:** Whats going on here and ask how it relates to one's own experiences.
 - **Structure**: A tool for literacy You know this punctuation and grammar and meter away. 
 	- Literary technology for doing punctuation and writing did not exist in 600BCE
 	- Dactyllic hexameter
+
+
+### Politics 8 - Aristotle 
+![[Screenshot 2022-02-02 at 10.11.33.png]]
+
+- What constitutes education 
+- What is the proper way to be educated
+- There is dissagrement on what to learn
+- Practically oriented, moraly edifying, or intellectual 
+- For a start all men do not share the same virtues so how can they agree
+- Its a modern phenomenon that we don't see virtue as central to the goals of education
+
+## Challenges and changes in
+https://montessorium.com/blog/early-skepticism-education
+- **Skeptical of education 
+	- The claim of the educator
+		- I can fix people
+		- If doctors can set bones. 
+		- I can make people wise
+	- ![[Screenshot 2022-02-02 at 10.19.34.png]]
+	- Talent is better. some people got it, some don't and you should just accept that. It's bleak
+	- Saying that we teach people to be smarter and wiser and have good live - I make people smarter better
+	- **I can point you to the context, you can be taught by the environment**
+- **Canceling Homer (btw homer is never canceled - Why?)**
+	- Homer didn't understand the metaphysical nature of reality
+	- People in homer don't behave that well
+	- People and the gods don't behave that well 
+		- If you take the Illiad straight, why are you presenting the gods in this way if we're going to emulate them.
+
+
+![[Screenshot 2022-02-02 at 10.30.25.png]]
+
+
+
+A theory of moral development 
+- Values in Expressive environments
+- [[Outcome Aligning Society - Wellbeing metrics]]
+
+- In what ways does growing up in a certain society impact human development
