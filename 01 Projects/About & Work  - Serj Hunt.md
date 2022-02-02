@@ -2,15 +2,15 @@
 
 Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating tools and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
 
-I'm a learning experience designer (UX / LXD), associate at [Jearni Sciences CIC](https://www.linkedin.com/company/jearni/) and independent researcher. My research is focused on learner agency, self directed learning [[Learning power]] and 
+I'm a learning experience designer (UX / LXD), Product Manager at [Gaileo](https://galileoxp.com/), associate at [Wild Learning Sciences CIC](linkedin.com/company/wildlearning) independent researcher. My research is focused on learner agency, self directed learning [[Learning power]] and [[Expressive Pedagogy]]
 
-I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with content creation and Instructional Design for training. 
+I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with content creation and instructional design for training teams in a variety of sectors. 
 
-I've been involved in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/) and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to learning networks and ed-tech.
+I've been involved in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to learning networks and ed-tech.
 
-I've also lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
+I occasionally lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
 
-I run an online lab and community exploring the intersection of Tools for Thought and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
+I turn what I learn into resources in an online lab and community which explores the intersection of 'Tools for Thought' and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
 
 I'm also hacking on A.I tools for self-directed learning using GPT-3 and other Language models.
 
@@ -28,7 +28,7 @@ If you've landed here, chances are, you're probably familiar with some of my wor
 
 **🔍 Why Ed-Tech has failed to disrupt the classroom and alternate approaches to designing & deploying.**
 
-**🔍  Adaptive & high agency learners and development of character identity 
+**🔍  Adaptive & high agency learners and development of character identity** 
 
 **🔍 Cross-cultural anthropological studies on human development, learning networks and communities of practice.**
 
@@ -39,18 +39,17 @@ If you've landed here, chances are, you're probably familiar with some of my wor
 
 Generally I'm interested in designing trusted learning outside of changing how schools operate or single programmes.
 
-I love questions of what new conditions or environments are required for people to engage and practice new behaviours, and explore meaning-making outside of becoming useful to a labor market. 
+I love questions of what new conditions or environments are required for people to engage and practice new behaviours, explore meaning-making and develop character outside of becoming useful to a labor market. 
 
 I've often found the conversation around what the best school might be, to be an un-fruitful line of inquiry. That's because I believe many of the issues we face in education are downstream of larger global systems such as healthcare, economics and military systems.
 
-The gig economy, universal basic Income, the prussian war machine, longer life expectancy through medical sciences, and rising teacher workloads because of state policies, all enable and constrain the quality and shape of this thing we call education. 
+Education systems are emergent from informal social practices. The gig economy, universal basic Income, longer life expectancy through medical sciences, and rising teacher workloads, all enable and constrain the quality and shape of this thing we call the future of learning. 
 
 Instead, I'm interested in what kinds of social and technological environments, economies and cultures are required to support the development and diversity of a learner's complex life world, curiosities, values, inspirations and intelligences?
 
 As I alternate between 'researcher mode' to 'implementer mind' I'll be creating experiments for social and silicon technologies that support life long learning, and communities of practice.
 
 My experiments are often [action research](https://en.wikipedia.org/wiki/Action_research) meaning that I answer questions mainly through building, running workshops and creating learning experiences while reflecting in the process.
-
 
 Underlying all this is a belief; That children are the key to the shackles created by the shortcomings of older generations. Without sustainable futures for them, there is no innovation or progress, no walking through the scientific orchard, or discovery of religious and mystical experience. They are the portal between this world and the future. So opening their creative aperture is opening our collective imagination towards new worlds and new ways of being together.
 
