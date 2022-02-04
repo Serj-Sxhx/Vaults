@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4 Identities of a Teacher.md",
-            "mode": "source"
+            "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iden",
+                "query": "ecosystem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Identities of a Teacher.md",
+                "file": "01 Projects/The ecosystem for self-directed, lifelong learners..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "4 Identities of a Teacher.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
+    "01 Projects/_PxP Homepage.md",
+    "4 Identities of a Teacher.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "galileoxp.com.md",
     "Expressive Pedagogy.md",
     "History Of Education in Antiquity.md",
     "History of Education - Montessorium.md",
     "01 Projects/The Learning Experience Design Guide.md",
-    "01 Projects/Enabling the 'Golden age of pedagogy'.md",
-    "05 Daily Notes/2021-04-05.md"
+    "01 Projects/Enabling the 'Golden age of pedagogy'.md"
   ]
 }
