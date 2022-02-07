@@ -12,7 +12,7 @@ People, however, in the course of actualizing their potentials, created society 
 
 Don't misunderstand:  Culture and society are not intrinsically evil!  It's more along the lines of the birds of paradise found in Papua-New Guinea.  The colorful and dramatic plumage of the males apparently distract predators from females and the young.  Natural selection has led these birds towards more and more elaborate tail feathers, until in some species the male can no longer get off the ground.  At that point, being colorful doesn't do the male -- or the species -- much good!  In the same way, our elaborate societies, complex cultures, incredible technologies, for all that they have helped us to survive and prosper, may at the same time serve to harm us, and possibly even destroy us.
 
-This places a huge responsibility on our shoulders as co-creators of out cultures and societies.
+This places a huge responsibility on our shoulders as co-creators of our cultures and societies.
 
 I'm reminded of the words of the late Anthropologis David Graeber
 > We musnt forget that 
