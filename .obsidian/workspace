@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Education must make History Again.md",
+            "file": "Personality Theories.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education must make History Again.md",
+                "file": "Personality Theories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +123,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "Personality Theories.md",
+    "John Amos Comenius (1592-1670).md",
+    "Opera Didactica Omina (1657).md",
     "Education must make History Again.md",
+    "06 Notes/Paideia X Praxis Bibliography.md",
     "01 Projects/_PxP Homepage.md",
+    "Old Paideia Notes.md",
     "05 Daily Notes/2021-04-24.md",
     "05 Daily Notes/2021-04-12.md",
-    "05 Daily Notes/2021-04-11.md",
-    "05 Daily Notes/2021-04-05.md",
-    "06 Notes/4 Identities of a Teacher.md",
-    "02 Areas/Connected Learning Networks - A System of Schools.md",
-    "06 Notes/Carl Rogers.md",
-    "01 Projects/The ecosystem for self-directed, lifelong learners..md"
+    "05 Daily Notes/2021-04-11.md"
   ]
 }

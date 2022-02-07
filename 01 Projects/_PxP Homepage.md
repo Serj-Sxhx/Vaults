@@ -28,15 +28,11 @@ Much of what I have to say has already been said. I simply re-synthesize it for 
 
 ### Introduction: Paideia X Praxis
 
-**Paideia** is Greek word with wide ranging connotations. It is broadly about the practice of raising of younger members of society. In modern society, the responsibility of a paideia is often spread across multiple institutions, domains and social groups. Members within families, schools, corporations, medical and therapeutic institutions, caregivers and even law enforcement form and contribute to the broader societal paideia. 
+**Paideia** is a Greek word meaning roughly _educational paradigm_ the totality of a society’s ideas, institutions, and practices concerning intergenerational transmission. It about the practice of raising of younger members of society. In modern society, the responsibility of a paideia is often spread across multiple institutions, domains and social groups. Members within families, schools, corporations, medical and therapeutic institutions, caregivers and even law enforcement form and contribute to the broader societal paideia. 
+
 
 **Praxis** is the exercise or practice of an art, science, or skill. By doing so we turn theory into practical application.
 
-The title is a bit of a wordplay with a double meaning. 
-
-The first meaning is invoked by pronouncing the intermediate X as 'eX' of the Latin root suffix meaning 'out'. This is to point to a central problem that the work here aims to address. That we don't have an optimal or shared common Praxis for raising children. From the taboo of parenting in western culture, to the broader manipulative technological and economic forces that mold their psychology. 
-
-The second is arrive at by noting the X as a multiply symbol. Here the Paideia is amplified by a shared community of practice.
 
 --- 
 ** Central Themes to my research**

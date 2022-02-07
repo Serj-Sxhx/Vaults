@@ -1,0 +1,1 @@
+_Paideia_ is a Greek word meaning roughly _educational paradigm—_the totality of a society’s ideas, institutions, and practices concerning intergenerational transmission. Comenius envisioned a _planetary_ _paideia_ that was integrative of science and religion, while also being universal, including all peoples regardless of sex, creed, race, or nationality.
