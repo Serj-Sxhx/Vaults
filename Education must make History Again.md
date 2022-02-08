@@ -16,6 +16,13 @@ Education reformers, your task is to counter social breakdown resulting from new
 
 > The pinnacle of this vision is the Pansophic College or Temple of Light. Also called the School of Schools, this organization was to act like a planetary hub or clearinghouse for knowledge, running quality control, printing the latest findings (and those that had been disproven or changed), while also working on the integration of religions with science and politics. All knowledge was to be made available through a universal network of printers and schools that “_taught all things to all people in all ways_,”
 
+
+But what does it mean to say that education can be the driver of world historical change?
+
+> I believe that educational systems and practices can be reformed in light of patterns revealed through metahistorical analysis.
+
+
+
 ---
 Type #🌱 
 Tags 
