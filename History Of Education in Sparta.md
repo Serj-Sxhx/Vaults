@@ -40,6 +40,10 @@ Aristotle is usually a critic of the Spartans, but here he Praises them for havi
 
 For Aristotle, the purpose of the state was to ensure that its citizens could live good lives, and the most important factor in having a good life was having a good character. This required a good upbringing. Therefore, the goal of the state could only be achieved if there was adequate education. Likewise, the state could only function properly if it had good 6 citizens who had been properly educated. (Unsurprisingly, education, including curriculum, is a key topic in Plato's and Aristotle's political works.)
 
+![[Screenshot 2022-02-09 at 10.00.49.png]]
+
+Who would not prefer to die than to seek virtue through theft. 
+
 # Live Call Notes
 
 The polis teaches the man - Children are being enculturalated 
@@ -103,7 +107,11 @@ laconic - the ideal is to not speak that much. the focus on letters is less and 
 
 State had a maximized role, parents had a minimized role.
 
+![[Screenshot 2022-02-09 at 10.03.37.png]]
 
+Sparta have letters but it's thin. They didn't have much of a focus on it. They don't valorise literacy like greeks who think you can get knowledge in this life and have effect even after you life. 
+
+What if we could design our educational systems to allow the children to arrive at what the state should be educating people on?
 
 ---
 Type 
