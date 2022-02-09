@@ -20,7 +20,25 @@ In Sparta, all boys were turned over to the authority of the paidonomos, garriso
 
 > Now in all this there is no trace of injustice or arrogance, which some attribute to the laws of Lycurgus, declaring them efficacious in producing courage, but defective in producing justice. The so-called ‘krypteia,’ [or secret service], of the Spartans, if this be really one of the institutions of Lycurgus, as Aristotle says it was, may have given Plato also1 this opinion of the man and his constitution. It was of the following nature: The magistrates from time to time sent out into the country at large the most intelligent seeming of the youths, equipped only with daggers and necessary rations. In the day time they scattered into obscure and out of the way places, where they hid themselves and lay quiet; but in the night they came down into the highways and killed every Helot whom they caught. Oftentimes, too, they actually traversed the fields where Helots were working and slew the sturdiest and best of them.
 
+
 In short, the krypteia was an educational tool that trained the next generation of future Spartan leaders in brutality.
+
+
+
+![[Screenshot 2022-02-09 at 09.50.32.png]]
+
+restrict the music and poet that whip you up into frenzied courage. The poets only write about how dieing for sparta is the highest acheivment. those who fled.
+
+The choir at festivals is the old singing of their youth, the young boasting about their abiality to fight on the front line.
+
+
+### Aristotle Politics 8.1337a21-32
+
+> [I]nasmuch as the end for the whole state is one, it is manifest that education also must necessarily be one and the same for all and that the superintendence of this must be public, and not on private lines, in the way in which at present each man superintends the education of his own children, teaching them privately, and whatever special branch of knowledge he thinks fit. But matters of public interest ought to be under public supervision; at the same time we ought not to think that any of the citizens belongs to himself, but that all belong to the state, for each is a part of the state, and it is natural for the superintendence of the several parts to have regard to the superintendence of the whole. And one might praise the Spartans in respect of this, for they pay the greatest attention to the training of their children, and conduct it on a public system.
+
+Aristotle is usually a critic of the Spartans, but here he Praises them for having a public education system and one which is aimed at the interests of the state as a whole. As Aristotle indicates, elsewhere in Greece education was a private matter, but Aristotle believed that it should be a public matter as it was a principal public concern.
+
+For Aristotle, the purpose of the state was to ensure that its citizens could live good lives, and the most important factor in having a good life was having a good character. This required a good upbringing. Therefore, the goal of the state could only be achieved if there was adequate education. Likewise, the state could only function properly if it had good 6 citizens who had been properly educated. (Unsurprisingly, education, including curriculum, is a key topic in Plato's and Aristotle's political works.)
 
 # Live Call Notes
 
@@ -64,8 +82,26 @@ Rhetoric - taught by sophists
 2. Not local athens, all polis have sophists
 3. They told you they could turn you into a good person.
 
-Sophists made a lot of money, it was a credential and they actually advanced your political career through rhetoric. This bends education towards language education. 
+Sophists made a lot of money, it was a credential and they actually advanced your political career through rhetoric. This bends education towards language education. They agitate the theory vs practice at the time and give the emerging 'middle class' practical tools that cost alot.
 
+### sparta
+
+
+![[Screenshot 2022-02-09 at 09.32.50.png]]
+
+Sparta has a large slave economy (helots) who are their neighbors. They don't import. they just concur their neighbors and enslave them. 7:1 helots: spartans. Shared language, shared culture but they have not power. Constant threat of slave uprising.
+
+Helots threaten slave revolt. Spartans become very good at policing them. So they militarize not because they want a huge empire. They don't want a huge empire because if they're away the helots over take them. 
+
+Culture dies because Sparta becomes so militaristic. Literary, artistic, scientific culture dies around 675.
+
+Tyrtaeus was reputedly originally an Athenian or even a Milesian but became adopted by Sparta—but that was at the end of Spartan openness just before it all shifts. After that shift, Sparta doesn’t produce notable poets AND they do not admit poets and intellectuals from the outside
+
+![[Screenshot 2022-02-09 at 09.37.00.png]]
+
+laconic - the ideal is to not speak that much. the focus on letters is less and speak is less.
+
+State had a maximized role, parents had a minimized role.
 
 
 
