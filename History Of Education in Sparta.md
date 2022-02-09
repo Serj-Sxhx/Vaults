@@ -113,6 +113,15 @@ Sparta have letters but it's thin. They didn't have much of a focus on it. They 
 
 What if we could design our educational systems to allow the children to arrive at what the state should be educating people on?
 
+### Why was sparta so notable?
+
+The fascination was with the systematization...the ability to organize a whole society around a centralized plan. “If they can do that, imagine what we could achieve with a more noble plan!” The same thing happened with Prussia. There was an idea that you could use such a system to “scale up” and perfect *any* value system, so it attracted utopians of all kinds. A lot of people saw the issues with this idea, but it was fairly common among intellectuals before the 20th century, even ones were adamantly in favor of democracy and freedom.
+
+It’s ironic that education is attributed to the “polis” (or city) a complex, emergent, largely unplanned order, and yet the system of education was planned, imposed, regimented, and simplified to a narrow set of experiences and aims.
+
+![[Screenshot 2022-02-09 at 10.30.20.png]]
+
+
 ---
 Type 
 Tags 
