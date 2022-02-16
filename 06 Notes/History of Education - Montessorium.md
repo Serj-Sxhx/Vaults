@@ -4,5 +4,5 @@
 
 1. [[History Of Education in Antiquity]]
 2. [[History Of Education in Sparta]]
-3. [[History of Education in Plato]]
+3. [[History of Education - Plato]]
 4. History of Education 
