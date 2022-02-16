@@ -74,7 +74,67 @@ The development of [[Arete]]:
 
 ![[Screenshot 2022-02-16 at 09.16.02.png]]
 
-- exercises that pregnant 
+- pre-natal education exercises that pregnant women can do 
+- every aspect of human life should be observed and regulated by the state to create the best kinds of citizens.
+- Plato, aiming to a higher world
+	- Timea
+- Aristotle, the ethics pointing out to the real world
+- Whats the role of philosophy in shaping education
+- What are views of knowledge, ethics, politics
+- Plato on math education
+
+### The application of philosophy on education
+
+It we're going to inculcate Arete in children 
+	- If we haven't gotten straight on what Arete is and who is it
+	- How do you get it
+	- How do you make sure that more people get it
+	- And when we're not teaching it.
+
+Augustine - education points back to plato
+
+Euclidean maths.
+Proof system.
+
+Maths as was intended by plato to be central to education but it didn't become as central as his ideal
+Babylon and Egyptian maths is the basis of greek maths.
+
+B.C.
+
+![[Screenshot 2022-02-16 at 09.26.52.png]]
+
+Athens is like US / NATO after the Golden Age
+It launches a cultural project.
+Athenian Golden age, pereclese brings loads of intellectuals to Athens
+
+Sophists started as a good word and became projoritive.
+
+Some sophists promise to teach Arete. Sophists become the ancient higher education.
+
+Peloponnesian War. Athens vs Sparta.
+
+Alcabiates to attack sicilies.
+
+Amnesty against the thirty tyrants.
+The oligarchy are still around and their powers should be rooted out
+He's associated with the aristocrats, alcabiates, 
+Socrates is put on trial. 
+	- Introducing new gods
+	- not believing in the traditional gods
+	- Corrupting the youth
+	
+The cloud
+
+You need a permit to introduce new gods in athens
+
+Socratic wisdom - He knew that he knew nothing.
+- Socrates introduces technical definition.
+
+
+Aporia is the end state of most socratic conversations.
+
+On Socrates: Do we know anything about the history of the epistemological posture that holds “ability to articulate in language” as the standard for “really” knowing/understanding a concept?  e.g. was that a coherent topic of debate?
+
 ---
 Type 
 Tags 
