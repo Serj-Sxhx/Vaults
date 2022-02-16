@@ -173,7 +173,44 @@ Training reason to know what to do to guide the lower parts.
 2 degrees of sensible things,
 Same for the inteligable noasis - 
 
-The really real things, beauty it's self, 2 itself, Goodness itself
+The really real things, Beauty it's self, 2 itself, Goodness itself.
+
+Aux Guardians > Extensive further to Philosopher kings
+Guardians live in barracks.
+
+They're part of a eugenics program.
+
+Lie that it's a lottery.
+No bad stories for moral edification 
+Eventually these people will be ruled by philosophers from these police soldiers.
+
+William f Buckle - Pick the senate picked from phone book rather than 100 
+
+![[Screenshot 2022-02-16 at 10.22.39.png]] 
+
+
+
+![[Screenshot 2022-02-16 at 10.28.16.png]]
+
+
+
+![[Screenshot 2022-02-16 at 10.28.59.png]]
+
+
+![[Screenshot 2022-02-16 at 10.29.50.png]]
+
+
+![[Screenshot 2022-02-16 at 10.31.33.png]]
+
+
+How do you get up and out of the cave, is through moral training to not get sucked into the lower things, maths, and philosophical reasoning.
+
+“ The real purpose of education is to prepare the orientation for future generations, who will progress to a new plane.” - Maria Montessori, The 1946 London Lectures, p. 102
+
+
+![[Screenshot 2022-02-16 at 10.34.42.png]]
+
+opinion and knowledge
 
 
 
