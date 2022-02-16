@@ -1,12 +1,84 @@
-Meno 71a-c Meno: 
+# Meno 71a-c Meno: 
 
-> Can you tell me, Socrates, whether virtue can be taught, or is acquired by practice, not teaching? Or if neither by practice nor by learning, whether it comes to mankind by nature or in some other way?
+> Can you tell me, Socrates, whether virtue can be taught, or is acquired by practice, not teaching? Or if neither by practice nor by learning, whether it comes to mankind by nature or in some other way?Socrates: …You have only to ask one of our people a question such as that, and he will be sure to laugh and say: Stranger, you must think me a specially favoured mortal, to be able to tell whether virtue can be taught, or in what way it comes to one: so far am I from knowing whether it can be taught or not, that I actually do not even know what the thing itself, virtue, is at all. And I myself, Meno, am in the same case; I share my townsmen's poverty in this matter: I have to reproach myself with an utter ignorance about virtue; and if I do not know what a thing is, how can I know what its nature may be? Or do you imagine it possible, if one has no cognizance at all of Meno, that one could know whether he is handsome or rich or noble, or the reverse of these? Do you suppose that one could? Meno: Not I. But is it true, Socrates, that you do not even know what virtue is? Are we to return home with this report of you? Socrates: Not only this, my friend, but also that I never yet came across anybody who did know, in my opinion.
+
+
+# Meno 80d-e
+
+> Meno: Why, on what lines will you look, Socrates, for a thing of whose nature you know nothing at all? Pray, what sort of thing, amongst those that you know not, will you treat us to as the object of your search? Or even supposing, at the best, that you hit upon it, how will you know it is the thing you did not know? Socrates: I understand the point you would make, Meno. Do you see what a captious argument you are introducing—that, forsooth, a man cannot inquire either about what he knows or about what he does not know? For he cannot inquire about what he knows, because he knows it, and in that case is in no need of inquiry; nor again can lie inquire about what he does not know, since he does not know about what he is to inquire.
+
+
+# Meno 81c-e 
+
+> Socrates: Seeing then that the soul is immortal and has been born many times, and has beheld all things both in this world and in the nether realms, she has acquired knowledge of all and everything; so that it is no wonder that she should be able to recollect all that she knew before about virtue and other things. For as all nature is akin, and the soul has learned all things, there is no reason why we should not, by remembering but one single thing—an act which men call learning—discover everything else, if we have courage and faint not in the search; since, it would seem, research and learning are wholly recollection. So we must not hearken to that captious argument: it would make us idle, and is pleasing only to the indolent ear, whereas the other makes us energetic and inquiring. Putting my trust in its truth, I am ready to inquire with you into the nature of virtue
+
+Learning is about remembering from the soul.
+'Since, it would seem, research and learning are wholly recollection'
+
+Knowledge in our genetics.
+
+# Republic II.374a-e
+
+> “We surely agreed, if you remember, that it is impossible for one man to do the work of many arts well.” “True,” he said. “Well, then,” said I, “don't you think that the business of fighting is an art and a profession?” “It is indeed,” he said. “Should our concern be greater, then, for the cobbler's art than for the art of war?” 
+> 
+> “By no means.” 
+> 
+> “Can we suppose, then, that while we were at pains to prevent the cobbler from attempting to be at the same time a farmer, a weaver, or a builder instead of just a cobbler, to the end that we might have the cobbler's business well done, and similarly assigned to each and every one man one occupation, for which he was fit and naturally adapted and at which he was to work all his days, at leisure from other pursuits and not letting slip the right moments for doing the work well, and that yet we are in doubt whether the right accomplishment of the business of war is not of supreme moment? Is it so easy that a man who is cultivating the soil will be at the same time a soldier and one who is practising cobbling or any other trade, though no man in the world could make himself a competent expert at draughts or the dice who did not practise that and nothing else from childhood but treated it as an occasional business? And are we to believe that a man who takes in hand a shield or any other instrument of war springs up on that very day a competent combatant in heavy armor or in any other form of warfare—though no other tool will make a man be an artist or an athlete by his taking it in hand, nor will it be of any service to those who have neither acquired the science of it nor sufficiently practised themselves in its use?” 
+> 
+> “Great indeed,” he said, “would be the value of tools in that case.” 
+> 
+> “Then,” said I, “in the same degree that the task of our guardians is the greatest of all, it would require more leisure than any other business and the greatest science and training.” 
+> 
+> “I think so,” said he. 
+> 
+> “Does it not also require a nature adapted to that very pursuit?” 
+> 
+> “Of course.” 
+> 
+> “It becomes our task, then, it seems, if we are able, to select which and what kind of natures are suited for the guardianship of a state.”
+
+The idea/l of the specialist
+
+# Republic II.376e-378e
+
+> “What, then, is our education? Or is it hard to find a better than that which long time has discovered? Which is, I suppose, gymnastics for the body and for the soul music.”
+> 
+
+# Republic VII.518b-519a
+
+> “Of this very thing, then,” I said, “there might be an art, an art of the speediest and most effective shifting or conversion of the soul, not an art of producing vision in it, but on the assumption that it possesses vision but does not rightly direct it and does not look where it should, an art of bringing this about.”
+
+# Live call notes
+
+Core parts of Greek Education
+
+The development of [[Arete]]:
+
+[[Gymnastics]]: 
+
+[[Gramatice]]:
+
+[[Dialectic]]:
+
+[[Rhetoric]]:
+
+![[Screenshot 2022-02-16 at 09.11.56.png]]
+
+- Plato things that they had a narrow view of [[Arete]], had they a better understanding of Arete then they would be good.
+- Many Greek philosophers were in agreement that the state's education should be structured in a similar way
+
+
+![[Screenshot 2022-02-16 at 09.15.28.png]]
 
 
 
+![[Screenshot 2022-02-16 at 09.16.02.png]]
+
+- exercises that pregnant 
 ---
 Type 
 Tags 
+[[History of Education - Montessorium]], 
 
 Links / References:
 
