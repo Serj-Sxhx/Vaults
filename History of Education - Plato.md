@@ -135,6 +135,48 @@ Aporia is the end state of most socratic conversations.
 
 On Socrates: Do we know anything about the history of the epistemological posture that holds “ability to articulate in language” as the standard for “really” knowing/understanding a concept?  e.g. was that a coherent topic of debate?
 
+![[Screenshot 2022-02-16 at 09.48.10.png]]
+
+### Can people teach virtue? A Good Defense 
+![[Screenshot 2022-02-16 at 09.51.58.png]]
+
+### Meno (Student of Gorgius) wants to know if Virtue can be taught ([mathesus](https://en.wiktionary.org/wiki/%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B9%CF%82)), through (Praxis)?
+
+![[Screenshot 2022-02-16 at 09.52.43.png]]
+
+
+What's your definition?
+
+Meno's paradox, how do you know something, if you can't find it.
+
+Memo: The geometry demonstration.
+
+If you know it you can't discover it. If you don't know it, you can't discover it.
+
+Related: Do we know anything about when/in what context “learning from teaching” (as by lecture) was first distinguished from “learning by practice” (under apprenticeship or otherwise)?
+
+All knowledge is already in you.
+
+We get recollect from the realm of the forms, a place where intellect isn't hindered by the senses. Mathematical is not a realm of experiences, it's, by questions that I awakening something in the soul which I had not previously needed to experience with the senses.
+
+The senses does not provide us real knowledge. The senses give us shifting opinions.
+Knowledge doesn't change. Some knowledge maths or moral is eternal.
+
+The triangles we draw down here are about the ideal triangles. How can beauty is never ugly and ugly is never beautiful as ideals but in the flesh they're not consistent. 
+
+"Knowledge is not equal to its representation in a medium." Language is a _medium_ for representation. Also, "the carpenter's knowledge is in his hands."
+
+These perfect eternal intelligible world of the forms.
+
+Training reason to know what to do to guide the lower parts.
+
+2 degrees of sensible things,
+Same for the inteligable noasis - 
+
+The really real things, beauty it's self, 2 itself, Goodness itself
+
+
+
 ---
 Type 
 Tags 
