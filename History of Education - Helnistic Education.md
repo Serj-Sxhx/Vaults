@@ -44,8 +44,33 @@ Reading is much harder then - unspaced, unbroken, mapping of phonics to a stream
 
 Advances in the technology of the way we read and write, coincide with innovations in pedagogy and the way we teach. 
 
-Students have tablets and stylus. Women became a symbol for education in helenistic educat
+Students have tablets and stylus. Women became a symbol for education in Hellenistic education and some women became teachers. Many in literacy, less in rhetoric. 
+
+Women are coming into the workforce and the student body. If you could afford it you could get it.
+
 ![[Screenshot 2022-02-23 at 09.57.37.png]]
+
+
+During this period where does one go to get that elite, societally advancing sophist type education? Where are the best places to do that now?
+
+### Name + First 4 letters of the alphabet.
+
+![[Screenshot 2022-02-23 at 10.00.47.png]]
+
+- There's a sense that the rote and robotic isn't the best, people throught they should make things not in order and instead jump around. "No don't do them isn sequence"
+- Greek words are long and polysyllabic so learning rote combinations of letters as syllables before words was necessary but drilled like crazy. 
+
+
+![[Screenshot 2022-02-23 at 10.04.15.png]]
+![[Screenshot 2022-02-23 at 10.19.45.png]]
+
+
+![[Screenshot 2022-02-23 at 10.22.49.png]]
+
+
+
+![[Screenshot 2022-02-23 at 10.27.22.png]]
+Your task as a student is to expand on these points
 
 
 ### what did plato's education ideal look like?
