@@ -5,7 +5,7 @@
 1. [[History Of Education in Antiquity]]
 2. [[History Of Education in Sparta]]
 3. [[History of Education - Plato]]
-4. [[History of Education - X]]
+4. [[History of Education - Helnistic Education]]
 5. [[History of Education - Capella to Comenius]]
 6. [[History of Education - Week 6]]
 7.[[History of Education - Week 7]]

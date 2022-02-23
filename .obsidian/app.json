@@ -39,6 +39,6 @@
   ],
   "promptDelete": false,
   "strictLineBreaks": true,
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": true
 }

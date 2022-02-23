@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06 Notes/History of Education - Montessorium.md",
-            "mode": "source"
+            "file": "History of Education - Helnistic Education.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/History of Education - Montessorium.md",
+                "file": "History of Education - Helnistic Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +125,8 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "History of Education - Helnistic Education.md",
     "06 Notes/History of Education - Montessorium.md",
-    "History of Education - X.md",
     "06 Notes/History Of Education in Antiquity.md",
     "History of Education - Plato.md",
     "John Amos Comenius (1592-1670).md",
