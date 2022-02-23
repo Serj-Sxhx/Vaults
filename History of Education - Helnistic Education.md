@@ -5,6 +5,49 @@ Alexander through Constantine
 
 What did schools look like at this time as it established scale in Europe.
 
+It's popular and fashionable to be greek, Helen (the greek word for Greece)
+There's a love of greek culture and literacy + homer, greek language is awesome, it's still a second language. Building greekness into your soul.
+
+Based around the trivium
+- Literacy: Writing and reading in that order, some numeracy
+- Grammar: Literary devices, grammar, interpretation
+- Rhetoric: declamation, argument, epilostary 
+
+Musical education is less important
+
+![[Screenshot 2022-02-23 at 09.35.34.png]]
+[[One room school house]], mastery based, individualised mixed aged. 
+	- What do they need? I will either sit with you and you copy me or I will get an advanced student to work with you. 
+	-  if we assume that teaching is also learning then being instructed by mentors to teach others is still helping a one to learn. 
+	- 
+
+
+**Reading**
+
+- Gymnastic of the Mind
+- Didaskaliae — “educations”
+
+### Features of Helenistic Pedagogy
+
+![[Screenshot 2022-02-23 at 09.45.04.png]]
+
+very artificial and without understanding, e.g. going through all sylable even if they don't appear in the greek language. The connection to phonics and how to speak the syllables is very loose. Many students aren't learning with understanding. 
+
+Mental gymnastics is basically bicep curls for literacy. 
+
+### State of the art of letters: literacy is an uninterrupted smear of capital letter's. 
+
+![[Screenshot 2022-02-23 at 09.52.22.png]]
+In modern world we live in sophisticated punctuation e.t.c 
+Reading is much harder then - unspaced, unbroken, mapping of phonics to a stream of capital letters.
+
+
+Advances in the technology of the way we read and write, coincide with innovations in pedagogy and the way we teach. 
+
+Students have tablets and stylus. Women became a symbol for education in helenistic educat
+![[Screenshot 2022-02-23 at 09.57.37.png]]
+
+
 ### what did plato's education ideal look like?
 ![[Screenshot 2022-02-23 at 09.03.57.png]]
 
