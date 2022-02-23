@@ -16,7 +16,7 @@ Based around the trivium
 Musical education is less important
 
 ![[Screenshot 2022-02-23 at 09.35.34.png]]
-[[One room school house]], mastery based, individualised mixed aged. 
+[[One room school house]], mastery based, individualised mixed aged, peer learning. ![Screenshot 2022-02-23 at 09.35.34.png](app://local/%2FUsers%2Fserjhunt%2FDocuments%2FSxhx%2FScreenshot%202022-02-23%20at%2009.35.34.png?1645580138123)
 	- What do they need? I will either sit with you and you copy me or I will get an advanced student to work with you. 
 	-  if we assume that teaching is also learning then being instructed by mentors to teach others is still helping a one to learn. 
 	- 
@@ -70,7 +70,36 @@ During this period where does one go to get that elite, societally advancing sop
 
 
 ![[Screenshot 2022-02-23 at 10.27.22.png]]
-Your task as a student is to expand on these points
+Your task as a student is to expand on these points.
+5 paragraph essay like writings or speeches.
+
+Practice elaborating on arguments.
+A guide of greatest hits from your copying the writing of greatest hits.
+
+Maths and Medicine in the Hellenistic are in specialist schools that you goto.
+
+Plato - In the laws, no implementation picture
+http://platoacademy.org/
+
+
+![[Screenshot 2022-02-23 at 10.32.02.png]]
+
+
+Education is a service - it's offered by private teachers and who are kind of entrepreneurial. It's not a state function. This is why it's mixed aged, mastery based, decentralised, however it was extremely consistent from west to east of the roman empire, why was pedagogy so consistent?. 
+It wasn't beuracratically enforced but it was consistent. 
+
+Neo Hellenistic. 
+
+Parents are risk averse with the children and partially control the educators because they pay. pedagogy didn't innovate partially due to risk averse parents who felt that school should be hard and if they didn't like it then too bad it's good for them and they spank them. 
+
+[[Teacherly Authority]] - How do you signal attainment.
+
+Entrance exams? 
+
+Academy - you must have studied Geometry
+Lyceum - To become a member of Lyceum is required to public lecture on the topic of general interest
+
+Large scale school + pay to join lectures - Do we need to do this if we have internet access?
 
 
 ### what did plato's education ideal look like?
