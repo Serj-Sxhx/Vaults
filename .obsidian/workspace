@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History of Education - Plato.md",
+            "file": "06 Notes/History of Education - Montessorium.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "history",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of Education - Plato.md",
+                "file": "06 Notes/History of Education - Montessorium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +124,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "History of Education - Plato.md",
     "06 Notes/History of Education - Montessorium.md",
+    "History of Education - X.md",
     "06 Notes/History Of Education in Antiquity.md",
+    "History of Education - Plato.md",
     "John Amos Comenius (1592-1670).md",
     "History Of Education in Sparta.md",
     "Education must make History Again.md",
     "Personality Theories - A list of important psychologist.md",
     "Opera Didactica Omina (1657).md",
-    "06 Notes/Paideia X Praxis Bibliography.md",
-    "01 Projects/_PxP Homepage.md"
+    "06 Notes/Paideia X Praxis Bibliography.md"
   ]
 }
