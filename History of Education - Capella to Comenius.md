@@ -20,7 +20,7 @@ Why are the dark ages so dark
 
 ![[Screenshot 2022-03-07 at 13.21.47.png]]
 
-Roman Christian Institutionalisation
+Roman Catholic Institutionalisation
 - It's not a religion thats passed via oral tradition or set of practices that has to do with worshiping your ancestors.
 - he argues that christianity is a doctrinal religion of the book.
 - This text, the bible is maintained by a central authority the roman catholic church
@@ -32,8 +32,40 @@ Roman Christian Institutionalisation
 Interpretatio Christiana
 - How to adapt the christian beliefs to the local traditions if you go into it.
 
-- Education becomes primarily monastic, and central to joining the church and wanting to participate in the roman Cha
-- 
+- Education becomes primarily monastic, and central to joining the church and wanting to participate in the Roman Catholic Heirachy
+
+![[Screenshot 2022-03-07 at 13.31.34.png]]
+
+In southern Italy there was a school called Celerno which is a medical school. 
+- they do hands on learning how to dissect bugs and help patients.
+- You could do rhetoric and study literature.
+
+There was a Guild and apprenticeship system but no one could replicate the technologies of civil engineers. It was passed on orally to continue to trades.
+
+
+Capella 
+
+Somehow survives the dark ages- He's not innovating, he's reporting.
+
+- Mercury wants to marry and asks apollo and he suggest to marry Philology the love of learning
+- Very pagan text 
+- It's a personified different subjects 
+- It's a funny witty and strange approach to influence and encyclopaedia and textbook of what you should learn. 
+- It's pretty thin 
+
+Seven liberal arts 
+- Grammar - 
+- Dialectic - Logic & Argument via Aristotle 30 page summary
+- Rhetoric - Persuasion 
+-
+- Geometry
+- Arithmetic
+- Astronomy
+- Harmony 
+
+
+
+
 
 ---
 Type 
@@ -43,3 +75,5 @@ Links / References:
 
 
 ---
+
+ 
