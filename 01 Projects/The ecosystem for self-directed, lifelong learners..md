@@ -21,6 +21,31 @@ given the complexity and fluidity of this ecosystem approach, effective coordina
 -   Legitimation: Recognizing, supporting, and credentialing adults
 -   Transportation
 
+# Why now
+
+Across the globe there is a growing consensus that education demands radical transformation if we want all citizens to become future-ready in the face of a world that's becoming increasingly more complex. Education has the potential to be the greatest enabler of preparing everyone, young and old, for the future, yet supporting learning too often remains an issue for schools alone.
+
+Talk is a exploration of thinking outside of how individual programs or schools operate.
+
+
+What kinds of learning systems can sense an environment effectively, adapt and reconfigure itself to both the needs of a labour market and an individuals's sense of identity and purpose?
+
+
+around the world, and build a wide range of possible new relationships among business, education, government, and community
+
+What happens when young people engage with a range of resources within a broader community, charged with the power of social interaction in the connected-world.
+
+# Ecosystems in Theory vs practice
+
+It remains to be seen whether the education ecosystem idea, as expressed in these varieties, will evolve as a truly significant new driver in public education on a large scale
+
+# What is a learning ecosystem
+
+# Case Studies
+
+# The Challenges that Ecosystems Face
+
+
 [[Learning Ecosystems Deck]]
 
 # Environment
@@ -28,6 +53,7 @@ given the complexity and fluidity of this ecosystem approach, effective coordina
 [[4 layer learning Ecosystem (2)]]
   
   # Curriculum 
+
   [[QBC's partnering with industry (20)]]
  	 [[QBC Assessment Design]]
 	 
@@ -42,6 +68,9 @@ given the complexity and fluidity of this ecosystem approach, effective coordina
  [[Wisdom]]
   
  # Assessment 
+
+ these initiatives embrace innovative credentialing systems that can replace or supplement conventional assessment practices.
+ 
  [[Provide a long chain of evidence of learning for stakeholders (14)]]
   
 [[xAPI events can be made visible in the portfolio (15)]]
@@ -77,7 +106,7 @@ given the complexity and fluidity of this ecosystem approach, effective coordina
  
  
   
-  # Other Key Themes
+# Other Key Themes
   
 [[Tapping into local expertise & Previously Informal Learning (4)]]
  [[Toolkit for deploying microschools (7)]]
@@ -120,4 +149,17 @@ given the complexity and fluidity of this ecosystem approach, effective coordina
 [[Learning is Earning (24)]]
 [[Auger (25)]]
 [[Training platform for a new kind of teacher x facilitator x community weaver (26)]]
-[[Guild - New Community Bussiness Model(27)]]
+[[Guild - New Community Business Model(27)]]
+
+
+ 
+
+---
+Type 
+Tags 
+
+Links / References:
+
+https://www.wise-qatar.org/app/uploads/2019/05/wise_report-rr.1.2019-web.pdf
+
+---
