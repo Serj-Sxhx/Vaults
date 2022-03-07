@@ -37,13 +37,101 @@ What happens when young people engage with a range of resources within a broader
 
 # Ecosystems in Theory vs practice
 
-It remains to be seen whether the education ecosystem idea, as expressed in these varieties, will evolve as a truly significant new driver in public education on a large scale
+ Let's explore whether the opportunity exists to create dynamic, diverse and evolving learning ecosystems which enable all young people to be lifelong learners, leveraging a broader and more powerful range of assets than ever before. Such a reconfiguration of education systems and our collective mindset promise to create the conditions for more dynamic and powerful collaborations which stimulate and enable innovation
+
+It remains to be seen whether the education ecosystem idea, as expressed in these varieties, will evolve as a truly significant new driver in public education on a large 
+
+
 
 # What is a learning ecosystem
 
+Deriving from the field of evolutionary biology, an ‘ecosystem’ is a community of interdependent organisms acting in conjunction with the natural environment.
+
+There are obviously already ecosystems which are netoworks of schools alone, or involve partnerships between schools, community and industry by are controlled wholly by the school  but our focus is on ecosystems that have a few common features 
+
+• Are diversifying learning resources and pathways for learners 
+• Are activating and sharing resources for learning in new ways from diverse sources 
+• Are dynamic in composition and porous around the edges 
+• Are supported by helpful infrastructure 
+• Comprise formal and informal learning institutions, traditional and new entrants 
+• Have distributed governance 
+• Are learner driven or have learner agency at their heart 
+• Make an attempt to meet twenty first century challenges in some way, beyond academic attainment.
+
+### 3 Types of Ecosystem - A Topology 
+
+#### Knowledge sharing ecosystems 
+
+This type of ecosystem comprises complex, evolving networks of organizations including think tanks, foundations, governmental and global agencies and others who are consciously connecting to facilitate the sharing of new knowledge about education and learning, innovation, funding opportunities, and more. It is largely concerned with building the global shared knowledge base, scaling innovation and enabling the better use of resources and opportunities to tackle shared global learning challenges, not only within but between networks.
+
+#### Innovation Ecosystems
+
+Some cities and regions are involved in designing deliberate conditions that drive and accelerate radical innovation - such as new designs for schooling - through the combination of multiple players, policies and platforms. These innovation ecosystems tend to contain traditional and new education providers, formal and informal learning opportunities, the involvement of business, edtech developers and providers and higher education, and are supported by digital technology.
+
+#### Learning ecosystems
+
+Learning ecosystems comprise diverse combinations of providers (schools, businesses, community organizations as well as government agencies) creating new learning opportunities and pathways to success. They are usually supported by an innovative credentialing system or technology platforms that replace or augment the traditional linear system of examinations and graduation. They need not, however, be confined to their geographic location in terms of resources overall. They may exploit the technologies now available to choreograph global learning resources.
+
+
 # Case Studies
 
-# The Challenges that Ecosystems Face
+1. Educació360, Catalonia, Spain 
+2. LRNG, various cities, USA 
+3. Kuopio Culture Path, Kuopio, Finland 
+4. Jump Start, Louisiana, USA 
+5. Swinburne University of Technology, Melbourne, Australia 
+6. The Metropolitan Regional Career and Technical Centre ‘The Met’, Providence, Rhode Island, USA 
+7. LenPolyGrafMash, St Petersburg, Russia 
+8. Remake Learning, Pittsburgh, Pennsylvania, USA 
+9. RSA Cities of Learning, various cities, UK
+
+# The Challenges that Ecosystems 
+
+What are the barriers and enablers faced by attempts to create or catalyse learning ecosystems?
+
+Do real-world learning ecosystems really represent a new learning paradigm, as described in the literature?
+
+#### 1. The exhaustion of the existing educational paradigm, on its own terms; 
+
+#### 2. The need for a shift in purpose in the context of rapid, fundamental change 
+
+
+#### 3. The need for a new organizational paradigm to deliver this shift.
+
+Other questions arise around the extent to which learning ecosystems emerge naturally in response to conditions of twenty-first century connectivity, or whether they require intentional design. It seems that this apparent tension between ‘tight’ design and control on the one hand, and desire for ‘loose’ distributed, organic and dynamic processes on the other, might be central to our understanding of the success of learning ecosystems to deliver on outcomes and the role they might play in challenging or replacing the existing paradigm of organised learning.
+
+To better understand the barriers and enablers to learning ecosystems let's look at the 
+
+governance 
+funding arrangements, 
+new roles for people and organisations
+the role of context and place
+
+# Frameworks for 
+
+### 1- Stages of learning ecosystem 
+
+We can think of learning ecosystems being shaped by four stages through which 
+they  develop and grow: 
+
+hypothesis and visioning, 
+catalysing and initiating, 
+dynamic experimentation, and 
+mainstreaming or sustaining. 
+
+ At each stage there are questions and dilemmas that an ecosystem might meet
+ 
+
+### 2- Impact of learning ecosystems on existing learning provision
+
+a movement towards learning ecosystems has the potential to transform how learning happens.
+
+ Across all the cases you can think of the impact that an ecosystem willl have on existing provisions on two axes. In doing so, four broad categories of learning ecosystems have been discerned:
+ 
+ 1. Expanded formal offers designed with pre-determined curricula and/or outcomes; 
+ 2. Industry or community led initiatives where the skills requirements of a group from outside education (e.g. an industry sector) leads them to put in place conditions to enable new learning pathways and opportunities that meet the industry’s need; 
+ 3. New designs and new platforms where a high degree of learner agency meets intentional design and results in new wholesale designs for organised learning. 4
+ 4. Responsively dynamic where learner agency meets a dynamic and self-sustaining community of providers eager to support and enhance learning.
 
 
 [[Learning Ecosystems Deck]]
