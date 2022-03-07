@@ -96,7 +96,12 @@ There are obviously already ecosystems which are netoworks of schools alone, or 
 • Comprise formal and informal learning institutions, traditional and new entrants 
 • Have distributed governance 
 • Are learner driven or have learner agency at their heart 
-• Make an attempt to meet twenty first century challenges in some way, beyond academic attainment.
+• Make an attempt to meet twenty first century challenges in some way, beyond academic attainment.\
+
+### Benefits 
+
+strong emphasis on shifting intrinsic human values, Ashoka and others envision learning ecosystems to be suited to educating and empowering the whole human. Through empathy-based learning and an emphasis on human relationships and collective action, learning ecosystems can help shift human identity away from individualistic self-interest, towards one centred on humanistic change-making (Wagner & Compton, 2012).
+
 
 ### 3 Types of Ecosystem - A Topology 
 not mutually exclusive.
@@ -157,9 +162,20 @@ Shift in purpose Writers who have taken a holistic view of a wide and profound s
 > “Education can become an avenue through which global society may overcome the gaps and barriers we have created: the digital divide, the imbalance of information flows, the growing economic and social inequality, religious, ethical, and cultural divides, and extreme ecological pressures we are placing on Earth.” Global Education Futures report, 2018
 
 
+
 #### 3. The need for a new organizational paradigm to deliver this shift.
 
 Other questions arise around the extent to which learning ecosystems emerge naturally in response to conditions of twenty-first century connectivity, or whether they require intentional design. It seems that this apparent tension between ‘tight’ design and control on the one hand, and desire for ‘loose’ distributed, organic and dynamic processes on the other, might be central to our understanding of the success of learning ecosystems to deliver on outcomes and the role they might play in challenging or replacing the existing paradigm of organised learning.
+
+In the traditional  system where education is primarily the business of schools and other formal education institutions Policy in this scenario is a key lever. with which governments set agendas requiring education institutions, along with support agencies, to respond with a specified change, or limited range of changes, to practice on the ground. Complexity now makes it impossible for these traditional organizational structures and policy levers to navigate.
+
+need to shift mindsets towards thinking in the interests of the entire ecosystem, rather than the interests of our individual self, or single groups of stakeholders (Scharmer et al 2013; Senge 2006)
+
+This raises the question of the role of identity, purpose and community in education systems.
+
+New ways of collective learning and acting within and across teams, organisations, and communities are emerging as part of an alternative discipline to the top-down mechanisms of the past, outlining a new path towards systemic change.
+
+### How can we think differently
 
 To better understand the barriers and enablers to learning ecosystems let's look at the 
 
@@ -169,6 +185,8 @@ new roles for people and organisations
 the role of context and place
 
  a question to be explored in the future, as local learning ecosystems develop and mature, will be: how resilient are they to the removal of initial catalytic funding, the entry of dysfunctional members or other unanticipated shifts in the environment?
+
+ redefine the concept of education as a cradle to grave process of learning and development where the process of learning is not separated from the process of living. 
 
 # Frameworks for 
 
