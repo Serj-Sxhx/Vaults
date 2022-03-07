@@ -9,6 +9,7 @@
 - The 400 - 500 AD starts the dark ages
 
 Why are the dark ages so dark
+- loss of agricultural knowledge
 - Huge population loss - about 50%, dramatic in urban centres
 - pax romana ends - If you molested someone from rome they would send an army and crack down, without this peace trade decrease
 - If trade decreases then the merchants moving around writing, literacy and papyrus and books disappear.
@@ -43,15 +44,9 @@ In southern Italy there was a school called Celerno which is a medical school.
 There was a Guild and apprenticeship system but no one could replicate the technologies of civil engineers. It was passed on orally to continue to trades.
 
 
-Capella 
+### Capella 
 
 Somehow survives the dark ages- He's not innovating, he's reporting.
-
-- Mercury wants to marry and asks apollo and he suggest to marry Philology the love of learning
-- Very pagan text 
-- It's a personified different subjects 
-- It's a funny witty and strange approach to influence and encyclopaedia and textbook of what you should learn. 
-- It's pretty thin 
 
 Seven liberal arts 
 - Grammar - 
@@ -62,6 +57,65 @@ Seven liberal arts
 - Arithmetic
 - Astronomy
 - Harmony 
+
+The content
+
+- Mercury wants to marry and asks apollo and he suggest to marry Philology the love of learning
+- Very pagan text 
+- It's a personified different subjects 
+- It's a funny witty and strange approach to influence and encyclopaedia and textbook of what you should learn. 
+
+12th Century is when law and towns are making a come back and the emergence of higher education.
+Euclid and Aristotle is being imported from Arabic World
+
+University means Union - There were learning clubs in paris
+A killer teacher e.g. Avolard, 
+Can we pay you tuition but you don't come to every lecture.
+
+Economic expansion
+Superstar teachers
+Need to be more organised a union of students so they become institutionalised.
+
+**Innovations**
+
+There are classes on a daily basis. 
+
+Point, counterpoint pedagogy e.g. Avolard
+
+The Rise of university - the book 
+
+![[Screenshot 2022-03-07 at 14.15.29.png]]
+
+When they're learning they're reading a text out in class and commenting on the text. 
+
+This is better than bible school 
+
+It's expository 
+Studying roman law
+Primary source
+And applied rhetoric and debate
+Expanded corpus
+Some kind of eye to practical application
+
+Drawbacks?
+
+It's bookish, you study old works
+Not by experimentation 
+
+It's side by side with religious institutions.
+ 
+Arts philosophy
+Theology 
+Law
+Oral Exams
+
+
+What this degree let you do was teach
+Master of arts lets you teach.
+But this is mostly status.
+
+They all started as learning clubs.
+![[Screenshot 2022-03-07 at 14.22.27.png]]
 
 
 
@@ -75,5 +129,3 @@ Links / References:
 
 
 ---
-
- 

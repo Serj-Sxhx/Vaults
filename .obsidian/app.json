@@ -40,5 +40,5 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": false
 }
