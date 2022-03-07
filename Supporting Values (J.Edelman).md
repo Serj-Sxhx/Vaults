@@ -1,0 +1,3 @@
+Urie Bronfenbrenner, a Russian-American developmental psychologist, introduced an ecological systems theory of child development to the US early years system in the 1960s (Bronfenbrenner, 1979). Influenced by fellow developmental psychologist Lev Vygotsky (Vygotsky, 1978), Bronfenbrenner’s bioecological model offered a framework for understanding human development through the lens of the different environmental systems with which an individual interacts.
+
+embracing the complexity that surrounds an individual’s experience of learning and development in the various systems and environments designed to support these
