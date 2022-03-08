@@ -174,7 +174,13 @@ The RSA and Digitalme are currently working towards formal piloting with two UK 
 
 In addition, exploratory conversations are taking place with employers and businesses, Multi Academy Trusts, and other strategic bodies such as Local Enterprise Partnerships, Arts Council, Public Health bodies, and Housing Associations interested in the application of the concept in their own context.
 
+_Funding model _
 
+Currently, there is a mix of national and city based funding for Cities of Learning – bringing together corporate partners, grant funders, and public sector funders to achieve greater impact together. Long term, the financial model is expected to shift over time from a model which is on the whole supported through national funding, to a predominantly city-based model with diverse funding streams.
+
+_Badge-based pathways_
+
+_Equitable pathways for all citizens, regardless of background_
 
 1. Educació360, Catalonia, Spain 
 2. LRNG, various cities, USA 
