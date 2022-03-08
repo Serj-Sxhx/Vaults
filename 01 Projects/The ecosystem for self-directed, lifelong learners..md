@@ -27,11 +27,19 @@ What are the barriers and enablers faced by attempts to create or catalyse learn
 
 # Why now
 
+In the face of greater complexity and 
+
+-  As many as 60% of young people today in Australia are studying or training for occupations that could be automated in the next decade ([Foundation of Young Australians: The New Work Order, 2015](https://www.fya.org.au/app/uploads/2021/09/new-work-order-2015.pdf)).
+
 Across the globe there is a growing consensus that education demands radical transformation if we want all citizens to become future-ready in the face of a world that's becoming increasingly more complex. Education has the potential to be the greatest enabler of preparing everyone, young and old, for the future, yet supporting learning too often remains an issue for schools alone.
 
 Talk is a exploration of thinking outside of how individual programs or schools operate.
 
-Exhaustion of the existing educational paradigm Most education systems are struggling to keep pace with the rapid changes in society, the workplace and across the world. They are failing to tackle some of the key issues (Perkins, 2014) of our time, and at worst, are contributing to them. The growing gap between the education systems we have, and what the future needs from education (Facer, 2011; Clayton, et al, 2008) is the burning platform that has sparked a call for a paradigm shift (Robinson, 2010), which learning ecosystems may begin to offer. In many systems (not all), top-down reforms have created a number of perversities, often leading to: • Unprecedented anxieties and stress levels of students widely attributed to high-stakes assessment (OECD, 2015); • Disillusioned and burnt-out teachers facing a loss of professional identity linked to high accountability regimes (National Education Union, 2018) • A tendency of schools and practitioners to avoid risk-taking and therefore quashing the potential for emergent innovative practice (Cisco, 2010).
+Exhaustion of the existing educational paradigm Most education systems are struggling to keep pace with the rapid changes in society, the workplace and across the world. They are failing to tackle some of the key issues (Perkins, 2014) of our time, and at worst, are contributing to them. 
+
+The growing gap between the education systems we have, and what the future needs from education (Facer, 2011; Clayton, et al, 2008) is the burning platform that has sparked a call for a paradigm shift (Robinson, 2010), which learning ecosystems may begin to offer. 
+
+In many systems (not all), top-down reforms have created a number of perversities, often leading to: • Unprecedented anxieties and stress levels of students widely attributed to high-stakes assessment (OECD, 2015); • Disillusioned and burnt-out teachers facing a loss of professional identity linked to high accountability regimes (National Education Union, 2018) • A tendency of schools and practitioners to avoid risk-taking and therefore quashing the potential for emergent innovative practice (Cisco, 2010).
 
 
 
