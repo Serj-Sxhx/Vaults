@@ -142,6 +142,40 @@ learning ecosystems focus exclusively on delivering powerful, often radically di
 
 # Case Studies
 
+## RSA Cities of Learning, UK
+Activating a grassroots, city- based, mass engagement movement around lifelong learning and skills.
+
+
+### The ecosystem at a glance
+
+_What is the learning ecosystem?_
+
+Cities of Learning (CofL) is a new place based approach to enhancing lifelong learning through digitally connecting individuals to learning, employment and civic opportunities within a defined locality. 
+
+It brings together learning, work and civic institutions (schools, colleges, employers, training providers, charities, local authorities, libraries, museums, coding clubs, makerspaces and so on) to form purposeful city- wide networks.
+
+The approach is orientated around three key design principles: 
+
+new civic leadership, 
+mobilizing diverse networks of learning providers,
+connecting different learning opportunities via a digital platform. 
+
+the two pilots is between 14 to 25 years old,
+
+_When was it established? _
+
+In 2015, the RSA’s report ‘The New Digital Learning Age’ advised that the UK should explore piloting a City of Learning, building on the original work of Collective Shift in the United States and other global initiatives such as UNESCO Learning Cities.
+
+In 2017 the RSA and Digitalme collaborated with Greater Manchester, Brighton and Plymouth to test and prototype the Cities of Learning approach, with pilots expected in early 2019. 
+
+_To what extent has it scaled? _
+
+The RSA and Digitalme are currently working towards formal piloting with two UK Cities, Plymouth and Brighton. External evaluations from these pilots will be available from Summer 2020. A parallel pipeline of conversations are underway with other UK and international cities and localities keen to develop and prototype the CofL model. 
+
+In addition, exploratory conversations are taking place with employers and businesses, Multi Academy Trusts, and other strategic bodies such as Local Enterprise Partnerships, Arts Council, Public Health bodies, and Housing Associations interested in the application of the concept in their own context.
+
+
+
 1. Educació360, Catalonia, Spain 
 2. LRNG, various cities, USA 
 3. Kuopio Culture Path, Kuopio, Finland 
@@ -151,6 +185,8 @@ learning ecosystems focus exclusively on delivering powerful, often radically di
 7. LenPolyGrafMash, St Petersburg, Russia 
 8. Remake Learning, Pittsburgh, Pennsylvania, USA 
 9. RSA Cities of Learning, various cities, UK
+
+
 
 # The Challenges that Ecosystems 
 
