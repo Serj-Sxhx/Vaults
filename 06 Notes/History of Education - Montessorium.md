@@ -7,7 +7,7 @@
 3. [[History of Education - Plato]]
 4. [[History of Education - Helnistic Education]]
 5. [[History of Education - Capella to Comenius]]
-6. [[History of Education - Week 6]]
+6. [[History of Education - Week 6 Comenius]]
 7.[[History of Education - Week 7]]
 8. [[History of Education - Week 8]]
 9. [[History of Education - Week 9]]
