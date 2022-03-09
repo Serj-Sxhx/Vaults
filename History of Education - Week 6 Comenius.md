@@ -86,8 +86,52 @@ The main thesis of which
 
 Locke's thoughts on education - Concerning education.
 
-He was the tutor of a few children - it's very humble. 
+He was the tutor of a few children - it's very humble and starts from what he observes works with kids.
+
 ![[Screenshot 2022-03-09 at 09.52.01.png]]
+
+- develop virtue by modeling and types of encouragement and socialisation. 
+- When they're in the right cognitive mood for curiosity and what they're interested in - in the moment.
+- Go into town and do trade, go do something. 
+- Individualism: Different children are different
+
+Serj note: The teacher should be an anthropologist [[seymore papert]]
+
+![[Screenshot 2022-03-09 at 09.57.25.png]]
+
+It's natural to find your children cute. Most people treat kids like this, then they try to lay down the law and put restraints on them. 
+
+When they're a baby, give them an impressions, when they develop reason, back off and treat them like a college. This is an attitude that you bring 
+
+5-6 get into the habit of modeling reason for them.
+
+Be a bit more authoritative when they're younger, a bit more collegial when they're older.
+
+Learn current culture, develop a theory of history.
+
+![[Screenshot 2022-03-09 at 10.04.45.png]] 
+
+There's a whole element to learning which is about interest, 
+
+Obligation to learning is antithetical to learning
+
+![[Screenshot 2022-03-09 at 10.12.12.png]]
+
+It's not higher or lower, the son of a gentle men should go out, get a job an make something of themselves
+
+![[Screenshot 2022-03-09 at 10.15.34.png]]
+
+
+Assumes that the teacher is inspirational and models virtue well. 
+
+
+Take freedom, choice, and preferences seriously.
+- get a job, do some practical arts.
+
+
+
+
+
 
 
 ---
