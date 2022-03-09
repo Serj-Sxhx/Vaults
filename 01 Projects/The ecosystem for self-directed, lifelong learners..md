@@ -190,6 +190,8 @@ _Equitable pathways for all citizens, regardless of background_
 
 ### Eduació360,  or ‘full-time learning'
 
+https://www.educacio360.cat/
+
 Against a background of debates about the length of the school day and in the inequality of families’ ability to pay for after school activities, the Educaió360 Alliance seeks to enshrine the right of all young people to a coherent and high quality out-of-school learning offer, backed by state-wide policy and operationalized by municipalities.
 
 The ecosystem at a glance 
@@ -213,19 +215,68 @@ _Examples of piolet programs_
 
 Uses alternative learning spaces in cultural facilities through workshops with professionals and experts from various institutions.
 
+Key features • An Educació360 Manifesto that sets a common goal for municipalities and other partners. • Policy and political advocacy to enshrine the entitlement to high quality out-of-school learning for all children. • Network events, workshops and training to enable learning between pilots. • No blueprint for pilot sites; each municipality works towards the goal in ways that suit their context. • Annual Educació360 week, digital badge support, Children’s Passport provided and promoted at network level.
+
 While the manifesto makes reference to integrating in-school and out-of-school learning, the focus is very much on mobilising and organising community and municipality funded assets: seeking to change the context within with young people and schools operate, rather than starting with schools themselves.
+
+> “Some people talk about replacing school. We don’t feel this is feasible or even desirable. We feel school has real value for universal education for all children and other values such as social cohesion... we still feel that school is a good model but has to change dramatically how it works and its role.” - Monica Nadal, Jaume Bofill Foundation
+
+Thus, in a parallel initiative, Escola 21, the Bofill Foundation is supporting efforts to ‘transform the DNA of schools’ to fundamentally change how schools operate. But the Foundation also recognise that the context in which schools operate needs to change too.
+
+The alliance promotes some common ‘key drivers’ that enable learning, sharing and a common language between localities including digital badges, Educació360 week, and a Children’s Passport.
+
+Key learnings
+
+The focus on the role of municipal authorities also makes clear that ultimately the governance and funding of the learning ecosystems would be held by state authorities if the campaign is successful. This of course comes with all of the opportunities for universalism and democratic oversight, and some of the potential downside of potentially bureaucratic processes
+
+the alliance is being built from the bottom up by engaging new players and creating a sense of a movement among partners
 
 1. Educació360, Catalonia, Spain 
 2. LRNG, various cities, USA 
 3. Kuopio Culture Path, Kuopio, Finland 
 4. Jump Start, Louisiana, USA 
 5. Swinburne University of Technology, Melbourne, Australia 
-6. The Metropolitan Regional Career and Technical Centre ‘The Met’, Providence, Rhode Island, USA 
-7. LenPolyGrafMash, St Petersburg, Russia 
-8. Remake Learning, Pittsburgh, Pennsylvania, USA 
-9. RSA Cities of Learning, various cities, UK
+
+The ecosystem at a glance What is the learning ecosystem? Swinburne University of Technology work with industry and community partners (such as Siemens and the Australian Synchrotron), primary and secondary schools, and the Australian government to provide enriching STEM learning programs as part of a pilot ecosystem designed to raise awareness of STEM disciplines. To better support lifelong learning, Swinburne are investing heavily in building a dynamic, interactive, career management platform to connect groups across the ecosystem and allow users to meaningfully develop their own unique ‘professional purpose’, informed by real-time market data.
+
+400 schools engaged in STEM school engagement programs 38,790 school students engaged in STEM school engagement programs 116 Swinburne students engaged in STEM school engagement programs
+
+7. The Metropolitan Regional Career and Technical Centre ‘The Met’, Providence, Rhode Island, USA
+
+Since 1996, The Met has developed a sophisticated practice for working together with its community in Providence, Rhode Island, to reimagine and reshape education
+
+The Met provides real world, interest-led learning pathways by engaging mentors from the community, mobilizing local businesses and building partnerships with further and higher education institutions. It operates a personalized learning design that allows each learner to pursue their passions and interests, in line with an individual learning plan negotiated between teacher, parent or carer, and learner.
+
+The Met School is only a small high school of 875 students, the Big Picture Learning design it established has scaled to over 65 Big Picture network schools in the United States and over a hundred around the world. Schools in Australia, the Netherlands, Italy, Canada, India, Kenya, Barbados, Belize, and New Zealand utilise the BPL design.]
+
+*Key Insights *
+
+The Met School reaches meaningfully into the community by enrolling families and community mentors in supporting the learning of each individual learner.
+
+Built their own school which embodies these ways of learning from the very get go so they didn't need to change the DNA of existing schools like other examples. 
+
+Despite challenging the ideas of what ‘schooling’ should be the Met is highly successful on conventional metrics, with very high proportions of its graduates entering or graduating from college.
 
 
+8. LenPolyGrafMash, St Petersburg, Russia 
+
+LenPolyGrafMash (LPM) is a co-working business space for those interested in technological entrepreneurs and education. Owners of the space are attempting to significantly transform the working culture of both the space and St Petersburg, and create a learning offer that connects with the skills needs of the businesses on the site
+
+An intermediary role is required to connect organizations and institutions who are used to working in silos.
+
+“weavers” working group has been established as a partnership consisting of twelve institutions, including the national agency for innovation development, three universities, and several private companies such as RosNano School League and National University 2035.
+
+Mindsets need to shift before new skills and ways of working can be developed. There currently isn’t enough demand in Russia at the moment.
+
+
+10. Remake Learning, Pittsburgh, Pennsylvania, USA 
+11. RSA Cities of Learning, various cities, UK
+
+### other impact
+
+In the others we've seen impact such as 
+
+The Cultural Paths serve 10,000 students in grades 1 to 9. During 2017 the Kuopio Museum received 35,067 visitors out of about 118,000 city inhabitants; 23,936 of them were free visitors, mostly school children and others under 18 years old. 9,314 of them participated in a guided tour.
 
 # The Challenges that Ecosystems 
 
