@@ -58,6 +58,8 @@ What kinds of learning systems can sense an environment effectively, adapt and r
  
 they are metaphorically attractive as a way of thinking about the future because Ecosystems both provide and require:
 
+capture the advantages of centralization and coordination produced by hierarchy while attempting to harness the advantages of more decentralized organizational structures.
+
  ### Diversity: 
  
  Multiple providers that fulfil many roles, allowing for “structural stability” of the ecosystem
