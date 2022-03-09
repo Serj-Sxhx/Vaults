@@ -144,7 +144,7 @@ learning ecosystems focus exclusively on delivering powerful, often radically di
 
 # Case Studies
 
-## RSA Cities of Learning, UK
+## 1. RSA Cities of Learning, UK
 Activating a grassroots, city- based, mass engagement movement around lifelong learning and skills.
 
 
@@ -182,7 +182,38 @@ Currently, there is a mix of national and city based funding for Cities of Learn
 
 _Badge-based pathways_
 
+
+
+
+
 _Equitable pathways for all citizens, regardless of background_
+
+### Eduació360,  or ‘full-time learning'
+
+Against a background of debates about the length of the school day and in the inequality of families’ ability to pay for after school activities, the Educaió360 Alliance seeks to enshrine the right of all young people to a coherent and high quality out-of-school learning offer, backed by state-wide policy and operationalized by municipalities.
+
+The ecosystem at a glance 
+
+_What is the learning ecosystem?_
+
+An alliance of municipalities and partners committed to making high quality out-of-school learning opportunities available to all children and young people in Catalonia. 
+
+34 local authorities have signed the manifesto and joined the network, of which 11 are actively piloting approaches to how they can make the offer a reality in their locality.
+
+_When was it established? _
+
+The Alliance has been established for two years although some of the pilots pre-date the establishment of the Educació360 network. 
+
+_To what extent has it scaled?_ 
+
+52 local authorities and 48 other partners from across Catalonia have signed up, and 11 localities are actively engaged in pilot programmes.
+
+
+_Examples of piolet programs_
+
+Uses alternative learning spaces in cultural facilities through workshops with professionals and experts from various institutions.
+
+While the manifesto makes reference to integrating in-school and out-of-school learning, the focus is very much on mobilising and organising community and municipality funded assets: seeking to change the context within with young people and schools operate, rather than starting with schools themselves.
 
 1. Educació360, Catalonia, Spain 
 2. LRNG, various cities, USA 
@@ -384,5 +415,7 @@ Tags
 Links / References:
 
 https://www.wise-qatar.org/app/uploads/2019/05/wise_report-rr.1.2019-web.pdf
+
+William Boyd, ‘Are Education and Efficiency Antithetical?: Education for Democracy vs the “Cult of Efficiency”’, _Journal of Educational Administration_ 42 (1 April 2004): 160–73, [https://doi.org/10.1108/09578230410525586](https://doi.org/10.1108/09578230410525586).
 
 ---
