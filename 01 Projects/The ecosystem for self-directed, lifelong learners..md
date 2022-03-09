@@ -145,6 +145,9 @@ learning ecosystems focus exclusively on delivering powerful, often radically di
 # Case Studies
 
 ## 1. RSA Cities of Learning, UK
+
+ a mix of national and city based funding for Cities of Learning – bringing together corporate partners, grant funders, and public sector funders
+
 Activating a grassroots, city- based, mass engagement movement around lifelong learning and skills.
 
 
@@ -182,7 +185,7 @@ Currently, there is a mix of national and city based funding for Cities of Learn
 
 _Badge-based pathways_
 
-
+CofL does not intend to replace formal assessments. Rather it seeks to integrate digital badges and place-based programs into a wider movement that can drive increased engagement, promote more equal access to opportunity and social capital, and cultivate a culture of learning. T
 
 
 
@@ -232,10 +235,31 @@ The focus on the role of municipal authorities also makes clear that ultimately 
 the alliance is being built from the bottom up by engaging new players and creating a sense of a movement among partners
 
 1. Educació360, Catalonia, Spain 
-2. LRNG, various cities, USA 
-3. Kuopio Culture Path, Kuopio, Finland 
-4. Jump Start, Louisiana, USA 
-5. Swinburne University of Technology, Melbourne, Australia 
+
+
+3. LRNG, various cities, USA 2015 https://www.home.lrng.org/
+
+What is the learning ecosystem? LRNG works with city networks and organizations to connect out-ofschool learning experiences to career opportunities through facilitating direct relationships supported by a digital platform and ‘playlists’ of digital badges. It aims to ensure that all young people, especially those from underserved communities, have inspiration and guidance to prepare them for life and work in the modern economy.
+
+experts who are not professional educators; they make their expertise available to learners in a direct unmediated way. This is radical: it makes live the notion that education is, or should be, everybody’s business
+
+
+This is the most learner-driven of our case studies: both in terms of the design of overall offer, and of the learner pathways, which are chosen by learners and not fixed or pre-determined.
+
+a tech platform is center stage but still requires local organizations who can relate this work to their own agenda. With a focus on tech there is less of an imperative to design innovative governance arrangements. 
+
+Funding is coming from philanthropic sector.
+
+Small organizations can apply for up to $5,000 (USD) to create design challenges playlists, receive technical assistance and create badges. Many youth workers want to see their young people flourish and will encourage those they work with to take part and get involved with the platform.
+
+4. Kuopio Culture Path, Kuopio, Finland 
+
+In the others we've seen impact such as 
+
+The Cultural Paths serve 10,000 students in grades 1 to 9. During 2017 the Kuopio Museum received 35,067 visitors out of about 118,000 city inhabitants; 23,936 of them were free visitors, mostly school children and others under 18 years old. 9,314 of them participated in a guided tour.
+
+5. Jump Start, Louisiana, USA 
+6. Swinburne University of Technology, Melbourne, Australia 
 
 The ecosystem at a glance What is the learning ecosystem? Swinburne University of Technology work with industry and community partners (such as Siemens and the Australian Synchrotron), primary and secondary schools, and the Australian government to provide enriching STEM learning programs as part of a pilot ecosystem designed to raise awareness of STEM disciplines. To better support lifelong learning, Swinburne are investing heavily in building a dynamic, interactive, career management platform to connect groups across the ecosystem and allow users to meaningfully develop their own unique ‘professional purpose’, informed by real-time market data.
 
@@ -269,14 +293,17 @@ An intermediary role is required to connect organizations and institutions who a
 Mindsets need to shift before new skills and ways of working can be developed. There currently isn’t enough demand in Russia at the moment.
 
 
-10. Remake Learning, Pittsburgh, Pennsylvania, USA 
-11. RSA Cities of Learning, various cities, UK
+10. Remake Learning, Pittsburgh, Pennsylvania, USA Founded 2007
 
-### other impact
+A collective of individuals and organizations in Western Pennsylvania are working alongside public school systems to ignite engaging, relevant, and equitable learning practices. This local learning ecosystem, anchored in the city of Pittsburgh, supports learners of school age to gain learning experiences that respond to technological and societal change in a post-industrial city in the rust belt of the United States.
 
-In the others we've seen impact such as 
+The Remake Learning network consists of more than 500 organizations in the region, with 137 school districts, as well as museums, libraries, other out-of-school education non-profits, philanthropies, government bodies, industry partners large and small, and startups in the education space. It has trained over 5,300 educators (formal and non-formal) in innovative teaching methods, and has granted $70 million (USD) philanthropic support to local learning innovation.
 
-The Cultural Paths serve 10,000 students in grades 1 to 9. During 2017 the Kuopio Museum received 35,067 visitors out of about 118,000 city inhabitants; 23,936 of them were free visitors, mostly school children and others under 18 years old. 9,314 of them participated in a guided tour.
+
+Funding 
+
+
+
 
 # The Challenges that Ecosystems 
 
@@ -375,6 +402,8 @@ a movement towards learning ecosystems has the potential to transform how learni
  # Assessment 
 
  these initiatives embrace innovative credentialing systems that can replace or supplement conventional assessment practices.
+
+https://openbadges.org/
  
  [[Provide a long chain of evidence of learning for stakeholders (14)]]
   
