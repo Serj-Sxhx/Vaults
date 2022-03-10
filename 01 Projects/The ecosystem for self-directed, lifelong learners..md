@@ -24,6 +24,8 @@ given the complexity and fluidity of this ecosystem approach, effective coordina
 # Introduction
 What are the barriers and enablers faced by attempts to create or catalyse learning ecosystems?
 
+Promoting learning ecosystems as a supplementary and necessary paradigm and pattern for learning to prepare people for a world of rapidly increasing complexity
+
 
 # Why now
 
