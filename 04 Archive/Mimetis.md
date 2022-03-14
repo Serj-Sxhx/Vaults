@@ -77,7 +77,7 @@ A learning network for self-directed learners. A type of Meta-Community of Pract
 - The community will show you how to turn your ideas into reality whatever that means specifically for you
 - The community will support you to understand your body, emotions and cognition so you can become wise and overcome self deception and be a change agent in any room. 
 - The community will show you how to increase your depth of empathy to feel connected to our world along with all the life that exists on it, and develop your situational awareness to that you can use your wisdom, augmented creativity and ability to learn and teach to build sustainable futures for us all.
-- [[ARK]] 
+- [[What is ARK?]] 
 - [[Mimetis Core Curriculum]]
 
 *Environment*
@@ -118,7 +118,7 @@ Teacher/Learner [[Teacher - Mimetis]]
 	[[Concept Maps]]
 	Teachers lead [[Mimetis Events]]
 Parents [[Parents - Mimetis]]
-	[[ARK]]s
+	[[What is ARK?]]s
 Experts [[Experts - Mimetis]]
 	Expert led [[Mimetis Events]]
 Guides & [[Keepers of the Fabric]] 
@@ -133,7 +133,7 @@ Organization
 Infrastructure
 	[[Adaptive Curriculums]]
 	[[Content Trails behind projects]]
-	[[ARK]]s
+	[[What is ARK?]]s
 	[[Learning Token]]
 
 [[Mimetis Core Curriculum]] 
