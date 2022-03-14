@@ -52,6 +52,8 @@ What happens when young people engage with a range of resources within a broader
 
 What kinds of learning systems can sense an environment effectively, adapt and reconfigure itself to both the needs of a labour market and an individuals's sense of identity and purpose?
 
+The timing of this moment is fortunate as we (humanity as a whole) are currently beset by a pantheon of “wicked problems.” Problems like ecosystem collapse, the accelerating breakdown of social and political coherence, and the event horizon of exponential technology. These are “wicked” both because they represent world-historical risk (i.e., they are very important) and because they are strictly insoluble using our current “problem solving” toolkit
+
 # Ecosystems in Theory vs practice
 
  a biological metaphor in response to complexity.
