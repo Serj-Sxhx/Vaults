@@ -28,7 +28,7 @@ Much of what I have to say has already been said. I simply re-synthesize it for 
 
 ### Introduction: Paideia X Praxis
 
-**Paideia** is a Greek word meaning roughly _educational paradigm_ the totality of a society’s ideas, institutions, and practices concerning intergenerational transmission. It about the practice of raising of younger members of society. In modern society, the responsibility of a paideia is often spread across multiple institutions, domains and social groups. Members within families, schools, corporations, medical and therapeutic institutions, caregivers and even law enforcement form and contribute to the broader societal paideia. 
+**Paideia** is a Greek word meaning roughly _educational paradigm_ the totality of a society’s ideas, institutions, and practices concerning intergenerational transmission. It's about the practice of raising of younger members of society. In modern society, the responsibility of a paideia is often spread across multiple institutions, domains and social groups. Members within families, schools, corporations, medical and therapeutic institutions, caregivers and even law enforcement form and contribute to the broader societal paideia. 
 
 
 **Praxis** is the exercise or practice of an art, science, or skill. By doing so we turn theory into practical application.
