@@ -95,7 +95,7 @@ Municipalities (education providers) are given free reign to do whatever they li
 
 ### Innovation ecosystems and learning ecosystems 
 
-> “Where you have the diversity of players required for an innovation ecosystem you will also have the conditions for a learning ecosystem” Rosie Clayton
+> “Where you have the diversity of players required for an innovation ecosstem you will also have the conditions for a learning ecosystem” Rosie Clayton
 
 # What is a learning ecosystem
 
