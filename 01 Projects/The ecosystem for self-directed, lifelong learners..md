@@ -101,7 +101,7 @@ Municipalities (education providers) are given free reign to do whatever they li
 
 Deriving from the field of evolutionary biology, an ‘ecosystem’ is a community of interdependent organisms acting in conjunction with the natural environment.
 
-There are obviously already ecosystems which are netoworks of schools alone, or involve partnerships between schools, community and industry by are controlled wholly by the school  but our focus is on ecosystems that have a few common features 
+There are obviously already ecosystems which are networks of schools alone, or involve partnerships between schools, community and industry by are controlled wholly by the school  but our focus is on ecosystems that have a few common features 
 
 • Are diversifying learning resources and pathways for learners 
 • Are activating and sharing resources for learning in new ways from diverse sources 
@@ -110,7 +110,7 @@ There are obviously already ecosystems which are netoworks of schools alone, or 
 • Comprise formal and informal learning institutions, traditional and new entrants 
 • Have distributed governance 
 • Are learner driven or have learner agency at their heart 
-• Make an attempt to meet twenty first century challenges in some way, beyond academic attainment.\
+• Make an attempt to meet twenty first century challenges in some way, beyond academic attainment.
 
 ### Benefits 
 
