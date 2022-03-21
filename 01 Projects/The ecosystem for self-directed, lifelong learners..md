@@ -490,7 +490,6 @@ https://openbadges.org/
 [[Guild - New Community Business Model(27)]]
 
 
- 
 
 ---
 Type 
@@ -503,3 +502,25 @@ https://www.wise-qatar.org/app/uploads/2019/05/wise_report-rr.1.2019-web.pdf
 William Boyd, ‘Are Education and Efficiency Antithetical?: Education for Democracy vs the “Cult of Efficiency”’, _Journal of Educational Administration_ 42 (1 April 2004): 160–73, [https://doi.org/10.1108/09578230410525586](https://doi.org/10.1108/09578230410525586).
 
 ---
+
+
+disruptive innovation comes from diversity, and people working together who you would never have imagined working together before. Getting Imagine getting startup incubators collaborating with municipal leadership, and non profits to 
+
+By meeting together like this
+
+Message from me, 
+
+DAO's 5 C's
+
+- Communicate
+- Convene 
+- Catalyse - Mini grants - 8Million
+- Champion - 
+	- we shine big spotlights on our network members to the entire community so that parents caregivers people who are not at all involved in education can see the amazing things that our network members are doing
+- Coordination
+
+Teaching
+- professional development
+- Meet people where they are
+
+(100s of people) - 2 3 a month
