@@ -131,10 +131,10 @@ If you introduce morality early they become corrupted.
 
 ![[Screenshot 2022-03-22 at 17.10.31.png]]
 
+
+
 # Summary
-
-![[Screenshot 2022-03-22 at 17.12.41.png]]
-
+![[Screenshot 2022-03-22 at 17.17.27.png]]
 
 ---
 Type #🌱 
