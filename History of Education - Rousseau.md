@@ -36,7 +36,69 @@ Counter to Locke. Kids have Long Pre-rational stage, but don't think about long 
 
 Eventually you enter society but you should delay their exposure to books until teens.
 
-How much do they really care? There's something warped about it. it's less than 
+How much do they really care? There's something warped about it. it's less than authentic reasoning. 
+
+What's 
+
+There's school reading at the time, not child literature. So most school reading is drill and kills. Comenius's vision of books did not catch on. 
+
+Novels are seen as morally dubious. There's no harry potter right now. The reports are that children didn't like to read. 
+
+He doesn't have an account for when you should learn how to read. But it should be postponed for a long time - 13/14
+
+Quality and Quantity are opposed. Depth over breadth. Whatever they're going towards they should go towards it. 
+
+His view of moral education. Natural consequences, let the child get hurt, let them figure out by their own accord that if he is careless then he'll get hurt.
+	- Children should have 
+
+There's things that you should do 
+
+
+You should not be educating kids in a specific trade. Learning a trade is awesome but the world is changing and you shouldn't be so specific. 
+
+How might we teach for transfer?
+
+It happens from a sexual awakening and that those biological and emotional interest in others can be be brought through a tutored process.
+
+- What his political outlook is that society teaches us Tyranical or slavish impulses.
+	- He's very technical about when to indulge them and when to support their requests. 
+
+**Science vs Education**
+
+![[Screenshot 2022-03-22 at 14.33.17.png]]
+
+If I was going to teach you magnetism theres a few ways you can go about it.
+
+Start in Maxwells Laws, Start with first principles and go from there.
+
+Rosseau, says, If a child is interested in magnets, give them a magnet, see what questions they ask. This is the order of the senses - that each particular object is followed by each question and solution, then new objects and questions and solutions. This is the core empiricist / Enlightenment point. The way to organise information is by How children tend to notice things.
+
+![[Screenshot 2022-03-22 at 14.37.36.png]]
+
+Society is bad for human beings in trying to shape them into things that we think are good but we don't know what that thing is that we want to form them to.
+
+We're not just bad at education but even growing up in society is bad for growing up in.
+
+There's something very unnatural about the way we raise children. The way we do it produces Vein, docile, over obedient or tyranical people.
+
+Negative of the polis teaches the man. 
+
+We view ourselves through the latest technology that we think are awesome. Let's expose our children to it. 
+
+We can use our experience and observation of the world as a way into ourselves. We can be critical of that environment and think about how we mirror the world around us. 
+
+They should be sharing with eachother their models of the world and inquiring into weather or not they're accurate representations of reality based on their observations, experiences and captured propositional knowledge. 
+
+Drill and kill
+Picture books 
+Games 
+F Literacy 
+
+
+Read at 8/9/10
+
+
+
 
 
 ---
