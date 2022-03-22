@@ -78,6 +78,13 @@ Comenius thinks 1 to 100 is possible teacher to students
 
 Modernity is unlocking agency in the individual. 
 
+A summary of Comenius
+
+-   Education was a perfectible machine, you could have on mass education or one teacher teaches 100 students, the same thing at the same time you just have it so perfected you just have the perfect.
+![[Screenshot 2022-03-22 at 13.58.32.png]]-   textbook and activity book and lab sequences like whatever you think should go into education some sort of combination of.
+-   readings lectures and activities that everybody just moves through a perfectly in lockstep.
+- And that this actually if you did it right would give you the knowledge of nature that ramped up the knowledge of religion and knowledge of God and was in some ways the same as or overlapped with with knowledge of God great communities and this preparing all souls for the afterlife.
+
 ### John Locke 1632-1704
 Influenced by newton.
 
@@ -132,6 +139,8 @@ Take freedom, choice, and preferences seriously.
 
 
 
+
+![[Screenshot 2022-03-22 at 13.59.24.png]]
 
 
 ---
