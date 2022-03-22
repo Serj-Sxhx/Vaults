@@ -94,12 +94,35 @@ Picture books
 Games 
 F Literacy 
 
+Pushback to Read at 8/9/10. Books 
 
-Read at 8/9/10
+At the age of 12 the child should have the kind of relationship to their tutor as they have to their dog. 
+
+1600, 1700 The novel is really just being invented.
 
 
+![[Screenshot 2022-03-22 at 16.21.39.png]]
+
+Better to do a slow authentic, substantive, qualitative, judgement is more important.
 
 
+![[Screenshot 2022-03-22 at 16.26.20.png]]
+
+Children have needs. As a caregiver you should tend to them sensitively. Children test you with social manipulative cries. If you goto them every time they're going to start manipulating you. 
+
+# Education By Nature
+![[Screenshot 2022-03-22 at 16.28.06.png]]
+
+# Education of the Senses
+- children don't have much reason. You can't instruct. But you can do alot with senses. You can educate and build judgement via the senses.
+  
+![[Screenshot 2022-03-22 at 16.34.08.png]]
+
+
+# Principled Generalism
+![[Screenshot 2022-03-22 at 16.43.47.png]]
+
+The jobs 
 
 ---
 Type #🌱 
