@@ -122,7 +122,19 @@ Children have needs. As a caregiver you should tend to them sensitively. Childre
 # Principled Generalism
 ![[Screenshot 2022-03-22 at 16.43.47.png]]
 
-The jobs 
+- The real calling to be a generalist is because the world is changing.
+
+
+![[Screenshot 2022-03-22 at 17.08.23.png]]
+
+If you introduce morality early they become corrupted. 
+
+![[Screenshot 2022-03-22 at 17.10.31.png]]
+
+# Summary
+
+![[Screenshot 2022-03-22 at 17.12.41.png]]
+
 
 ---
 Type #🌱 
