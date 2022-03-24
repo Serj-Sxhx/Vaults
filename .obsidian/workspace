@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Learning Society.md",
+            "file": "06 Notes/Deschooling Society.md",
             "mode": "source",
             "source": true
           }
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Learning Society.md",
+                "file": "06 Notes/Deschooling Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "06 Notes/Deschooling Society.md",
     "The Learning Society.md",
     "History of Education - Rousseau.md",
     "06 Notes/History of Education - Montessorium.md",
@@ -131,7 +133,6 @@
     "06 Notes/History Of Education in Antiquity.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "01 Projects/_PxP Homepage.md",
-    "06 Notes/Deschooling Society.md",
     "06 Notes/4 Identities of a Teacher.md",
     "What is ARK?.md"
   ]

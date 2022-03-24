@@ -1,7 +1,6 @@
 ### Lit Note 
 
-The alternative to dependence on schools is not the use of public resources for some new device which "makes" people learn; rather it is the creation of a new style of
-educational relationship between man and his environment. 72, Cp.6
+The alternative to dependence on schools is not the use of public resources for some new device which "makes" people learn; rather it is the creation of a new style of educational relationship between man and his environment. 72, Cp.6
 
 "What kinds of things and people might learners want to be in
 contact with in order to learn?"
@@ -15,11 +14,7 @@ him to define and achieve his own goals:
 
 ### Tool [[Access to Tools]]
 1. Reference Services to Educational Objects-which facilitate access to
-things or processes used for formal learning. Some of these things can be
-reserved for this purpose, stored in libraries, rental agencies, laboratories, and
-showrooms like museums and theaters; others can be in daily use in factories,
-airports, or on farms, but made available to students as apprentices or on off
-hours.
+things or processes used for formal learning. Some of these things can be reserved for this purpose, stored in libraries, rental agencies, laboratories, and showrooms like museums and theaters; others can be in daily use in factories, airports, or on farms, but made available to students as apprentices or on off hours.
 
 ### Type: Skill Teacher [[xAPI Events & Record Store (5)]]
 2. Skill Exchanges--which permit persons to list their skills, the conditions
@@ -34,9 +29,7 @@ finding a partner for the inquiry.
 ### Celebrity Teachers Directory Coaching [[xAPI Events & Record Store (5)]] + Type: Cohort, Coaching, Course, Workshop
 4. Reference Services to Educators-at-Large--who can be listed in a
 directory giving the addresses and self-descriptions of professionals,
-paraprofessionals, and free-lancers, along with conditions of access to their
-services. Such educators, as we will see, could be chosen by polling or
-consulting their former clients.
+paraprofessionals, and free-lancers, along with conditions of access to their services. Such educators, as we will see, could be chosen by polling or consulting their former clients.
 
 ### On Tool Access 
 Formal learning requires special access to ordinary things, on the
@@ -50,12 +43,7 @@ At present, attention is focused on the disparity between rich and poor
 children in their access to things and in the manner in which they can learn
 from them. OEO and other agencies, following this approach, concentrate on
 equalizing chances, by trying to provide more educational equipment for the
-poor. A more radical point of departure would be to recognize that in the city
-rich and poor alike are artificially kept away from most of the things that
-surround them. Children born into the age of plastics and efficiency experts
-must penetrate two barriers which obstruct their understanding: one built into
-things and the other around institutions. Industrial design creates a world of
-things
+poor. A more radical point of departure would be to recognize that in the city rich and poor alike are artificially kept away from most of the things that surround them. Children born into the age of plastics and efficiency experts must penetrate two barriers which obstruct their understanding: one built into things and the other around institutions. Industrial design creates a world of things.
 
 ### On Games at school 
 Games are a case in point. I do not mean the "games" of the physical
@@ -112,10 +100,7 @@ The right to teach any skill should come under the protection of freedom of spee
 ### Reimbursement for Skills Teachers 
 
 The teacher of skills needs some inducement to grant his services to a
-pupil. There are at least two simple ways to begin to channel public funds to
-noncertified teachers. One way would be to institutionalize the skill exchange
-by creating free skill centers open to the public. Such centers could and should
-be established in industrialized areas, at least for those skills which are
+pupil. There are at least two simple ways to begin to channel public funds to noncertified teachers. One way would be to institutionalize the skill exchange by creating free skill centers open to the public. Such centers could and should be established in industrialized areas, at least for those skills which are
 fundamental prerequisites for entering certain apprenticeships--such skills as
 treading, typing, keeping accounts, foreign languages, computer programming
 and number manipulation, reading special languages such as that of electrical
