@@ -4,7 +4,7 @@ OUR STUDENTS ARE TEACHERS, ALL TEACHERS ARE STUDENTS, EVERYONE IS A CREATOR
 
 ---
 
-It's pretty undisputed that learning to learn, being a critical self-directed lifelong learner is one of the best competencies to develop in our fast paced, ever changing world. Indeed in uncertain times the only truly important skill is to learn, unlearn and adapt.
+It's pretty undisputed that learning to learn and being a critical self-directed lifelong learner is one of the best competencies to develop in our fast paced, ever changing world. Indeed in uncertain times the only truly important skill is to learn, unlearn and adapt.
 
 "Over the next century, scholars and fans aided by computational algorithms, will knit together the books of the world into a single networked literature. A reader will be able to generate a social graph of an idea, or timeline of a concept, or a networked map of influence for any notion in the library. We'll come to understand that no work, no idea, stands truly alone, but that all good true and beautiful things are networks, ecosystems of intertwined parts, related entities and similar works" - **Kevin Kelly - Editor Wired Magazine**
 
