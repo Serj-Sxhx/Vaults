@@ -24,8 +24,8 @@ submerged would stifle nature in him and put nothing in its place.
 Nature there would be like a shrub that chance had caused to be born
 in the middle of a path and that the passers-by soon cause to perish
 by bumping into it from all sides and bending it in every direction.
+It is to you that I address myself, tender and foresighted mother,* ' 
 
-It is to you that I address myself, tender and foresighted mother,* ' [Screenotate Trial]
 ---
 Type 
 Tags [[Jean-Jacques Rousseau]]
