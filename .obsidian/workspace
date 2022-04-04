@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Emile Book.md",
+            "file": "Procedual Knowledge direved from the Knowledge Commons.md",
             "mode": "source",
             "source": true
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emile Book.md",
+                "file": "Procedual Knowledge direved from the Knowledge Commons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +124,7 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "Procedual Knowledge direved from the Knowledge Commons.md",
     "Emile Book.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "06 Notes/Deschooling Society.md",
@@ -133,7 +133,6 @@
     "06 Notes/History of Education - Montessorium.md",
     "History of Education - Week 6 Comenius, Pictures, Enlightenment, Locke.md",
     "06 Notes/History Of Education in Antiquity.md",
-    "01 Projects/_PxP Homepage.md",
-    "06 Notes/4 Identities of a Teacher.md"
+    "01 Projects/_PxP Homepage.md"
   ]
 }
