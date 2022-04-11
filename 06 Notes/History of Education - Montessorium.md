@@ -9,7 +9,7 @@
 5. [[History of Education - Capella to Comenius]]
 6. [[History of Education - Week 6 Comenius, Pictures, Enlightenment, Locke]]
 7.[[History of Education - Rousseau]]
-8. [[History of Education - Week 8]]
+8. [[History of Education - Early America]]
 9. [[History of Education - Week 9]]
 10. [[History of Education - Week 10]]
 11. [[History of Education - Week 11]]
