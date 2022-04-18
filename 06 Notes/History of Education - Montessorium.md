@@ -10,7 +10,7 @@
 6. [[History of Education - Week 6 Comenius, Pictures, Enlightenment, Locke]]
 7.[[History of Education - Rousseau]]
 8. [[History of Education - Early America]]
-9. [[History of Education - Week 9]]
+9. [[History of Education - Progressive Education]]
 10. [[History of Education - Week 10]]
 11. [[History of Education - Week 11]]
 12.[[History of Education - Week 12]]

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History of Education - Early America.md",
-            "mode": "preview",
+            "file": "History of Education - Progressive Education.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of Education - Early America.md",
+                "file": "History of Education - Progressive Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "History of Education - Early America.md",
+    "History of Education - Progressive Education.md",
     "06 Notes/History of Education - Montessorium.md",
+    "History of Education - Early America.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "01 Projects/WILD Textbooks.md",
     "01 Projects/The Pedagogy of Tools for Thought.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "Procedual Knowledge direved from the Knowledge Commons.md",
     "Emile Book.md",
-    "06 Notes/Deschooling Society.md",
-    "The Learning Society.md"
+    "06 Notes/Deschooling Society.md"
   ]
 }

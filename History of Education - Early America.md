@@ -120,6 +120,7 @@ Tags [[History of Education - Montessorium]]
 
 Links / References:
 
+https://zoom.us/rec/play/nS1kzldypw3mi2nzbyYWI60Xdkr3Ej9EwEgqj9vrvjpWXffgapniAerAnAjGvTJ1XjcqvFX3uVEDW7wA.gLXn85xGuir4RB-x?startTime=1647993319000&_x_zm_rtaid=oPndGRrKRQKqWOacCkzl_Q.1650246938696.e0fa7d5cfe7ddeb3c8c5d6f60608d6c7&_x_zm_rhtaid=646
 
 
 ---
