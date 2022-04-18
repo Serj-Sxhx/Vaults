@@ -2,7 +2,7 @@
 
 Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating tools and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
 
-I'm a learning experience designer (UX / LXD), Product Manager at [Gaileo](https://galileoxp.com/), associate at [Wild Learning Sciences CIC](linkedin.com/company/wildlearning) independent researcher. My research is focused on learner agency, self directed learning [[Learning power]] and [[Expressive Pedagogy]]
+I'm a learning experience designer (UX / LXD), Product Manager at [Gaileo](https://galileoxp.com/), associate at [Wild Learning Sciences CIC](linkedin.com/company/wildlearning) independent researcher. My research is focused on learner [[agency]], self directed learning [[Learning power]] and [[Expressive Pedagogy]]
 
 I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with content creation and instructional design for training teams in a variety of sectors. 
 
@@ -28,7 +28,7 @@ If you've landed here, chances are, you're probably familiar with some of my wor
 
 **🔍 Why Ed-Tech has failed to disrupt the classroom and alternate approaches to designing & deploying.**
 
-**🔍  Adaptive & high agency learners and development of character identity** 
+**🔍  Adaptive & high [[agency]] learners and development of character identity** 
 
 **🔍 Cross-cultural anthropological studies on human development, learning networks and communities of practice.**
 

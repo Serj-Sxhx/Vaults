@@ -109,7 +109,7 @@ The Dewey - University, Laboratory School
 
 ![[Screenshot 2022-04-18 at 13.11.04.png]]
 
-Driven by intinsic motivation. More just in time vs just in case.
+Driven by intrinsic motivation. More just in time vs just in case.
 
 - Some kind of balance between just in time vs just in case. 
 

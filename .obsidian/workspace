@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "History of Education - Progressive Education.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,14 +126,14 @@
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
     "History of Education - Progressive Education.md",
-    "06 Notes/History of Education - Montessorium.md",
-    "History of Education - Early America.md",
+    "06 Notes/Anecdote of Agassiz and the fish.md",
+    "06 Notes/Ananke.md",
+    "06 Notes/Agency.md",
+    "06 Notes/About RadicalxChange.md",
+    "06 Notes/4 Identities of a Teacher.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
-    "01 Projects/WILD Textbooks.md",
-    "01 Projects/The Pedagogy of Tools for Thought.md",
-    "01 Projects/About & Work  - Serj Hunt.md",
-    "Procedual Knowledge direved from the Knowledge Commons.md",
-    "Emile Book.md",
-    "06 Notes/Deschooling Society.md"
+    "01 Projects/The Learning Experience Design Guide.md",
+    "01 Projects/Matchmaking by Curiocity.md",
+    "01 Projects/Live and Learn Together Handbook.md"
   ]
 }

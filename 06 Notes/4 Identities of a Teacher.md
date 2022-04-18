@@ -1,4 +1,4 @@
-Every teacher naturally moves through four stages or identities over time:
+Every online teacher naturally moves through four stages or identities over time:
 
 1.  Reporter
 2.  Expert

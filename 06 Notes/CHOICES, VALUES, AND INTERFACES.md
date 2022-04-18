@@ -31,11 +31,11 @@ _What we’re missing has different names. Sometimes it is called \[users'\] val
 
 Take YouTube as a case in point. We might go to YouTube for many reasons: to learn something new, to feel connected, to be inspired, and so on. But YouTube is blind to these reasons; they are reduced to the narrow metric of watch time, which the service seeks to maximize. That metric in turn feeds back into the menu of options the [recommendation algorithm](https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f) offers us, few of which reflect our original reasons for coming to YouTube. This inability for YouTube to _share our reasons_, Edelman argues, creates a breakdown of trust. Our interests and YouTube's interests are fundamentally misaligned.
 
-This lens may help shed light on the [hotly disputed](https://www.bbc.com/ideas/videos/is-technology-addiction-a-myth/p07ggx85) question of "tech addiction." As Jeff Hancock notes in [our interview with him](https://www.youtube.com/watch?v=jzfLoFqVdrY&list=PLhM_FlxNBM3rMZjncOj6TAcv-BthflBau&index=8), using the term "addiction" around technology denies agency to the user and creates stigma where perhaps none should exist. 
+This lens may help shed light on the [hotly disputed](https://www.bbc.com/ideas/videos/is-technology-addiction-a-myth/p07ggx85) question of "tech addiction." As Jeff Hancock notes in [our interview with him](https://www.youtube.com/watch?v=jzfLoFqVdrY&list=PLhM_FlxNBM3rMZjncOj6TAcv-BthflBau&index=8), using the term "addiction" around technology denies [[agency]] to the user and creates stigma where perhaps none should exist. 
 
 But as Edelman [points out](http://nxhx.org/Choicemaking/), "the economics literature suggests that even the most hardcore addictions can be considered desperate choices" -- the result of either "a bad situation" or "a misunderstanding." 
 
-Seen this way, compulsive email checking or endless Twitter scrolling are not reflections of a lapse in agency but of a poor choice architecture. 
+Seen this way, compulsive email checking or endless Twitter scrolling are not reflections of a lapse in [[agency]] but of a poor choice architecture. 
 
 I'm not told, when logging onto Facebook, about 
 - the likely time cost of my actions, 

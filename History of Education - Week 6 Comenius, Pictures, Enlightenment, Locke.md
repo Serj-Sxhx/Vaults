@@ -76,7 +76,7 @@ Comenius thinks 1 to 100 is possible teacher to students
 
 1 to 35 is good for preschool in Montessori.
 
-Modernity is unlocking agency in the individual. 
+Modernity is unlocking [[agency]] in the individual. 
 
 A summary of Comenius
 

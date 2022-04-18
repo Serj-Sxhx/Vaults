@@ -122,7 +122,7 @@ Should parents have the right to earn skill credit for their children? Since
 such an arrangement would give further advantage to the privileged classes, it
 might be offset by granting a larger credit to the underprivileged. The operation of a skill exchange would depend on the existence of agencies which would facilitate the
 development of directory information and assure its free and inexpensive use.
-Such an agency might also provide supplementary services of testing and
+Such an [[agency]] might also provide supplementary services of testing and
 certification and might help to enforce the legislation required to break up and
 prevent monopolistic practices.
 

@@ -109,7 +109,7 @@ There are obviously already ecosystems which are networks of schools alone, or i
 • Are supported by helpful infrastructure 
 • Comprise formal and informal learning institutions, traditional and new entrants 
 • Have distributed governance 
-• Are learner driven or have learner agency at their heart 
+• Are learner driven or have learner [[agency]] at their heart 
 • Make an attempt to meet twenty first century challenges in some way, beyond academic attainment.
 
 ### Benefits 

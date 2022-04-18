@@ -42,7 +42,7 @@ Some pedagogical problems:
 
 What is the relationship between between cognitive development, character development, enculturation, and vocational training.
 
-> As the printing press made possible books in the vernacular, unlocking freedom of conscience; as property rights made possible industry, unlocking material abundance; so software promises to make possible high-agency pedagogy and to unlock human self-creation.
+> As the printing press made possible books in the vernacular, unlocking freedom of conscience; as property rights made possible industry, unlocking material abundance; so software promises to make possible high-[[agency]] pedagogy and to unlock human self-creation.
 
 Buy the software alone is not sufficient, we need a new approach to pedagogy which provides answers to some of these deepest questions. Rebuilding the core of pedagogy will require us to disrupt some bedrock of everyday life, approaches like self directed learning and Montessori, challenge the whole teacher student relationship. 
 
@@ -50,7 +50,7 @@ How should teacherly authority be established and acted on in practice? What is 
 
 How can software be a portal to learning in 'the real world' by enabling more and better affordance for doing in and out of school? 
 
->It’s likely that AR and VR will find education to be their most valuable niche—once the pedagogy becomes clear. AI will serve agency rather than undercut it—once the pedagogy becomes clear.
+>It’s likely that AR and VR will find education to be their most valuable niche—once the pedagogy becomes clear. AI will serve [[agency]] rather than undercut it—once the pedagogy becomes clear.
 
 >  To master our own development is to master our own futures.It is *the* means of fully adapting to the dislocations of the Information Age. It renders it a force for maturation.
 
