@@ -9,7 +9,7 @@ Where are we
 
 - Comenius
 - Locke
-- Rosseau
+- Rousseau
 - Dewey
 - Montessori
 
@@ -40,8 +40,34 @@ If waves of people are coming from different cultures, what do you need to know 
 What's good to know when it's a frontier and unstable violence from place to place and frontier to frontier. 
 
 ![[Screenshot 2022-04-18 at 10.23.10.png]]
+Do we need a common culture?
+What competencies are needed to participate in Civic life and vote? 
+
+What role could education play in forming this?
+
+Civics & Voting - There was an emergent canon for American content. Jefferson, Bible.
+
+![[Screenshot 2022-04-18 at 10.55.10.png]]
+
+Remanent of European education in New England.
+
+### Education is happening in a shack
+- Blab school, drills say it out loud.
+- It's the record repeating, It's a better Hellenistic period. This is basically the trivium updated for the American context. 
+- Schooling is brief for frontier teachers.
+- Teachers were wizards who sporadically appeared by nomads who were educated, probably from europe. 
+- McGuffey reader - Demand driven textbooks from the 1830s https://en.wikipedia.org/wiki/McGuffey_Readers. McGuffey was a educator who surveyed practices and codified them. 1980s are still not politically correct, it's old fashioned. They're pretty good compared to what else was out there. It's not supernaturalist which is important in a more secularised world. Market dynamics drove the updating of the Text books and greatly increased the quality. These are teacher editions, and teacher trainings. 
+- This is nothing that Locke or Rousseau recommended.
+- People start at 8. Age doesn't emerge until the Prussian system.
+- What about the quadrivium? It's an unrealised ideal. Maths is very practical and not from school. Maybe you're doing basic maths. Constructive geometry might be in the elite. Harmonics or astronomy just aren't studied. 
 
 
+![[Screenshot 2022-04-18 at 10.58.17.png]]
+
+### What's inside
+- no maths in the readers.
+
+![[Screenshot 2022-04-18 at 11.11.17.png]]
 
 
 
