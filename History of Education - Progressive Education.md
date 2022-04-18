@@ -120,9 +120,17 @@ Driven by intinsic motivation. More just in time vs just in case.
 
 There are 4 tyeps of projects
 
-1. is to build something, a boat, a theater play
+1. is to build something, a boat, a theater play, a chair.
 2. Art, read a poem,
-3. solve a problem that's not a practical problem but an intellectual problem. e.g. student 'Reads that the boston massacre never happened' 
+3. solve a problem that's not a practical problem but an intellectual problem. e.g. students 'Reads that the boston massacre never happened' - The students will have to want to find out if it really happened as historians and researchers. If maths, do it as a mathamatician would do it.
+4. Learn something by studying.
+
+A student should build themselves and market themselves. this portfolio is for that.
+
+![[Screenshot 2022-04-18 at 13.19.47.png]]
+
+Engaging aspiration wonder and inspiration
+
 
 ---
 Type 
