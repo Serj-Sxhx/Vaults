@@ -69,6 +69,49 @@ Remanent of European education in New England.
 
 ![[Screenshot 2022-04-18 at 11.11.17.png]]
 
+### Higher education
+
+- Harvard was a divinity school. Latin was to get in via the exam, they used latin to study theology. 
+- In Europe the highest thing to do was to contribute to scholarly research
+- In America, the highest target was politics. History, oratory strength.
+- There was a suspicion of specialisation. There was something un-selfreliant about it. Electives were kind of weird.
+
+### What's happening in New England
+
+![[Screenshot 2022-04-18 at 11.23.43.png]]
+
+1600 everyone has to be literate to read the bible.
+
+- First Schools funded by communities, Then Driven by tax dollars
+- It's still high status to learn latin which is why the first public school is Boston Latin
+- Gradually growing interest in what is happening in Europe science.
+- They're operated publicly by what is the administrative structure. 
+
+
+![[Screenshot 2022-04-18 at 11.26.41.png]]
+
+Antioch collage - Horace Mann
+
+### What's happening in Europe
+
+- Post enlightenment ideologies such as Hagel have opinons. 
+- Prussian model: Compulsory education that's nationalistic. Authoritarian, Obedience driven. Baseline designed by the state. 
+- Horace Mann is critical of the Prussian model
+	- It's division on classist line
+	- English system is criticised due to industrial conditions
+	- 
+
+
+![[Screenshot 2022-04-18 at 11.29.58.png]]
+
+### What is not driving education in the U.S.
+
+- Industilistion is not driving education in the US
+- It's not driving reforms in the collages. 
+- More driven by national character and civic participation.
+
+
+ ![[Screenshot 2022-04-18 at 11.36.25.png]]
 
 
 ---
