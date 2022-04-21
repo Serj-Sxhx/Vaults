@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History of Education - Progressive Education.md",
+            "file": "06 Notes/Ways of Knowing (4Ps).md",
             "mode": "preview",
             "source": true
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of Education - Progressive Education.md",
+                "file": "06 Notes/Ways of Knowing (4Ps).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +124,7 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "06 Notes/Ways of Knowing (4Ps).md",
     "History of Education - Progressive Education.md",
     "06 Notes/Anecdote of Agassiz and the fish.md",
     "06 Notes/Ananke.md",
@@ -133,7 +133,6 @@
     "06 Notes/4 Identities of a Teacher.md",
     "01 Projects/The ecosystem for self-directed, lifelong learners..md",
     "01 Projects/The Learning Experience Design Guide.md",
-    "01 Projects/Matchmaking by Curiocity.md",
-    "01 Projects/Live and Learn Together Handbook.md"
+    "01 Projects/Matchmaking by Curiocity.md"
   ]
 }
