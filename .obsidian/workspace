@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06 Notes/Ways of Knowing (4Ps).md",
+            "file": "02 Areas/choice architecture.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "choice making",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/Ways of Knowing (4Ps).md",
+                "file": "02 Areas/choice architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +125,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "06 Notes/Ways of Knowing (4Ps).md",
-    "History of Education - Progressive Education.md",
-    "06 Notes/Anecdote of Agassiz and the fish.md",
-    "06 Notes/Ananke.md",
+    "02 Areas/choice architecture.md",
+    "06 Notes/The Placticity of the human psyche.md",
+    "06 Notes/Data Dignity.md",
+    "02 Areas/Machine Learning.md",
+    "Opera Didactica Omina (1657).md",
+    "06 Notes/Nine Event of Instruction.md",
+    "02 Areas/Physics.md",
+    "02 Areas/Memory.md",
     "06 Notes/Agency.md",
-    "06 Notes/About RadicalxChange.md",
-    "06 Notes/4 Identities of a Teacher.md",
-    "01 Projects/The ecosystem for self-directed, lifelong learners..md",
-    "01 Projects/The Learning Experience Design Guide.md",
-    "01 Projects/Matchmaking by Curiocity.md"
+    "06 Notes/Orientation to learning.md"
   ]
 }
