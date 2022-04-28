@@ -1,0 +1,5 @@
+Chatbots have become a staple in customer service solutions. They've helped educate customers by asking simple questions to reveal their needs and deliver timely resources in the form of help articles, links and forms. Not only has this saved customer support teams but when chatbots are designed well and support resources are abundant, the customer can often get the support they need faster.
+
+If chatbots became a staple in an autodidact's toolbelt they might help them learn quicker, again by asking simple questions to reveal needs, deliver resources, identify gaps in knowledge and support reflection through socratic questioning. Unlike chatbots in customer service, learning chatbots might want to retain the learner's inputs for their personal knowledge system. A body of reflected work could be built with the support of a chatbot who, given a proposition or b
+
+With a few friends John yang and 

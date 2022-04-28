@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 Resources/Templates/New Learning Dimension.md",
-            "mode": "preview",
+            "file": "06 Notes/NLP Chatbot Assesments (11).md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "choice making",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Resources/Templates/New Learning Dimension.md",
+                "file": "06 Notes/NLP Chatbot Assesments (11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +124,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
-    "03 Resources/Templates/New Learning Dimension.md",
-    "06 Notes/Old Notes on Jearni Handbook.md",
-    "06 Notes/Radicalxchange.md",
-    "06 Notes/Tapping into local expertise & Previously Informal Learning (4).md",
-    "06 Notes/Provide a long chain of evidence of learning for stakeholders (14).md",
-    "06 Notes/The Begining of Inifity.md",
-    "06 Notes/Sxhx Branding.md",
-    "06 Notes/City as a school - The Distributed Campus (17).md",
-    "03 Resources/Templates/Daily Note.md",
-    "06 Notes/Jean Piaget.md"
+    "06 Notes/NLP Chatbot Assesments (11).md",
+    "03 Resources/Templates/New UFAST Template.md",
+    "06 Notes/Transistasis.md",
+    "06 Notes/Sense-making.md",
+    "03 Resources/All My Experiments & Findings.md",
+    "03 Resources/Delphi Polls Substack Banner.png",
+    "03 Resources/complexity-map_Jan2018.jpg",
+    "03 Resources/Mimetis Banner.png",
+    "03 Resources/Screenshot 2021-04-09 at 17.46.58.png",
+    "03 Resources/Anthropological Methods.md"
   ]
 }
