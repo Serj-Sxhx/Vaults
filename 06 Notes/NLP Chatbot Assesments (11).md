@@ -12,4 +12,4 @@ What Autodidactic models might lack in affective capacity, they may make up for 
 
 Being 'taught'. 
 
-With a few friends John yang and 
+I was working on Vivid with John Yank and Zack
