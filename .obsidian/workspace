@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Choicemaking - Joe Edelman.md",
+            "file": "Why So Squishy Part 2.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Choicemaking - Joe Edelman.md",
+                "file": "Why So Squishy Part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "Why So Squishy Part 2.md",
     "Choicemaking - Joe Edelman.md",
     "06 Notes/Joe Edelman.md",
     "06 Notes/CHOICES, VALUES, AND INTERFACES.md",
@@ -132,7 +133,6 @@
     "06 Notes/NLP Chatbot Assesments (11).md",
     "03 Resources/Templates/New UFAST Template.md",
     "06 Notes/Transistasis.md",
-    "06 Notes/Sense-making.md",
-    "03 Resources/All My Experiments & Findings.md"
+    "06 Notes/Sense-making.md"
   ]
 }
