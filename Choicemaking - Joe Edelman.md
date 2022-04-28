@@ -10,6 +10,7 @@ In this map, an arrow is drawn when people tend to migrate from one activity to 
 
 ![](https://nxhx.org/Choicemaking/img/activities.png)
 
+
 In which situations do our values shift in this way? And how can we make sure that users remain in charge of their own values, rather than having them directed by the device? As philosopher Ruth Chang has argued, it seems likely that we define and adjust our values while making choices. Specifically, we evolve our values when we have an initial difficulty making a choice because one option seems better in some ways, and another better in a different way. Dr. Chang suggests✱ ✱ It would be good to have better data about these moments of value reconsideration.these are the moments where we reexamine and change our values, and that we often choose _a new, more general value_ for ourselves that makes the choice more clear.
 
 If this is correct, we need a name for the environments in which this activity of self-construction can proceed fluidly. We will call these _environments of expressive choice_. To make an expressive choice, users must be able to explore a space of values that might apply to the choice, and to organize the options _in front of them_ in terms of whatever they decide _matters to them_. As simple a thing as providing widgets for changing the sort order and filtering of options creates more possibility for expressive choice.
