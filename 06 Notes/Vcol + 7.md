@@ -94,7 +94,7 @@ Unlike conventional study skills—which are designed primarily to help students
 To support optimal learning with Vcol 
 
 1.  Determine the current level of a learner’s knowledge and skills.
-2.  Find out what they are most interested in learning.
+2.  Find out what they are most interested in learning via [[Authentic Inquiry]]
 3.  Help them select learning goals that are in their Goldilocks Zone (the range in which a learning task is just challenging enough to support optimal learning).
 4.  Show them how to achieve these goals with everyday VCoLing ([especially micro-VCoLing](https://theo-dawson.medium.com/learning-in-the-moment-how-to-use-micro-vcols-to-learn-optimally-on-the-fly-185d700804b)).
 5.  Embed at least one +7 skill in every VCoL.

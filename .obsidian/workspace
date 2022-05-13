@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Why So Squishy Part 2.md",
+            "file": "History of Education - Motessori in Context.md",
             "mode": "source",
             "source": true
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why So Squishy Part 2.md",
+                "file": "History of Education - Motessori in Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +125,15 @@
   },
   "active": "2409c5626a67dc80",
   "lastOpenFiles": [
+    "History of Education - Motessori in Context.md",
+    "Authentic Inquiry.md",
+    "06 Notes/Vcol + 7.md",
+    "06 Notes/History of Education - Progressive Education.md",
+    "06 Notes/History of Education - Montessorium.md",
     "Why So Squishy Part 2.md",
     "Choicemaking - Joe Edelman.md",
     "06 Notes/Joe Edelman.md",
     "06 Notes/CHOICES, VALUES, AND INTERFACES.md",
-    "02 Areas/Learning Assesment.md",
-    "01 Projects/_PxP Homepage.md",
-    "06 Notes/NLP Chatbot Assesments (11).md",
-    "03 Resources/Templates/New UFAST Template.md",
-    "06 Notes/Transistasis.md",
-    "06 Notes/Sense-making.md"
+    "02 Areas/Learning Assesment.md"
   ]
 }
