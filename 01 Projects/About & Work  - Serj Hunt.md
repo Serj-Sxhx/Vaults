@@ -1,22 +1,29 @@
 [Research Notes](https://publish.obsidian.md/sxhx/01+Projects/PxP+Homepage) | [Website](https://paideiaxpraxis.com/) | [Youtube](https://www.youtube.com/channel/UCaVg9NP0mQ093iNfWTID8Zg) | [Twitter](https://twitter.com/Serjhunt_ARK) | [Notion Templates](https://gumroad.com/paideiaxpraxis) | [[About & Work  - Serj Hunt]]
 
-Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating tools and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
+Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating too[[l]]s and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
 
-I'm a learning experience designer (UX / LXD), Product Manager at [Gaileo](https://galileoxp.com/), associate at [Wild Learning Sciences CIC](linkedin.com/company/wildlearning) independent researcher. My research is focused on learner [[agency]], self directed learning [[Learning power]] and [[Expressive Pedagogy]]
+I'm currently Founder and CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
-I facilitate design sprints for progressive public schools in the U.S., Unis in U.K. and have supported SMEs with content creation and instructional design for training teams in a variety of sectors. 
+My background is in UX/UI design & Human Computer Interaction Design for Audio Interfaces. My life course shifted after coming into the field of learning sciences as an associate at [Wild Learning Sciences CIC](https://www.linkedin.com/company/wildlearning/) after a brief encounter with [[Ruth Crick]] at a Hackathon to solve a housing crisis in Bristol UK.
 
-I've been involved in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to learning networks and ed-tech.
+Since then I've extended that skillset to
 
-I occasionally lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
-
-I turn what I learn into resources in an online lab and community which explores the intersection of 'Tools for Thought' and Pedagogy at [Paideia X Praxis](https://paideiaxpraxis.com/)
-
-I'm also hacking on A.I tools for self-directed learning using GPT-3 and other Language models.
+- Corporate and k-12 learning experience design,
+- Product Management at [Gaileo](https://galileoxp.com/) Now [Kurbiro](https://kubrio.com/?ref=galileoxp.com)
+- GM of a Coliving space in Bali for Blockchain and Sustainability entrepreneurs called [The Nyx](https://www.thenyxbali.com/)
+- Ongoing independent research focused on learner [[agency]], self directed learning [[Learning power]] and [[Expressive Pedagogy]]
+- Facilitating design sprints for progressive public schools in the U.S., Unis in U.K. 
+- Content Design for [Zapier](https://zapier.com/)
+- Learning experience designer / philosopher in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) 
+- and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to my organisation City as a School.
+- I lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
+- I used to run a 'Tools for Thought' and Pedagogy lab at [Paideia X Praxis](https://paideiaxpraxis.com/) which taught people how to use Notion and other tools for personal knowledge management
+- Hacking on A.I tools for self-directed learning using GPT-3 and other Language models at Vivid (Awaiting Reboot at City as a School)
+- Co-designed and Led [Learning sprints](https://www.thelearningsprint.com/)
 
 I consult and coach a maximum of three individuals and/or organisations a year that are working on a project with significant potential for creating a more hopeful, humane, inspiring and empowering education ecosystem. 
 
-Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, and what facilities and resources should/nt exist.
+Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, what facilities and resources should/nt exist.
 
  Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational [[participatory / civic technologies]], inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
  

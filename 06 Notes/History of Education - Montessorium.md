@@ -12,6 +12,6 @@
 8. [[History of Education - Early America]]
 9. [[History of Education - Progressive Education]]
 10. [[History of Education - Motessori in Context]]
-11. [[History of Education - Week 11]]
-12.[[History of Education - Week 12]]
+11. [[History of Education - 20th Century]]
+12.[[History of Education - Themes, conclusions, questions]]
 13. [[History of Education - Summary]]

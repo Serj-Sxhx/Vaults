@@ -4,28 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "2409c5626a67dc80",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "01 Projects/About & Work  - Serj Hunt.md",
-            "mode": "source",
-            "source": true
+        "id": "339aa29d4b591d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2409c5626a67dc80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Projects/About & Work  - Serj Hunt.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        }
+        ]
       },
       {
-        "id": "dc795f7fd8261279",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "l.md",
-            "mode": "preview",
-            "source": true
+        "id": "6170c9686f8cb2b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc795f7fd8261279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "l.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "39181663bba20a47",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -135,7 +160,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc795f7fd8261279",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "39181663bba20a47",
   "lastOpenFiles": [
     "01 Projects/About & Work  - Serj Hunt.md",
     "linkedin.com/company/wildlearning.md",

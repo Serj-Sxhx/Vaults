@@ -5,5 +5,6 @@
     "zoom-image"
   ],
   "baseFontSize": 20,
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
