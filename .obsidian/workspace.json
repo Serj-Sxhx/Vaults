@@ -20,35 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6170c9686f8cb2b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc795f7fd8261279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "l.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "39181663bba20a47",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "l.md",
+                "file": "01 Projects/About & Work  - Serj Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +134,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "39181663bba20a47",
+  "active": "2409c5626a67dc80",
   "lastOpenFiles": [
     "01 Projects/About & Work  - Serj Hunt.md",
     "linkedin.com/company/wildlearning.md",

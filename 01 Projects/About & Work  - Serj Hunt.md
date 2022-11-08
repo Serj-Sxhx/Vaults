@@ -10,11 +10,11 @@ Since then I've extended that skillset to
 
 - Corporate and k-12 learning experience design,
 - Product Management at [Gaileo](https://galileoxp.com/) Now [Kurbiro](https://kubrio.com/?ref=galileoxp.com)
-- GM of a Coliving space in Bali for Blockchain and Sustainability entrepreneurs called [The Nyx](https://www.thenyxbali.com/)
+- General Manager of a Coliving space in Bali for Blockchain and Sustainability entrepreneurs called [The Nyx](https://www.thenyxbali.com/)
 - Ongoing independent research focused on learner [[agency]], self directed learning [[Learning power]] and [[Expressive Pedagogy]]
 - Facilitating design sprints for progressive public schools in the U.S., Unis in U.K. 
 - Content Design for [Zapier](https://zapier.com/)
-- Learning experience designer / philosopher in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) 
+- Learning experience designer / trainer / activist in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) 
 - and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to my organisation City as a School.
 - I lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
 - I used to run a 'Tools for Thought' and Pedagogy lab at [Paideia X Praxis](https://paideiaxpraxis.com/) which taught people how to use Notion and other tools for personal knowledge management

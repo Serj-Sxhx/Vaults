@@ -6,5 +6,6 @@
   ],
   "baseFontSize": 20,
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Questrial"
 }
