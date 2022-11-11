@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "55b27e5d7f53ec1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Great Rethink in Education.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/About & Work  - Serj Hunt.md",
+                "file": "The Great Rethink in Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2409c5626a67dc80",
+  "active": "55b27e5d7f53ec1b",
   "lastOpenFiles": [
     "01 Projects/About & Work  - Serj Hunt.md",
     "linkedin.com/company/wildlearning.md",

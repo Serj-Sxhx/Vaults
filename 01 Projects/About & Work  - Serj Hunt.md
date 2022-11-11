@@ -1,6 +1,6 @@
 [Research Notes](https://publish.obsidian.md/sxhx/01+Projects/PxP+Homepage) | [Website](https://paideiaxpraxis.com/) | [Youtube](https://www.youtube.com/channel/UCaVg9NP0mQ093iNfWTID8Zg) | [Twitter](https://twitter.com/Serjhunt_ARK) | [Notion Templates](https://gumroad.com/paideiaxpraxis) | [[About & Work  - Serj Hunt]]
 
-Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating too[[l]]s and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
+Hello wonderful human! Serj here. I'm just a future parent who's passionate about creating tools and environments for my child/children's flourishing. But before they enter the world I hope the things I create will be useful to other kids, teens, adults and all our 'inner child'.
 
 I'm currently Founder and CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
