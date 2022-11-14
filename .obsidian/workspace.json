@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9d8529293783b39b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expressive Pedagogy.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,8 +170,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d70a5745fd03063",
+  "active": "9d8529293783b39b",
   "lastOpenFiles": [
+    "My account of Understanding & Knoweldge.md",
+    "Expressive Pedagogy.md",
     "The Great Rethink in Education.md",
     "Venture Deald - Lit Note.md",
     "l.md",
@@ -167,8 +181,6 @@
     "01 Projects/About & Work  - Serj Hunt.md",
     "linkedin.com/company/wildlearning.md",
     "01 Projects/Age of Augmentation.md",
-    "01 Projects/_PxP Homepage.md",
-    "06 Notes/History of Education - Summary.md",
-    "01 Projects/Design for 'Time Well Spent' 🌈 | Intro To Human Systems & Values Empathy.md"
+    "01 Projects/_PxP Homepage.md"
   ]
 }
