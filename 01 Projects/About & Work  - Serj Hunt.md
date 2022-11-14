@@ -11,7 +11,7 @@ Since then I've extended that skillset to
 - Corporate and k-12 learning experience design,
 - Product Management at [Gaileo](https://galileoxp.com/) Now [Kurbiro](https://kubrio.com/?ref=galileoxp.com)
 - General Manager of a Coliving space in Bali for Blockchain and Sustainability entrepreneurs called [The Nyx](https://www.thenyxbali.com/)
-- Ongoing independent research focused on learner [[agency]], self directed learning [[Learning power]] and [[Expressive Pedagogy]]
+- Ongoing independent research focused on learner [[agency]], self directed learning [[Learning power]] and [[06 Notes/Expressive Pedagogy]]
 - Facilitating design sprints for progressive public schools in the U.S., Unis in U.K. 
 - Content Design for [Zapier](https://zapier.com/)
 - Learning experience designer / trainer / activist in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) 
