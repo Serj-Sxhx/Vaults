@@ -38,7 +38,7 @@ What are values?
 Value pluralism
 - There are contexts to be honest, times to be ruthless
 - Are there objective values?
-- There might be clusters of overlapping and adjacet values. We might be able to call these clusters archetypes. But like the elephant in the buddhist parabel we'll only ever touch one part of it. But together we can piece together a more complete picture of these invisible st
+- There might be clusters of overlapping and adjacet values. We might be able to call these clusters archetypes. But like the elephant in the buddhist parabel we'll only ever touch one part of it. But together we can piece together a more complete picture of these invisible structures if we communicate. 
 - We spend alot of time thinking of goals but not thinking about our sources of meaning.
 
 In this article I want to explain how character is developed in an individual through an ongoing process of reflecting on our personal values as we move through social games and interfaces.
