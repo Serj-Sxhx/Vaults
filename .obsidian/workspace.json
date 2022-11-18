@@ -54,9 +54,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "aadf2d5fed42efe2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,10 +177,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "9d8529293783b39b",
+  "active": "aadf2d5fed42efe2",
   "lastOpenFiles": [
     "My account of Understanding & Knoweldge.md",
     "Expressive Pedagogy.md",
