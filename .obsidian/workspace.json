@@ -25,20 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Great Rethink in Education.md",
+                "file": "06 Notes/Radicalxchange.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9d70a5745fd03063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expressive Pedagogy.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -54,19 +42,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "aadf2d5fed42efe2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expressive Pedagogy.md",
+                "file": "06 Notes/Radicalxchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aadf2d5fed42efe2",
+  "active": "55b27e5d7f53ec1b",
   "lastOpenFiles": [
-    "My account of Understanding & Knoweldge.md",
-    "Expressive Pedagogy.md",
+    "06 Notes/Glen Wheyl.md",
     "The Great Rethink in Education.md",
+    "Expressive Pedagogy.md",
+    "My account of Understanding & Knoweldge.md",
     "Venture Deald - Lit Note.md",
     "l.md",
     "07 Short Essays/Ways of knowing (4ps) and the tyranny of propositional knowing.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "linkedin.com/company/wildlearning.md",
-    "01 Projects/Age of Augmentation.md",
-    "01 Projects/_PxP Homepage.md"
+    "01 Projects/Age of Augmentation.md"
   ]
 }
