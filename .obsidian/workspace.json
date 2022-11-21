@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Notes/Radicalxchange.md",
-                "mode": "preview",
+                "file": "Expressive Pedagogy.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/Radicalxchange.md",
+                "file": "Expressive Pedagogy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "55b27e5d7f53ec1b",
   "lastOpenFiles": [
+    "06 Notes/Radicalxchange.md",
     "06 Notes/Glen Wheyl.md",
     "The Great Rethink in Education.md",
     "Expressive Pedagogy.md",
@@ -165,7 +166,6 @@
     "l.md",
     "07 Short Essays/Ways of knowing (4ps) and the tyranny of propositional knowing.md",
     "01 Projects/About & Work  - Serj Hunt.md",
-    "linkedin.com/company/wildlearning.md",
-    "01 Projects/Age of Augmentation.md"
+    "linkedin.com/company/wildlearning.md"
   ]
 }

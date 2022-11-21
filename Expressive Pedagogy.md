@@ -77,3 +77,14 @@ Designing Time well spent
 If we want to reduce the time you 
 
 Regretful decisions
+
+
+If we can create infinitely many rational lines of logic
+
+If we can construct and logic to justify our choices in any two comparable choices what should we let guide our attention in those moments? 
+
+What should should your apply your attention to in those moments?
+
+What could you remember could you remember to make sure that you don't make regretful decisions? 
+
+What might you come back to to ensure that this choice is meaningful
