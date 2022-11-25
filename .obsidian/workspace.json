@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expressive Pedagogy.md",
+                "file": "05 Daily Notes/2022-11-25.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expressive Pedagogy.md",
+                "file": "05 Daily Notes/2022-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,19 +148,19 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "55b27e5d7f53ec1b",
   "lastOpenFiles": [
+    "Expressive Pedagogy.md",
     "06 Notes/Radicalxchange.md",
     "06 Notes/Glen Wheyl.md",
     "The Great Rethink in Education.md",
-    "Expressive Pedagogy.md",
     "My account of Understanding & Knoweldge.md",
     "Venture Deald - Lit Note.md",
     "l.md",
