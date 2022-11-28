@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Daily Notes/2022-11-25.md",
+                "file": "05 Daily Notes/2022-11-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Daily Notes/2022-11-25.md",
+                "file": "05 Daily Notes/2022-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,13 +153,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "55b27e5d7f53ec1b",
   "lastOpenFiles": [
-    "Expressive Pedagogy.md",
     "05 Daily Notes/2022-11-25.md",
+    "Expressive Pedagogy.md",
     "06 Notes/Radicalxchange.md",
     "06 Notes/Glen Wheyl.md",
     "The Great Rethink in Education.md",
