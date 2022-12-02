@@ -4,20 +4,20 @@ Hello wonderful human! Serj here. I'm just a future parent who's passionate abou
 
 I'm currently Founder and CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
-My background is in UX/UI design & Human Computer Interaction Design for Audio Interfaces. My life course shifted after coming into the field of learning sciences as an associate at [Wild Learning Sciences CIC](https://www.linkedin.com/company/wildlearning/) after a brief encounter with [[Ruth Crick]] at a Hackathon to solve a housing crisis in Bristol UK.
+My background is in UX/UI design & Human Computer interaction design for audio interfaces. My life course shifted after coming into the field of learning sciences as an associate at [Wild Learning Sciences CIC](https://www.linkedin.com/company/wildlearning/) after a brief encounter with [[Ruth Crick]] at a Hackathon to solve a housing crisis in Bristol UK.
 
 Since then I've extended that skillset to
 
 - Corporate and k-12 learning experience design,
 - Product Management at [Gaileo](https://galileoxp.com/) Now [Kurbiro](https://kubrio.com/?ref=galileoxp.com)
-- General Manager of a Coliving space in Bali for Blockchain and Sustainability entrepreneurs called [The Nyx](https://www.thenyxbali.com/)
+- General Manager of a Coliving space in Bali for Blockchain, Sustainability entrepreneurs and artists called [The Nyx](https://www.thenyxbali.com/)
 - Ongoing independent research focused on learner [[agency]], self directed learning [[Learning power]] and [[06 Notes/Expressive Pedagogy]]
 - Facilitating design sprints for progressive public schools in the U.S., Unis in U.K. 
 - Content Design for [Zapier](https://zapier.com/)
 - Learning experience designer / trainer / activist in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) 
 - and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to my organisation City as a School.
 - I lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
-- I used to run a 'Tools for Thought' and Pedagogy lab at [Paideia X Praxis](https://paideiaxpraxis.com/) which taught people how to use Notion and other tools for personal knowledge management
+- I previously run a 'Tools for Thought' and Pedagogy lab at [Paideia X Praxis](https://paideiaxpraxis.com/) which taught people how to use Notion and other tools for personal knowledge management
 - Hacking on A.I tools for self-directed learning using GPT-3 and other Language models at Vivid (Awaiting Reboot at City as a School)
 - Co-designed and Led [Learning sprints](https://www.thelearningsprint.com/)
 
