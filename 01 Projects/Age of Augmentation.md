@@ -35,4 +35,35 @@ Tools are making this leap from being passive to being generative.
 
 Generative design tools use a computer and algorithms to synthesize geometry and data to come up with new designs all by themselves.
 
+
 All it needs are your goals and your constraints.
+
+## What is an Augmentor 
+
+This new age requires a new age kind of 'educator' 
+It used to be the case that humans relied on 
+
+For the lineage tradition this will still be the case.
+
+For the vast majority of human knowledge, this relationship is 
+
+Super history to human bandwidth is much higher.
+
+
+As an Augmentor you're pursuit of freedom understanding  to reduce suffering of all beings in all time in all space through the pursuit of understanding.
+
+
+What is understanding? 
+By understanding your 
+Interior self, 
+Exterior Self 
+Interior Collective 
+External Collective 
+
+You'll become integrated. 
+
+The world around you is not as it seems. It's moved by
+
+And there's holes in everything that you think is 'real'. 
+
+Cour
