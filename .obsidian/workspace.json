@@ -23,12 +23,8 @@
             "id": "55b27e5d7f53ec1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Projects/Age of Augmentation.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -73,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conjecture",
+                "query": "canvas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +78,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Projects/Age of Augmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +151,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "55b27e5d7f53ec1b",
+  "active": "3af33df6ac79ea98",
   "lastOpenFiles": [
+    "01 Projects/Age of Augmentation.md",
     "01 Projects/About & Work  - Serj Hunt.md",
     "05 Daily Notes/2022-11-29.md",
     "05 Daily Notes/2022-11-28.md",
@@ -165,7 +162,6 @@
     "06 Notes/Radicalxchange.md",
     "06 Notes/Glen Wheyl.md",
     "The Great Rethink in Education.md",
-    "My account of Understanding & Knoweldge.md",
-    "Venture Deald - Lit Note.md"
+    "My account of Understanding & Knoweldge.md"
   ]
 }
