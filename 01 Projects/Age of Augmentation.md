@@ -1,5 +1,10 @@
 - The Age of Augmentation
 
+
+## Cultural Transmission 
+In fact, most traditional fields of human striving feature a pattern of “the student becomes the master.”
+
+
 - What is an augmentor
 - Why do we need them
 	- Instructor led 
@@ -9,14 +14,21 @@
 	  
 	  Moocs - nuff said.
 	  Why? - AI adaptive tutors have only been effective in Maths and English. 
-	  
-It seems what's uniquely different about this new wave of AI in education is that it's not about improving recommendation engines that deliver standardised content as an adaptive tutor. Instead humans are now directly interfacing with the combined collective intelligence of all of human-kind, AKA the internet
+
+## What's different about now?
+
+It seems what's uniquely different about this new wave of AI in education is that it's not about improving recommendation engines that deliver standardised content as an adaptive tutor. 
+
+
+Instead humans are now directly interfacing with the combined collective intelligence of all of human-kind, AKA the internet
 
 It's a shift from outside-in to inside-out change in learning. 
 
 This is fundamentally what Augmentors are about. 
 
 - It's a drawing out of the innate knowledge creation capacities of the human mind, and guiding reflection to improve the helping th
+
+## Superhistory not Superintelligence.
 
 I think there's a misconception of current A.I. which Venkatesh Rao provides some clarity in this article. 
 
@@ -26,10 +38,38 @@ Specifically, modern AI is better understood as AT — “Artificial Time” tha
 
 And highly capable computing systems are best understood as _existing in superhistory_ rather than _embodying superintelligence_"
 
+Since the first search engines we've been learning to live in superhistory.
+
+If the way schools, specifically standardised tests responded to the advent of google was deploying anti cheating software (Name), this new wave of AI will be hilarious to watch.
+
+
+
+## Humans are not software 2.0
+Our thinking is constrained by human cultural transmission modes.
+
+For exammples. If you're learning anything from this essay, it is not from the same input data that shamped my own understanding. You are learning from my human-scale digested understanding, and writing ability and all my personal limits. 
+
+I have not easy way to just let you pool my input data into yours. You can't think with two-human-lives worth of data. 
+
+## Asymetry in broadcast vs indiepentay thought. 
+
+The battle ground is meme. ## mekenna quote.
+
+## Chess Cenetaur
+
+## Latent Centaur
+
+A player trained by AIs is obviously going to develop a very different style compared to those who train by playing against the living humans around them. Their minds are not going to be bound by tradition like those of humans taught by other humans. Their development is not going to be constrained by human cultural transmission modes.
+
+The Carlsen style of latent-centaur learning is going to benefit from what is effectively hundreds of human-equivalent years (HEY) of _digested_ chess-playing experience the AI has acquired during its model-training phase, and is applying in the inference phase in new games. And unlike Young-Carlsen-era AIs, modern AIs aren’t even limited to learning only from past human experience. As AlphaGoZero demonstrated, you can do even better by throwing away accumulated human experience and simply generating new data by having the AI play against itself.
+
+## Digital Twins
+
 I'm hopeful that AI will move towards actually human 'intelligence' as we develop meta-learning models but for now - our definitions of AI are mistaken, narrow yet still have a profound impact on how we'll learn.
 
 "We can digitally capture and preserve vastly more data from any human activity than any human mind involved in it could directly comprehend, process, or transmit. 
 This is the threshold that matters - blowing past human cultural transmission bandwidth limits."
+
 
 This is largely due to the huge drop in cost for data storage. We now have far more data.
 
