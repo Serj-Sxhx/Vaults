@@ -4,7 +4,7 @@ Hello wonderful human! Serj here. I'm just a future parent who's passionate abou
 
 I'm currently Founder and CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
-My background is in UX/UI design & Human Computer interaction design for audio interfaces. My life course shifted after coming into the field of learning sciences as an associate at [Wild Learning Sciences CIC](https://www.linkedin.com/company/wildlearning/) after a brief encounter with [[Ruth Crick]] at a Hackathon to solve a housing crisis in Bristol UK.
+My background is in UX/UI design & Human Computer interaction design for audio interfaces. My life course shifted after coming into the field of learning sciences as an associate at [Wild Learning Sciences CIC](https://www.linkedin.com/company/wildlearning/) after a brief encounter with [[Ruth Crick]] at a Hackathon to solve a housing crisis in Bristol, UK, 7 years ago.
 
 Since then I've extended that skillset to
 
@@ -12,24 +12,25 @@ Since then I've extended that skillset to
 - Product Management at [Gaileo](https://galileoxp.com/) Now [Kurbiro](https://kubrio.com/?ref=galileoxp.com)
 - General Manager of a Coliving space in Bali for Blockchain, Sustainability entrepreneurs and artists called [The Nyx](https://www.thenyxbali.com/)
 - Ongoing independent research focused on learner [[agency]], self directed learning [[Learning power]] and [[06 Notes/Expressive Pedagogy]]
-- Facilitating design sprints for progressive public schools in the U.S., Unis in U.K. 
+- Facilitating design sprints for progressive public schools in the U.S. and Universities in the U.K. 
 - Content Design for [Zapier](https://zapier.com/)
-- Learning experience designer / trainer / activist in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) 
+- Learning experience designer / guide / activist in the humane tech movement as part of the founding team and curriculum designer at [Human Systems](https://human-systems.org/), (Now the ['School for Social Design'](http://sdfs.com/) 
 - and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to my organisation City as a School.
-- I lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
+- I've lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
 - I previously run a 'Tools for Thought' and Pedagogy lab at [Paideia X Praxis](https://paideiaxpraxis.com/) which taught people how to use Notion and other tools for personal knowledge management
 - Hacking on A.I tools for self-directed learning using GPT-3 and other Language models at Vivid (Awaiting Reboot at City as a School)
 - Co-designed and Led [Learning sprints](https://www.thelearningsprint.com/)
+- I'm also a huge proponent of lightning network & Bitcoin. 
 
 I consult and coach a maximum of three individuals and/or organisations a year that are working on a project with significant potential for creating a more hopeful, humane, inspiring and empowering education ecosystem. 
 
 Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, what facilities and resources should/nt exist.
 
- Therefore Legacy education, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational [[participatory / civic technologies]], inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
+ Therefore learning communities, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational [[participatory / civic technologies]], inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
  
 ---
 
-### Research Overview
+## Research Overview
 
 If you've landed here, chances are, you're probably familiar with some of my work. Behind that work is me carving a path to remain deeply connected to some of my [turtly questions](https://www.notion.so/Turtleocracy-47a6df7692bf4e95a39504a73a50a295) which revolve around a couple main themes.
 

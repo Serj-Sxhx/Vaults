@@ -1,6 +1,30 @@
-Over the course of the next 20 years, more will change around the way we learn and do our work than has happened in the last 2,000.
+- The Age of Augmentation
 
-We're at the dawn of a new age in human history.
+- What is an augmentor
+- Why do we need them
+	- Instructor led 
+	- Algorithm led
+	- Peer led
+	- A combination of peer driven, mentor guided and AI content assisted is the new intersection for ed-tech to focus on. 
+	  
+	  Moocs - nuff said.
+	  Why? - AI adaptive tutors have only been effective in Maths and English. 
+
+
+Notes 
+- Current imaginaries of the age of augmentation
+	- Cyberpunk 2077
+	- Blade runner
+	- Altered Carbon 
+
+- What's new about all this? 
+
+Some would say, in the course of the next 20 years, more will change around the way we learn and do our work than has happened in the last 2,000. 
+
+My bet is that this change will take much longer than the technologists predict. Static institutions and lack of directed political will 
+
+
+I'm certain that horizon that dawn of a new age in human history.
 
 There have been four major historical eras defined by the way we work, the tech we've harnessed, and the form of our social organisation.
 
