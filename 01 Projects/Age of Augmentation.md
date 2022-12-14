@@ -1,8 +1,11 @@
 - The Age of Augmentation
+# Becoming Augmented
 
 
-## Cultural Transmission 
-In fact, most traditional fields of human striving feature a pattern of “the student becomes the master.”
+
+# Cultural Transmission 
+
+Most traditional fields of human striving feature a pattern of “the student becomes the master.”
 
 
 - What is an augmentor
@@ -20,7 +23,7 @@ In fact, most traditional fields of human striving feature a pattern of “the s
 It seems what's uniquely different about this new wave of AI in education is that it's not about improving recommendation engines that deliver standardised content as an adaptive tutor. 
 
 
-Instead humans are now directly interfacing with the combined collective intelligence of all of human-kind, AKA the internet
+Instead humans are now directly interfacing with the combined collective intelligence of all of human-kind, AKA the internet.
 
 It's a shift from outside-in to inside-out change in learning. 
 
@@ -59,9 +62,17 @@ The battle ground is meme. ## mekenna quote.
 
 ## Latent Centaur
 
-A player trained by AIs is obviously going to develop a very different style compared to those who train by playing against the living humans around them. Their minds are not going to be bound by tradition like those of humans taught by other humans. Their development is not going to be constrained by human cultural transmission modes.
+> A player trained by AIs is obviously going to develop a very different style compared to those who train by playing against the living humans around them. Their minds are not going to be bound by tradition like those of humans taught by other humans. Their development is not going to be constrained by human cultural transmission modes.
 
-The Carlsen style of latent-centaur learning is going to benefit from what is effectively hundreds of human-equivalent years (HEY) of _digested_ chess-playing experience the AI has acquired during its model-training phase, and is applying in the inference phase in new games. And unlike Young-Carlsen-era AIs, modern AIs aren’t even limited to learning only from past human experience. As AlphaGoZero demonstrated, you can do even better by throwing away accumulated human experience and simply generating new data by having the AI play against itself.
+> The Carlsen style of latent-centaur learning is going to benefit from what is effectively hundreds of human-equivalent years (HEY) of _digested_ chess-playing experience the AI has acquired during its model-training phase, and is applying in the inference phase in new games. And unlike Young-Carlsen-era AIs, modern AIs aren’t even limited to learning only from past human experience. As AlphaGoZero demonstrated, you can do even better by throwing away accumulated human experience and simply generating new data by having the AI play against itself.
+
+> So a modern player trained in a well-designed learning loop against the latest AIs has a true "player age" that is some function of their biological age, and their inherited "AI age" that is a measure of the human-equivalent experience time latent in the training data
+
+> Magnus Carlsen is really 200 years old. Whoever unseats Magnus Carlsen will be 2000 years old.
+
+> This is _not_ like belonging to an intellectual tradition, with a lineage of masters passing on their knowledge and skills through books and teaching. That process of cultural transmission is limited by the individual-human-mind bottlenecks it must periodically pass through.
+
+> Machine learning is not constrained that way, so long as raw data is cheap enough to store. And if you can access that learning, you too, can be a latent centaur like Magnus Carlsen.
 
 ## Digital Twins
 
@@ -69,7 +80,6 @@ I'm hopeful that AI will move towards actually human 'intelligence' as we develo
 
 "We can digitally capture and preserve vastly more data from any human activity than any human mind involved in it could directly comprehend, process, or transmit. 
 This is the threshold that matters - blowing past human cultural transmission bandwidth limits."
-
 
 This is largely due to the huge drop in cost for data storage. We now have far more data.
 
@@ -80,7 +90,6 @@ The inhumane part of the current education system is
 - 22 years of teacher bias
 - Instilling mindsets and behaviours that don't promote critical thinking
 - 
-
 
 ## Risks
 
@@ -101,27 +110,23 @@ Notes
 	- Altered Carbon 
 Positive imaginaries for the age of augmentation
 
+# Old Version
 
-Some would say, in the course of the next 20 years, more will change around the way we learn and do our work than has happened in the last 2,000. 
+In the course of the next 20 years, more will change around the way we learn and do our work than has happened in the last 2,000. 
 
-My bet is that this change will take much longer than the technologists predict. Static institutions and lack of directed political will 
+My bet is that this change will take much longer than the technologists predict. Static institutions and lack of directed political will.
 
-
-I'm certain that horizon that dawn of a new age in human history.
+We're at the dawn of a new age in human history.
 
 There have been four major historical eras defined by the way we work, the tech we've harnessed, and the form of our social organisation.
 
-The Hunter-Gatherer Age lasted several million years.
-And then the Agricultural Age lasted several thousand years.
-The Industrial Age lasted a couple of centuries.
-And now the Information Age has lasted just a few decades.
-Now today, we're on the cusp of our next great era as a species.
+The Hunter-Gatherer Age lasted several million years. And then the Agricultural Age lasted several thousand years. The Industrial Age lasted a couple of centuries. And now the Information Age has lasted just a few decades. Now today, we're on the cusp of our next great era as a species.
 
 The Augmented Age.
 
 In this new era, your natural human capabilities are going to be augmented by computational systems that help you think, robotic systems that help you make, and a digital nervous system that connects you to the world far beyond your natural senses.
 
-We don't tend to think of ourselves this way, but we're already augmented. Imagine you're at a party, and somebody asks you a question that you don't know the answer to. If you have smartphone, in a few seconds, you can know the answer. But this is just a primitive beginning.
+We don't tend to think of ourselves this way, but we're already augmented. Is someone asks you a question now. You can find the answer from your collective 'super history' AKA, the Internet.
 
 Even Siri is just a passive tool.
 
@@ -131,26 +136,22 @@ Our very first tool only cut where we struck it.
 The chisel only carves where the artist points it.
 And even our most advanced tools do nothing without our explicit direction.
 
-In fact, to date, and this is something that frustrates me,
-we've always been limited by this need to manually push our wills into our tools like, manual, literally using our hands, even with computers.
+In fact, to date, and this is something that frustrates me, we've always been limited by this need to manually push our wills into our tools like, manual, literally using our hands, even with computers.
 
-But even that is coming to an end. I want to have a conversation with a computer. I want to say, "Computer, let's design a car," and the computer shows me a car. And I say, "No, more fast-looking, and less German," and bang, the computer shows me an option.
+But that is coming to an end. We want to be able to say to a computer. "Computer, let's design a car," and the computer shows me a car. And I say, "No, more fast-looking, and less German," and bang, the computer shows me an option.
 
 That conversation might be a little ways off, probably less than many of us think, but right now, we're working on it.
 
-Tools are making this leap from being passive to being generative.
-
-Generative design tools use a computer and algorithms to synthesize geometry and data to come up with new designs all by themselves.
-
-
-All it needs are your goals and your constraints.
+Tools are making this leap from being passive to being generative. All it needs are your goals and your constraints.
 
 ## What is an Augmentor 
+
+> Augmenting humans with machine learning in the right way raises their effective _experiential_ age. They possess greater "lived experience" than their biological age would suggest because they've acquired prosthetic experience, in digested, summary form.
 
 This new age requires a new age kind of 'educator' 
 It used to be the case that humans relied on 
 
-For the lineage tradition this will still be the case.
+For the lineage traditions, this will still be the case.
 
 For the vast majority of human knowledge, this relationship is 
 
