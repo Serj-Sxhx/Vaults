@@ -9,15 +9,58 @@
 	  
 	  Moocs - nuff said.
 	  Why? - AI adaptive tutors have only been effective in Maths and English. 
+	  
+It seems what's uniquely different about this new wave of AI in education is that it's not about improving recommendation engines that deliver standardised content as an adaptive tutor. Instead humans are now directly interfacing with the combined collective intelligence of all of human-kind, AKA the internet
 
+It's a shift from outside-in to inside-out change in learning. 
+
+This is fundamentally what Augmentors are about. 
+
+- It's a drawing out of the innate knowledge creation capacities of the human mind, and guiding reflection to improve the helping th
+
+I think there's a misconception of current A.I. which Venkatesh Rao provides some clarity in this article. 
+
+"... start thinking about AI in terms of time rather than intelligence. 
+
+Specifically, modern AI is better understood as AT — “Artificial Time” that can be prosthetically attached to human minds.
+
+And highly capable computing systems are best understood as _existing in superhistory_ rather than _embodying superintelligence_"
+
+I'm hopeful that AI will move towards actually human 'intelligence' as we develop meta-learning models but for now - our definitions of AI are mistaken, narrow yet still have a profound impact on how we'll learn.
+
+"We can digitally capture and preserve vastly more data from any human activity than any human mind involved in it could directly comprehend, process, or transmit. 
+This is the threshold that matters - blowing past human cultural transmission bandwidth limits."
+
+This is largely due to the huge drop in cost for data storage. We now have far more data.
+
+(Data over time)
+
+The inhumane part of the current education system is 
+
+- 22 years of teacher bias
+- Instilling mindsets and behaviours that don't promote critical thinking
+- 
+
+
+## Risks
+
+
+
+This is obviously full of risks. If data and content of the internet is mostly 'trash', then wont the responses be mostly trashy? 
+
+It seems that ChatGPT is great at a few things
+
+
+
+What's new about all this? 
 
 Notes 
 - Current imaginaries of the age of augmentation
 	- Cyberpunk 2077
 	- Blade runner
 	- Altered Carbon 
+Positive imaginaries for the age of augmentation
 
-- What's new about all this? 
 
 Some would say, in the course of the next 20 years, more will change around the way we learn and do our work than has happened in the last 2,000. 
 
