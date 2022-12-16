@@ -4,7 +4,7 @@ Hello wonderful human! Serj here. I'm just a future parent who's passionate abou
 
 I'm currently Founder and CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
-My background is in UX/UI design & Human Computer interaction design for audio interfaces. My life course shifted after coming into the field of learning sciences as an associate at [Wild Learning Sciences CIC](https://www.linkedin.com/company/wildlearning/) after a brief encounter with [[Ruth Crick]] at a Hackathon to solve a housing crisis in Bristol, UK, 7 years ago.
+My background is in UX/UI design & Human Computer interaction design for audio interfaces. My life course shifted after coming into the field of learning sciences after I met [[Ruth Crick]] at a Hackathon to solve a housing crisis in Bristol, UK, 7 years ago. I'm now an associate at [Wild Learning Sciences CIC](https://www.linkedin.com/company/wildlearning/) which ensures that I build and help others build learning systems that support the principles of [[Learning power]].
 
 Since then I've extended that skillset to
 

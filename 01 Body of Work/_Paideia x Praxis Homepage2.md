@@ -1,4 +1,4 @@
-Hey I'm Serj Hunt, Founder CEO of City as a School. 
+Hey I'm Serj Hunt, Founder CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
 I want to play an infinite game,
 
@@ -6,22 +6,46 @@ Not some VC backed 30 year average, 9/10 chance of success type thing. Some thin
 
 The infinite game of knowledge creation.
 
-There is no end so let's stop competing and enjoy the process together.
+There is no end so let's quit competing and enjoy the process together.
 
-My team an I are exploring a big question. How can our built and information environments (the see of data we sim in everyday - the internet) become games that help you understand yourself, how the world works and build competencies that help you positively contribute to society?
+![[Gold Divider for Notion.png]]
 
-To answer this question we'll need to network 100 positive sum friends together and live within a 10 min walking distance from eachother for decades at a time in neighbourhoods.
+### How-to 
+
+⎔ **Choose-your-own adventure:** Jump to anything that interests you and skip anything that doesn’t.
+
+⎔ **Critique**: I invite you to challenge any ideas here or to point me to ways that I can improve my thinking about anything that you read. 
+
+⎔ **Navigating using links: ** Hover over links [[like this one]] to preview the notes inside. Click it to open the page. 
+
+⎔ **Navigate using the interactive graph:** To the right you can see an 'Interactive Graph'. It's a map of all the notes, click the circles to open new notes.
+
+![[Gold Divider for Notion.png]]
+
+# My current work.
+
+My team an I are exploring a big question...
+
+>How can our built and information environments (the sea of data we sim in everyday - the internet) become games that help you understand yourself, how the world works and build competencies that help you positively contribute to society?
+
+To answer this question we'll need to network 100 positive sum friends together and live within a 10 min walking distance from each other for decades at a time in neighbourhoods.
+
+
+# Insights of Previous work
 
 I hope to leave this body of work public so that others can walk through my thinking, replicate, debate, critique what i'm doing, so that we can keep  infinitely creating new knowledge together.
 
-work that explains how I've tried to approach the above question?
+I never actually intended to work in 'education'. I initially set out to these simple questions. 
 
-What is a human
-What supports it's 
+What is a human, 
+What supports it's flourishing.
 
-Scale through thoughts and abstract back to material then back to abstract.
+Here's the TL;DR so far
 
 **What is a human**
+
+
+
 
 Thoughts
 Memory
@@ -33,7 +57,7 @@ Attention
 Intentions 
 
 - Subconcious / concious mind
-- 7 Criteria 
+- [[7 fold reasoning ]]
 - Parts and whole - gestalt and feature list
 - Am I the spirit - Josha Bach Definition 
 - Many selves IFS, mythology many competing agents. 
@@ -50,13 +74,38 @@ Intentions
 - Strong conviction, strong dukkha
 - The take away for designers. Depending on how you construct your view of what a human is will inform your design.
 
-Chapter 1 | Agency
+# Chapter 1 | Agency
+[[Agency]]
+[[Learning power]]
 
-Chapter 2 | Meaning, values, attention and expressive pedagogy
+# Chapter 2 | Meaning, values, attention and expressive pedagogy
 
-Chapter 3 | Systems thinking, an account of understanding
+[[06 Notes/Expressive Pedagogy]]
 
-Chapter 4 |
+
+# Chapter 3 | Systems thinking, an account of understanding
+
+[[My account of Understanding & Knoweldge]]
+
+
+# Chapter 4 | Learning Relationships and mirror neurons
+[[Types of learning relationships]]
+
+## Chapter 5 | Age of Augmentation
+
+# Chapter 6 | Assisted Introspection
+[[Missing Transjective Lanuage]]
+
+# Chapter 7 | The System is the curriculum - Economics as a tool for thought.
+
+# Chapter 8 | Love
+
+# Chapter 9 | Longterm Thinking and Adaptive Institutions
+[[Mimetis Theory of Change]]
+
+# Chapter 10 | Any game can be gamed - New organising principles.
+[[Outcome Aligning Society - Wellbeing metrics]]
+
 
 
 
