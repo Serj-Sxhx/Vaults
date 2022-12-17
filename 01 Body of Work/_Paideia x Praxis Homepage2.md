@@ -43,10 +43,7 @@ What supports it's flourishing.
 Here's the TL;DR so far
 
 **What is a human**
-
-
-
-
+A human is not the aggregate or individuals of 
 Thoughts
 Memory
 Emotions
@@ -56,15 +53,20 @@ Actions
 Attention
 Intentions 
 
-- Subconcious / concious mind
+It's experiences itself as [[disassociated from 'cosmic mind, likely through metabolism]]. 
+
+This biological process sets up the conditions for a [[agent arena relationship]]
+
+- Self as playing out of subconscious mind
 - [[7 fold reasoning ]]
-- Parts and whole - gestalt and feature list
-- Am I the spirit - Josha Bach Definition 
-- Many selves IFS, mythology many competing agents. 
-- IEEE Standards for humans and metrics.
-- Different but the same as my child photos.
+- [[Parts and whole - gestalt and feature list]]
+- [[Am I the spirit?]] - Josha Bach Definition 
+- [[Many selves IFS, mythology many competing agents]]
+- [[The quantified self, IEEE Standards for humans and metrics.]]
+- [[Digital Twins]]
+- [[Different but the same as my child photos]]
 	- Something that is outside of time.
-- I am not the body, Time and space are not fundamental.
+- [[I am not the body, Time and space are not fundamental.]]
 - Not my thoughts - Surely I'm my genes? 
 - Am I fungible? Quantum entanglement 
 - So I'm everything everywhere all at once!
@@ -72,6 +74,7 @@ Intentions
 - I cannot find a human, or a self,
 - The closes thing I could say that a human is a wave on an ocean, a pattern perhaps. 
 - Strong conviction, strong dukkha
+- - [[The best place to hide infinite potential is in a finite being]]
 - The take away for designers. Depending on how you construct your view of what a human is will inform your design.
 
 # Chapter 1 | Agency
