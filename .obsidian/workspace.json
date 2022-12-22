@@ -26,9 +26,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "14d2c6fc64b64285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Failure to Disrupt.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Failure to Disrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed09412290fa65db",
+  "active": "14d2c6fc64b64285",
   "lastOpenFiles": [
     "01 Body of Work/_Paideia x Praxis Homepage2.md",
     "01 Body of Work/_Paideia x Praxis Old Homepage.md",
