@@ -35,7 +35,7 @@ To answer this question we'll need to network 100 positive sum friends together 
 
 I hope to leave this body of work public so that others can walk through my thinking, replicate, debate, critique what i'm doing, so that we can keep  infinitely creating new knowledge together.
 
-I never actually intended to work in 'education'. I initially set out to these simple questions. 
+I never actually intended to work in 'education'. I initially set out to answer these simple questions. 
 
 What is a human, 
 What supports it's flourishing.
@@ -76,6 +76,10 @@ This biological process sets up the conditions for a [[agent arena relationship]
 - Strong conviction, strong dukkha
 - - [[The best place to hide infinite potential is in a finite being]]
 - The take away for designers. Depending on how you construct your view of what a human is will inform your design.
+
+
+# How did i arrive at that?
+
 
 # Chapter 1 | Agency
 [[Agency]]
@@ -118,10 +122,7 @@ This biological process sets up the conditions for a [[agent arena relationship]
 
 
 
-
-
-
-Declaration of faith?
+# 
 
 I believe childrend are born who, perfect, pure. The trajectories of their lives are drawn perfectly by a bowsting made of starts, destined to return to wholeness and love. However due to the pain, shame and conditioning our world impedes their ability to fly true and return to that wholeness.
 
