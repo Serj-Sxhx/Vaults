@@ -33,12 +33,13 @@ To answer this question we'll need to network 100 positive sum friends together 
 
 # Insights of Previous work
 
-I hope to leave this body of work public so that others can walk through my thinking, replicate, debate, critique what i'm doing, so that we can keep  infinitely creating new knowledge together.
+I hope to leave this body of work public so that others can walk through my thinking, replicate, debate, critique what i'm doing, so that we can keep  creating new knowledge together.
 
 I never actually intended to work in 'education'. I initially set out to answer these simple questions. 
 
-What is a human, 
-What supports it's flourishing.
+What is a human?
+What supports it's flourishing?
+How should I raise my children? 
 
 Here's the TL;DR so far
 
@@ -78,7 +79,7 @@ This biological process sets up the conditions for a [[agent arena relationship]
 - The take away for designers. Depending on how you construct your view of what a human is will inform your design.
 
 
-# How did i arrive at that?
+# What makes me think what I thought?
 
 
 # Chapter 1 | Agency
