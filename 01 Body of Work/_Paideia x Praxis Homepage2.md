@@ -1,8 +1,6 @@
-Hey I'm Serj Hunt, Founder CEO of [City as a School (CAS)](https://cityasaschool.com/)
+Hey I'm Serj Hunt, Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
 I want to play an infinite game,
-
-Not some VC backed 30 year average, 9/10 chance of success type thing. Some thing we can play for 100s of years together. 
 
 The infinite game of knowledge creation.
 

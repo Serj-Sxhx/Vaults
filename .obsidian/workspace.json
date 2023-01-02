@@ -38,19 +38,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "e8bd075aec90902e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +167,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e8bd075aec90902e",
+  "active": "14d2c6fc64b64285",
   "lastOpenFiles": [
     "06 Notes/Agency.md",
     "01 Body of Work/_Paideia x Praxis Homepage2.md",
