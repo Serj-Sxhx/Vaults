@@ -1,4 +1,14 @@
-Hey I'm Serj Hunt, Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/) You can read [[About & Work  - Serj Hunt]].
+Hey I'm Serj Hunt, 
+
+Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/) 
+
+Associate at [WILD learning sciences](https://wildlearn.co/), supporting the development of self-directed learning in schools and organisations.   
+
+I'm interested in questions related to human nature, technologies that unlock human potential and the systems that support human flourishing.
+
+You can read [[About & Work  - Serj Hunt]].
+
+![[Gold Divider for Notion.png]]
 
 I want to play an infinite game,
 
@@ -24,9 +34,9 @@ There is no end so let's quit competing and enjoy the process together.
 
 My team an I are exploring a big question...
 
->How can our built and information environments (the sea of data we sim in everyday - the internet) become games that help you understand yourself, how the world works and build competencies that help you positively contribute to society?
+>How can our built and information environments (the sea of data we swim in everyday - the internet) become games that help you understand yourself, how the world works and build competencies that help you positively contribute to society?
 
-To answer this question I'm looking at networking 100 positive sum friends together and live within a 10 min walking distance from each other for decades at a time in neighbourhoods.
+To answer this question and have the impact I'm looking to have in society I'm networking 100 positive sum friends together that live within a 10 min walking distance from each other for decades at a time.
 
 
 # Insights of Previous work
@@ -100,6 +110,10 @@ The Inquiry process
 
 ## Chapter 5 | Age of Augmentation
 
+[[Age of Augmentation]]
+[[06 Notes/Auger]]
+[[Latent Cenetaurs]]
+
 # Chapter 6 | Assisted Introspection
 [[Missing Transjective Lanuage]]
 
@@ -107,10 +121,11 @@ The Inquiry process
 
 # Chapter 8 | Love
 
-# Chapter 9 | Longterm Thinking and Adaptive Institutions
+# Chapter 9 | Longtermism and Adaptive Institutions
 [[Mimetis Theory of Change]]
 
 # Chapter 10 | Any game can be gamed - New organising principles.
+
 [[Outcome Aligning Society - Wellbeing metrics]]
 
 
@@ -124,7 +139,7 @@ The Inquiry process
 
 # 
 
-I believe childrend are born who, perfect, pure. The trajectories of their lives are drawn perfectly by a bowsting made of starts, destined to return to wholeness and love. However due to the pain, shame and conditioning our world impedes their ability to fly true and return to that wholeness.
+I believe children are born who, perfect, pure. The trajectories of their lives are drawn perfectly by a bowsting made of starts, destined to return to wholeness and love. However due to the pain, shame and conditioning our world impedes their ability to fly true and return to that wholeness.
 
 My life is a project in umasking who I think I am, who my parents, society, school and media told me I am, so I can fly true,\. If I can do this better than parents did before me then I'll be leveling up by ability to do the same for my children. I want this so that they can live a life in deep rememberance of theri wholeness. 
 
