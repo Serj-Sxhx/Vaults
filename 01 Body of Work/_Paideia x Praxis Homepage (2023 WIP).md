@@ -1,4 +1,4 @@
-Hey I'm Serj Hunt, Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/)
+Hey I'm Serj Hunt, Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/) You can read [[About & Work  - Serj Hunt]].
 
 I want to play an infinite game,
 
@@ -26,7 +26,7 @@ My team an I are exploring a big question...
 
 >How can our built and information environments (the sea of data we sim in everyday - the internet) become games that help you understand yourself, how the world works and build competencies that help you positively contribute to society?
 
-To answer this question we'll need to network 100 positive sum friends together and live within a 10 min walking distance from each other for decades at a time in neighbourhoods.
+To answer this question I'm looking at networking 100 positive sum friends together and live within a 10 min walking distance from each other for decades at a time in neighbourhoods.
 
 
 # Insights of Previous work
@@ -56,7 +56,8 @@ It's experiences itself as [[disassociated from 'cosmic mind, likely through met
 
 This biological process sets up the conditions for a [[agent arena relationship]]
 
-- Self as playing out of subconscious mind
+The Inquiry process
+- Who's in control? conscious vs subconscious
 - [[7 fold reasoning ]]
 - [[Parts and whole - gestalt and feature list]]
 - [[Am I the spirit?]] - Josha Bach Definition 
