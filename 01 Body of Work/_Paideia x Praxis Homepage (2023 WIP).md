@@ -4,7 +4,7 @@ Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
 Associate at [WILD learning sciences](https://wildlearn.co/), supporting the development of self-directed learning in schools and organisations.   
 
-I'm interested in questions related to human nature, technologies that unlock human potential and the systems that support human flourishing.
+I'm interested in questions related to human nature, technologies that unlock human potential, perspectival freedom and the systems that support human flourishing.
 
 You can read [[About & Work  - Serj Hunt]].
 
