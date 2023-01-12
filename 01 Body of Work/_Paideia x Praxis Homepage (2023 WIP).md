@@ -129,7 +129,10 @@ The Inquiry process
 [[Outcome Aligning Society - Wellbeing metrics]]
 
 
+# Chapter 11 | Mardi and Peace
 
+[[Violence]]
+[[1000 YoP]]
 
 
 
@@ -141,7 +144,7 @@ The Inquiry process
 
 I believe children are born who, perfect, pure. The trajectories of their lives are drawn perfectly by a bowsting made of starts, destined to return to wholeness and love. However due to the pain, shame and conditioning our world impedes their ability to fly true and return to that wholeness.
 
-My life is a project in umasking who I think I am, who my parents, society, school and media told me I am, so I can fly true,\. If I can do this better than parents did before me then I'll be leveling up by ability to do the same for my children. I want this so that they can live a life in deep rememberance of theri wholeness. 
+My life is a project in umasking who I think I am, who my parents, society, school and media told me I am, so I can fly true,\. If I can do this better than parents did before me then I'll be leveling up my ability to do the same for my children. I want this so that they can live a life in deep remembrance of their wholeness. 
 
 Children have superpowers but our social design crushes them out of them. Children are the key to the shackles created by the shortcomings of older generations. Without sustainable futures for them, there is no innovation or progress, no walking through the scientific orchard, or discovery of religious and mystical experience. They are the portal between this world and the future. So opening their creative aperture to manifest, is opening our collective imagination towards new worlds and new ways of being together.
 
