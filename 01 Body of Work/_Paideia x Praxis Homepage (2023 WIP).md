@@ -85,6 +85,7 @@ The Inquiry process
 - The closes thing I could say that a human is a wave on an ocean, a pattern perhaps. 
 - Strong conviction, strong dukkha
 - - [[The best place to hide infinite potential is in a finite being]]
+- [[Primacy of Consciousness]]
 - The take away for designers. Depending on how you construct your view of what a human is will inform your design.
 
 
