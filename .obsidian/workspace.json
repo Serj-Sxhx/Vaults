@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023 WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,10 +166,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "14d2c6fc64b64285",
+  "active": "ed09412290fa65db",
   "lastOpenFiles": [
-    "1000 YoP.md",
     "01 Body of Work/_Paideia x Praxis Homepage (2023 WIP).md",
+    "1000 YoP.md",
     "06 Notes/Expressive Pedagogy.md",
     "02 Areas/Auger.md",
     "06 Notes/Auger.md",
