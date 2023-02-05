@@ -4,7 +4,7 @@ Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
 Associate at [WILD learning sciences](https://wildlearn.co/), supporting the development of self-directed learning in schools and organisations.   
 
-I'm interested in questions related to human nature, technologies that unlock human potential, perspectival freedom and the systems that support human flourishing.
+I'm interested in questions related to human nature, technologies that unlock human potential, perspectival freedom and systems that support human flourishing.
 
 You can read [[About & Work  - Serj Hunt]].
 
@@ -14,11 +14,11 @@ I want to play an infinite game,
 
 The infinite game of knowledge creation.
 
-There is no end so let's quit competing and enjoy the process together.
+There is no end so let's stop competing and enjoy the process together.
 
 ![[Gold Divider for Notion.png]]
 
-### How-to 
+# How-to 
 
 ⎔ **Choose-your-own adventure:** Jump to anything that interests you and skip anything that doesn’t.
 
