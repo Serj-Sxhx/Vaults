@@ -4,7 +4,7 @@ Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/)
 
 Associate at [WILD learning sciences](https://wildlearn.co/), supporting the development of self-directed learning in schools and organisations.   
 
-I'm interested in questions related to human nature, technologies that unlock human potential, perspectival freedom and systems that support human flourishing.
+I'm interested in questions related to human nature, building [ubiquitous computation](https://www.ics.uci.edu/~djp3/classes/2012_09_INF241/papers/Weiser-Computer21Century-SciAm.pdf) to support perspectival freedom and systems that support human flourishing.
 
 You can read [[About & Work  - Serj Hunt]].
 
@@ -52,21 +52,32 @@ How should I raise my children?
 Here's the TL;DR so far
 
 **What is a human**
-A human is not the aggregate or individuals of 
-Thoughts
-Memory
-Emotions
-Associations
-Perceptions
-Actions 
-Attention
-Intentions 
+
+A human is not the aggregate of or individual 
+- Thoughts
+- Memory
+- Emotions
+- Associations
+- Perceptions
+- Actions 
+- Attention
+- Intentions 
 
 It's experiences itself as [[disassociated from 'cosmic mind, likely through metabolism]]. 
 
-This biological process sets up the conditions for a [[agent arena relationship]]
+This biological process sets up the conditions for [[Agency]] via an [[agent arena relationship]] which gives rise to [[counter factuals]]
 
-The Inquiry process
+Conscious mind is just the tip of the iceberg - the experiencing edge of something far deeper.
+
+That deeper thing is un-entropic, eternal, bare awareness or consciousness, the unnamable Dao. Gödel shows us that it is unspeakable, and escapes capture of any formal system. This is reality
+
+Li (Entropy) is created, and with it a headset of space-time for bare awareness to have the experience an arrow of time.
+
+Why would bare awareness do that? I believe it is learning about itself. Through the headset of the cat, ant, human, flower, trees, whales. It is echoing, feeding itself back. 
+
+It's only in this standing wave that any creation can exist. 
+
+Here's some steps in my inquiry process:
 - Who's in control? conscious vs subconscious
 - [[7 fold reasoning ]]
 - [[Parts and whole - gestalt and feature list]]
