@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "49f9ecf3b6a419de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
             "id": "14d2c6fc64b64285",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +171,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "49f9ecf3b6a419de",
+  "active": "ed09412290fa65db",
   "lastOpenFiles": [
     "06 Notes/Agency.md",
     "01 Body of Work/_Paideia x Praxis Homepage (2023 WIP).md",
