@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023 WIP).md",
+                "file": "01 Body of Work/My account of Understanding.md",
                 "mode": "source",
                 "source": true
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023 WIP).md",
+                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023 WIP).md",
+                "file": "01 Body of Work/My account of Understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +174,10 @@
   },
   "active": "ed09412290fa65db",
   "lastOpenFiles": [
+    "01 Body of Work/Matchmaking by Curiocity.md",
+    "06 Notes/The Begining of Inifity.md",
+    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "06 Notes/Agency.md",
-    "01 Body of Work/_Paideia x Praxis Homepage (2023 WIP).md",
     "1000 YoP.md",
     "06 Notes/Expressive Pedagogy.md",
     "02 Areas/Auger.md",
