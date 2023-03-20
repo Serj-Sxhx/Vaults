@@ -1,6 +1,6 @@
 Understanding is a complex cognitive process that allows individuals to comprehend, analyze, and apply information in diverse situations. 
 
-This essay presents my account of Understanding, which comprises of three aspects of understanding which constrain and afford each-other: Interpretation, Inference, and Convergence. By examining each aspect, we aim to offer educators a framwork for thinking about strategies to support a learner to deepen their understanding of any topic.
+This essay presents my account of Understanding, which comprises of three aspects of understanding which constrain and afford each-other: Interpretation, Inference, and Convergence. By examining each aspect, we aim to offer educators a framework for thinking about strategies to support a learner to deepen their understanding of any topic.
 
 My fear after speaking to many secondary public and private school teachers who’s performance, guarantee of income and feeding their families is measured by their ability to get as many students high grades on standardised tests, is this: A large percentage of our teachers cant’s give me a clear account of what it means to understand something and substitute cultivating it for delivering on exams results. Without a clear account of what understanding is and how to increase or deepen it, it will be hard to know how to support a learner’s development and thus lead our society astray with misguided citizens who don’t know how to know. 
 
@@ -34,14 +34,25 @@ Example: A historian studying the political climate of two different eras may un
 
 Convergence is the capacity to validate, support, and strengthen mental models using multiple lines of reasoning. A learner at this stage can apply their models across various contexts and build convergence, ultimately increasing their conviction in the accuracy and explanatory power of their understanding. 
 
-Nonetheless, the framework may oversimplify the complexities of understanding in specific domains, which could limit the applicability of the Convergence stage in those areas.  
+some disciplines may require additional cognitive processes or methods to achieve a truly deep understanding. It is essential to recognise that certain disciplines may necessitate additional or alternative approaches to truly grasp their complexities.
+
+For instance, abstract domains like philosophy, ethics, or certain branches of theoretical mathematics may involve reasoning that is less reliant on the gathering of converging evidence and more focused on critical thinking, introspection, debate, or the exploration of abstract concepts. In such cases, the Convergence stage as described in the framework may not be entirely sufficient or applicable, as it may not account for these additional cognitive processes.
+
+Example: A scientist conducting research on climate change might seek converging evidence from multiple disciplines, such as meteorology, oceanography, and biology, to build a comprehensive understanding of the phenomenon.
+
+Acknowledging the need to engage a breadth of cognitive processes.
 
 Example: A philosopher attempting to reach a deep understanding of an abstract concept might need to rely more on critical thinking, introspection, and dialogue than simply seeking converging evidence, as the Convergence stage suggests.
 
 
 ### Conclusion:  
 
-The revised Three-Tiered Framework of Understanding acknowledges and integrates the assumptions and limitations previously outlined, providing a more comprehensive perspective on the cognitive process of understanding. By breaking down understanding into Interpretation, Inference, and Convergence, and considering the effects of linearity, emotions, motivation, cultural factors, and domain-specific complexities, learners can better grasp how to develop their skills and knowledge in various domains. This updated framework serves as a valuable tool for university students to enhance their understanding and learning in diverse contexts, while recognizing the complexities that shape their cognitive processes
+By breaking down understanding into Interpretation, Inference, and Convergence, and considering the effects of linearity, emotions, motivation, cultural factors, and domain-specific complexities, learners can better grasp how to develop their skills and knowledge in various domains.
 
-I wonder if all aspects are influenced by emotions, motivation, and cultural factors. These might shape understanding, sometimes leading to biased or constrained interpretations.  
+It is important to recognize that all levels of understanding—Interpretation, Inference, and Convergence—might be influenced by emotions, motivation, and cultural factors. 
 
+These elements can shape our understanding through the introduction of biases and constrained interpretations. For example, emotional investment in a particular belief may hinder our ability to objectively evaluate conflicting evidence, while cultural factors might predispose us to certain interpretations of information. 
+
+As learners and critical thinkers, being aware of these influences allows us to actively counteract potential biases and strive for a more objective and well-rounded understanding.
+
+In terms of pedagogical implications, this framework can inform educators on designing more effective teaching strategies tailored to the different stages of understanding. By addressing the specific needs of learners at each stage and incorporating the additional cognitive processes required for deep understanding, educators can create a more engaging and supportive learning environment. Furthermore, the framework encourages teachers to consider the role of emotions, motivation, and cultural factors in shaping understanding, leading to more inclusive and culturally sensitive approaches in the classroom.
