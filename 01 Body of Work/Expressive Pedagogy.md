@@ -1,10 +1,16 @@
 # Expressive Pedagogy: Maximizing Time Well Spent in Moral Development
 
-In a world of hard choices, how do we help children navigate the sea of decisions they'll encounter as they grow? Introducing Expressive Pedagogy, a theory rooted in the work of Ruth Chang, which aims to maximize time well spent for children and adolescents by guiding them in understanding their values while exploring different social games.
+There are many theories of moral development but none 
+
+In a world of hard choices, how do we help navigate the sea of decisions they'll encounter as they grow? Introducing Expressive Pedagogy, a theory rooted in the work of Ruth Chang, which aims to maximize time well spent for children and adolescents by guiding them in understanding their values while exploring different social games.
 
 Before beginning. A few points.
 
-- What you call values probably aren't how we're using the term. values but that's okay we just need to agree on semantics. 
+- What you call values probably aren't values but that's okay we just need to agree on semantics. 
+- There are no objective values. This theory assumes values pluralism. 
+- Schools aren't the only institution or environments that help learners to articulate and live by their values. In fact they might even be one of the worst places to develop character. 
+- Ads sell more than products, they sell ideals, norms and expectations which might 'crowd out' our values.
+- The rate at which we're having self reflective moments may be about orders of magnitude higher in built and virtual environments than in the classroom. Which could be measured by some kind of standardised unit of time say 2hz in class vs 30hz walking down the high street.
 
 ### The Illusion of Scientific Comparisons
 
@@ -18,9 +24,7 @@ A short phrase which an agent can remind themselves of, or bring to bear, on the
 
 Attending to those things would reduce the regret in a choice and increase 
 
-'Time well spent': A ratio metric of thtime spent living by your values vs. living in regretful choices.
-
-By focusing on what we find meaningful, we can minimize regret and maximize time spent living by our values.
+'Time well spent': A ratio metric of the time spent living by your values vs. living in regretful choices. A we can minimize regret and maximize time spent living by our values.
 
 What is a value: In this case, a value is an attentional policy -- something which an agent can remind themselves of or bring to bear on the choice, which helps them to focus their attention on what they find meaningful. Where attending to those things would reduce the regret in a choice and increase time well spent, which is defined as the percentage of time spent living by your values vs. living in regretful choices.
 
@@ -79,12 +83,12 @@ There'
 
 Montessoris pedagogy is has a position on what values lead to a meaning full life, and creates norms in the classroom which support practice of these values. It makes it easier to practice X Y Z and not A B C 
 
-Non obvious takes
+Non obvious takes that this the
 - What you call values probably aren't values but that's okay we just need to agree on semantics. 
-- There are no objective values. Values plurality is a really helpful requirement for the kind of moral development I argue for 
-- Schools aren't / don't need to be the only insitution or environments that help learners to articulate and live by their values. In fact they might even be one of the worst places to develop character. 
-- Ads sell more than products, they sell ideals and 
-- The rate at which we're having self reflective moments may be orders of magnitude higher in built and virtual environments than in the classroom.
+- There are no objective values. Values plurality is a really helpful position for the kind of moral development I argue for. 
+- Schools aren't the only institution or environments that help learners to articulate and live by their values. In fact they might even be one of the worst places to develop character. 
+- Ads sell more than products, they sell ideals, norms and expectations which might 'crowd out' our values.
+- The rate at which we're having self reflective moments may be about orders of magnitude higher in built and virtual environments than in the classroom. Which could be measured by some kind of standardised unit of time say 2hz in class vs 30hz walking down the high street.
 - 
 
 What is virtue?
