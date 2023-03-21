@@ -114,7 +114,7 @@ Here's some steps in my inquiry process:
 
 # Chapter 3 | Systems thinking, an account of understanding
 
-[[My Account of Understanding]]
+[[Redesigning Assessment - Knowing how to Know - My Account of Understanding]]
 
 
 # Chapter 4 | Learning Relationships and mirror neurons

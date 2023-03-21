@@ -1,5 +1,49 @@
+# Expressive Pedagogy: Maximizing Time Well Spent in Moral Development
+
+In a world of hard choices, how do we help children navigate the sea of decisions they'll encounter as they grow? Introducing Expressive Pedagogy, a theory rooted in the work of Ruth Chang, which aims to maximize time well spent for children and adolescents by guiding them in understanding their values while exploring different social games.
+
+### The Illusion of Scientific Comparisons
+
+Many try to apply scientific comparisons to moral choices, boiling options down to three outcomes: equal, greater, or lesser. In reality, moral choices are complex and can't be reduced to such simplistic terms. Choices like deciding between a yoga class, a music lesson, or gymnastics often involve countless lines of reasoning.
+
+### Values as Attentional Policies
+
+What guides our attention in these moments of choice? Our values. Defined as "that which you act to gain or keep," values serve as attentional policies. By focusing on what we find meaningful, we can minimize regret and maximize time spent living by our values.
+
+### Expressive Pedagogy in Action
+
+Expressive Pedagogy seeks to help children develop morally by understanding their values and learning how to apply them in various social games. One roadblock? The limited number of social games available in traditional school settings. As a result, children may internalize school norms and never fully individuate from them.
+
+To counter this, we must expose children to a diverse array of social games and provide ample time for reflection. This empowers them to develop their moral and behavioral character while increasing their time well spent.
+
+### Why "Expressive Pedagogy"?
+
+The term itself emphasizes the importance of helping children discover their values through reflection. But how can we ensure that choices and self-proclaimed values are authentic and not merely internalized social norms?
+
+### Practices for Authentic Choice
+
+To decouple authentic values from internalized norms, consider these strategies:
+
+1.  **On My Own Terms**: Encourage children to redefine success in their own terms.
+2.  **Transition Stories**: Share stories of people who transitioned from one path to another, emphasizing the importance of personal values.
+3.  **Meaningless Time Journaling**: Track time spent on activities that don't align with personal values to help identify areas for improvement.
+4.  **Guessing Game**: Engage children in guessing games that explore their values and preferences.
+5.  **Emotions to Values**: Help children connect their emotions to their values to better understand their motivations.
+6.  **Field Tripping**: Expose children to different environments, cultures, and social games to expand their horizons and understanding of their values.
+
+By implementing Expressive Pedagogy, we can help children make authentic choices, develop their moral character, and maximize their time well spent in a world full of hard choices.
+
+
+
+
+
+
+--- 
+
+
+
 Arhepeligo of Ideas
-- Choicemaking and interfaces
+- [Choice Making And The Interface](https://nxhx.org/Choicemaking/)
 - Joe's long talk
 - Joe's Medium Article 
 - Values based social design
@@ -92,3 +136,4 @@ What might you come back to to ensure that this choice is meaningful
 # Andrew's Version 
 
 Expressive Pedagogy - A theory of moral development where as an agent relates to their environment they have to make choices between different social games that they'll participate in and move between. - Based off of work by Ruth Chang on hard choices. Many people are trying to impose scientific comparisons into moral choices. Where a scientific comparison can only be three outcomes: =, <, >. This isn't how moral choices work. In reality, when you have options (for example: yoga class vs. music lesson vs gymnastics) you can construct infinitely many lines of reasoning to justify your choice. This begs the question: what do you let guide your attention in these moments of choice. I would say it's your values. What is a value: that which you act to gain or keep. In this case, a value is an attentional policy -- something which an agent can remind themselves of or bring to bear on the choice, which helps them to focus their attention on what they find meaningful. Where attending to those things would reduce the regret in a choice and increase time well spent, which is defined as the percentage of time spent living by your values vs. living in regretful choices. Expressive pedagogy tries to maximize time well spent for children and adolescents by helping them to understand their values as they navigate the sea of choices and overtime develop their moral and behavioral character. A current blocker in this is the limited number of social games a child can participate in at a school. They neither have agency to elect on their values, nor bring them to bear on the limited number of social games at a school. It's often only in extracurricular activities or social games outside of school that children discover anything of moral value to them, because unfortunately many of them internalize the norms of school, and carry these with them forever more into the future and into the workplace. They never individuate from these norms. To remedy this, exposing children to an intentional array of social games and giving them an ample time to reflect on their values as they explore those social games would help children develop morally and increase their time well spent. Why Expressive Pedagogy? - The device should help someone discover their values (a meta-value [or virtue?] of reflection). Authentic Choice: - It's easy to mistake someone's choices and self-proclaimed values as values, but they're often polluted with internalized norms (things like professionalism, punctuality, obedience). - We have practices to decouple authentic values from internalized social norms, see: On My Own Terms, Transition Stories, Meaningless Time Journaling, Guessing Game, Emotions to Values, Field Tripping
+
