@@ -155,3 +155,23 @@ What might you come back to to ensure that this choice is meaningful
 
 Expressive Pedagogy - A theory of moral development where as an agent relates to their environment they have to make choices between different social games that they'll participate in and move between. - Based off of work by Ruth Chang on hard choices. Many people are trying to impose scientific comparisons into moral choices. Where a scientific comparison can only be three outcomes: =, <, >. This isn't how moral choices work. In reality, when you have options (for example: yoga class vs. music lesson vs gymnastics) you can construct infinitely many lines of reasoning to justify your choice. This begs the question: what do you let guide your attention in these moments of choice. I would say it's your values. What is a value: In this case, a value is an attentional policy -- something which an agent can remind themselves of or bring to bear on the choice, which helps them to focus their attention on what they find meaningful. Where attending to those things would reduce the regret in a choice and increase time well spent, which is defined as the percentage of time spent living by your values vs. living in regretful choices. Expressive pedagogy tries to maximize time well spent for children and adolescents by helping them to understand their values as they navigate the sea of choices and overtime develop their moral and behavioral character. A current blocker in this is the limited number of social games a child can participate in at a school. They neither have agency to elect on their values, nor bring them to bear on the limited number of social games at a school. It's often only in extracurricular activities or social games outside of school that children discover anything of moral value to them, because unfortunately many of them internalize the norms of school, and carry these with them forever more into the future and into the workplace. They never individuate from these norms. To remedy this, exposing children to an intentional array of social games and giving them an ample time to reflect on their values as they explore those social games would help children develop morally and increase their time well spent. Why Expressive Pedagogy? - The device should help someone discover their values (a meta-value [or virtue?] of reflection). Authentic Choice: - It's easy to mistake someone's choices and self-proclaimed values as values, but they're often polluted with internalized norms (things like professionalism, punctuality, obedience). - We have practices to decouple authentic values from internalized social norms, see: On My Own Terms, Transition Stories, Meaningless Time Journaling, Guessing Game, Emotions to Values, Field Tripping
 
+
+### Medium Slice 
+
+### What is Expressive Pedagogy?
+
+As with any moral theory I’m going to need to first explicate some terms to construct and explicate something that is inherently wiggly. 
+
+Expressive pedagogy is a theory of character development based on the work of Joe Edelman’s theory of Values and Choice, Ruth Chang’s work on Hard choices, and others in their lineage such as John Taylor and Amarytra Sen. 
+
+It’s a theory and practice in which education system designers and pedagoges try to maximize a person or population’s ‘Time well spent’. 
+
+**Time well spent:** A ratio metric of the time spent living by your values vs. living in regretful choices. 
+
+In practice this means helping people to articulate their values, clarify if they’re actually authentic values by reflecting on their internalised norms, while exploring diverse ‘social games’. Okay new word there. 
+
+**Social games:** is a geeky sociologist frame for thinking about formal or informal activities, interactions, or situations in which individuals engage with others to achieve certain goals or objectives. From this perspective you’re always in some form of social game. Math class, dinner with friends, date night, negotiation, basketball, choir practice and all gradients between are social games. They involve various explicate and implicate roles, rules, expectations, and social norms that participants must navigate.
+
+When approaching a choice between social games (yoga classes vs frisbee in the park) or products ( vegan shampoo vs video games) people remember their values to guide them towards what’s meaningful. By increasing time well spent we increase meaning in people’s lives and develop authentic choices and therefore authentic characters. But only if those choices aren’t clouded by internalised norms or expectations.
+
+![](https://cdn-images-1.medium.com/max/800/1*lYk0wygD6OBH658M4EyQCg.png)
