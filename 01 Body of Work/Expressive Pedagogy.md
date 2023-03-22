@@ -51,6 +51,7 @@ To decouple authentic values from internalized norms, consider these strategies:
 
 By implementing Expressive Pedagogy, we can help children make authentic choices, develop their moral character, and maximize their time well spent in a world full of hard choices.
 
+![[Screenshot 2023-03-22 at 09.25.38.png]]
 
 
 
@@ -175,3 +176,7 @@ In practice this means helping people to articulate their values, clarify if the
 When approaching a choice between social games (yoga classes vs frisbee in the park) or products ( vegan shampoo vs video games) people remember their values to guide them towards what’s meaningful. By increasing time well spent we increase meaning in people’s lives and develop authentic choices and therefore authentic characters. But only if those choices aren’t clouded by internalised norms or expectations.
 
 ![](https://cdn-images-1.medium.com/max/800/1*lYk0wygD6OBH658M4EyQCg.png)
+
+# Social Games 
+
+"social games" is a geeky sociologist frame for thinking about refer to formal or informal activities, interactions, or situations in which individuals engage with others to achieve certain goals or objectives. From this perspective you're always in some form of social game. Math class, cooking dinner with friends, dating, negotiation, choir practice and all gradients between are social games. They involve various explicate and implicate roles, rules, expectations, and social norms that participants must navigate.
