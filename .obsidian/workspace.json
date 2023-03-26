@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "d6a42a9beca226b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education Systems in the Age of Augmentation - What to build..md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "ed09412290fa65db",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 200
   },
   "right": {
     "id": "d37a5055b195e4c2",
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot 2023-03-22 at 09.25.38.png",
+                "file": "Education Systems in the Age of Augmentation - What to build..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,10 +181,11 @@
       "publish:Publish changes": false
     }
   },
-  "active": "ba05c24847965caf",
+  "active": "d6a42a9beca226b9",
   "lastOpenFiles": [
-    "01 Body of Work/Expressive Pedagogy.md",
     "Screenshot 2023-03-22 at 09.25.38.png",
+    "Education Systems in the Age of Augmentation - What to build..md",
+    "01 Body of Work/Expressive Pedagogy.md",
     "01 Body of Work/Redesigning Assessment - Knowing how to Know - My Account of Understanding.md",
     "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "01 Body of Work/Age of Augmentation.md",
