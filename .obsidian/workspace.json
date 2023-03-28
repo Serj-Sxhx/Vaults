@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Notes/Expressive Pedagogy.md",
-                "mode": "source",
+                "file": "06 Notes/4 Identities of a Teacher.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/Expressive Pedagogy.md",
+                "file": "06 Notes/4 Identities of a Teacher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,7 @@
   },
   "active": "d6a42a9beca226b9",
   "lastOpenFiles": [
+    "06 Notes/Expressive Pedagogy.md",
     "Education Systems in the Age of Augmentation - What to build.md",
     "06 Notes/History of Education - Montessorium.md",
     "06 Notes/History of Education - Summary.md",
@@ -203,7 +204,6 @@
     "06 Notes/The Begining of Inifity.md",
     "06 Notes/Agency.md",
     "1000 YoP.md",
-    "06 Notes/Expressive Pedagogy.md",
     "02 Areas/Auger.md",
     "06 Notes/Auger.md"
   ]
