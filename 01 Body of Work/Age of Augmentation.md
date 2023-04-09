@@ -7,7 +7,6 @@
 
 Most traditional fields of human striving feature a pattern of “the student becomes the master.”
 
-
 - What is an augmentor
 - Why do we need them
 	- Instructor led 
@@ -54,11 +53,12 @@ For exammples. If you're learning anything from this essay, it is not from the s
 
 I have not easy way to just let you pool my input data into yours. You can't think with two-human-lives worth of data. 
 
-## Asymetry in broadcast vs indiepentay thought. 
+## Asymetry in broadcast vs independant thought. 
 
 The battle ground is meme. ## mekenna quote.
 
 ## Chess Cenetaur
+
 
 ## Latent Centaur
 

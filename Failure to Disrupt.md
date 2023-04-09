@@ -1,12 +1,21 @@
- conclusion, preparing for the next learning at scale Hype Cycle, the next robot tutor in the sky, predictions of imminent transformation are among the most reliable refrains in the history of education technology. In 1913, Thomas Edison declared that the age of books was about to give way to the age of motion.
-
+ [ ] Use this for intro to the A.I. Course
+ 
+ 
+Conclusion, preparing for the next learning at scale Hype Cycle, the next robot tutor in the sky, predictions of imminent transformation are among the most reliable refrains in the history of education technology. 
+ 
+In 1913, Thomas Edison declared that the age of books was about to give way to the age of motion.
 He told an interviewer, books will soon be obsolete in the public schools. Scholars will be instructed through the eye. It is possible to teach every branch of human knowledge with the motion picture. Our school system will be completely changed inside of 10 years. When Edison's 10 year prediction failed to come to pass, he simply gave himself more time.
 
 In 1923 speaking before the Federal Trade Commission, Edison explained, I made an experiment with a lot of pictures to teach children. I got 12 children and asked them to write down what they had learned from the pictures. I was amazed that such a complicated subject as chemistry was readily grasped by them to a large extent through pictures.
 
 The parts of the pictures they did not understand I did over and over again until they finally understood the entire picture. I think motion pictures have just started, and it is my opinion that in 20 years children will be taught through pictures and not through text. 100 years after Edison, technologists are still promising that new inventions can instantly solve challenges that education systems have faced for hundreds of years.
 
-The 2010s were a bannered decade for charismatic technologists. From Newton founder Jose Ferreras, adaptive robot tutor in the sky to Udacity founder Sebastian Thons Magic Formula for low cost global scale learning with. My sense at the end of the decade was that some sobriety had seeped into public conversations about the limits of learning technologies.
+The 2010s were a bannered decade for charismatic technologists. From Newton founder Jose Ferreras, adaptive robot tutor in the sky to Udacity founder Sebastian Thons Magic Formula for low cost global scale learning with. 
+
+ChatGPT 
+
+
+My sense at the end of the decade was that some sobriety had seeped into public conversations about the limits of learning technologies.
 
 But even at the Nair of this decade's hype cycle, wishful thinking continued in 2019. Dan Goldsmith, then the c e O of Instructure. The company that provides the Canvas learning management system boasted that his company's new learning analytics program would drive student success, make teachers more productive and increase student re.
 
@@ -70,7 +79,9 @@ The class period, the marking period, the semester not sustained over time. The 
 
 The most powerful implementations tend to be in small pockets of innovation in a few classrooms rather than as part of school-wide. These technologies can introduce new pedagogical ideas to schools, and they can spark dialogue about how best to prepare young people for a future of lifelong learning.
 
-But that is at best a starting point, making open networked apprenticeship. Learning. A central part of schooling requires rethinking all aspects of the ecology of schools, from curricula to assessment, to schedules to teacher professional development, and. Across all three, learning at scale genres, predictions of disruption, transformation, and democratizing education through technology have fared poorly over the last decade and indeed over the last century.
+But that is at best a starting point, making open networked apprenticeship. Learning. A central part of schooling requires rethinking all aspects of the ecology of schools, from curricula to assessment, to schedules to teacher professional development, and. 
+
+Across all three, learning at scale genres, predictions of disruption, transformation, and democratizing education through technology have fared poorly over the last decade and indeed over the last century.
 
 Each of these genres has particular technologies that have proven useful in certain fields or for certain students, but new technologies do not disrupt existing educational systems, rather existing educational systems. Domesticate new tech. In most cases, they use such technologies in the service of the well-established goals and structures of schools.
 

@@ -1,4 +1,4 @@
-This note is in response to Ray Girn's article on Montessorium.com, titled ['The Coming Golden Age of Pedagogy'].(https://montessorium.com/initiatives/montessori-in-the-digital-age)
+pThis note is in response to Ray Girn's article on Montessorium.com, titled ['The Coming Golden Age of Pedagogy'].(https://montessorium.com/initiatives/montessori-in-the-digital-age)
 
 Ray's thesis is 
 

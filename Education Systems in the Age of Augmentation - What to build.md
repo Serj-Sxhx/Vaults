@@ -6,7 +6,10 @@ Are we ready to break free and soar towards an uncharted future of learning?
 
 The essay will propose new goals and outline new practices and assessments in the education system now that standardised tests, the student-teacher relationship, and needs of the workforce are being impacted by A.I. and Large Language Models such as chatGPT
 
-In this essay, we aim to explore the intersection of education and AI-driven advancements. Our goal is to reevaluate current educational practices, propose new objectives, and develop assessment methods that enhance the student-teacher relationship. Join us as we dive into the heart of an evolving education system, carefully considering the impact of augmentation on learning and the workforce. 
+In this essay, we aim to explore the intersection of education and AI-driven advancements. Our goal is to reevaluate current educational practices, propose new objectives, and develop assessment methods that enhance the student-teacher relationship. 
+
+
+# What are the current goals of education
 
 In order to better understand the direction in which education should evolve, it's essential to grasp the current goals of Western education and their origins. Broadly, these goals can be classified into three primary categories: 
 
@@ -18,7 +21,21 @@ What are the current goals of western education and where did they come from?
  
 See [[History of Education - Montessorium]]
 
+# We need at first new heuristics to 
 
+Based on Donella Meadows list of leverage points I will outline what I think the mindsets and beliefs are that will allow us to think of the new goals. I will also make an argument for why
+
+
+Perspectival freedom or cognitive freedom 
+fallibilism 
+and 'emptiness' in the buddhist definition 
+
+All power us to transcend paradigms. 
+
+
+
+
+I will outline what I thin the new goals are 
 
 ### Goal 1: Learner Agency
 - What is agency 
@@ -66,9 +83,30 @@ Why did they fail?
 
 It's now not a technological barrier but a cultural barrier. 
 
-There are norms, practices, expectations and mentrics which reinforce those norms and therefore prevent the adoption of new techologies and practices around LLMs.
+There are norms, practices, expectations and mentrics which reinforce those norms and therefore prevent the adoption of new technologies and practices around LLMs.
 
 
 My beleifs about what's important to cultivate in young people in this new pardigm and assement for weather or not we're achieving that. 
 
 This essay is all about redesigning 
+
+
+# The power to transcend paradigms
+
+Perspectival freedom or cognitive freedom 
+fallibilism 
+and 'emptiness' in the buddhist definition 
+
+All power us to transcend paradigms. 
+
+# Summar y
+
+These are both my suggestions for how the public eduation system can adapt to embrace A.I. and  emerging technology and set of principles basis for a new education system that my team are building. It will be slow to respond which is why I've commited to two projects over the next 5 years. 
+
+1) is the project of creating an organisation that creates content, quality assures facilitators and delivers training to schools, universities and states to equip every teacher with these capacities and potentialy save them on their most. For those institutions that are breave enough we'll also consult on the culture redesign and implementation to support new goals in education.
+2) Build new infrastructure that's build upon these principles to demonstrate how an education system that's designed to support this is 2x or 3x more effective in for passion to vocation, agency and meaning in life. 
+
+- Statistic about students that do work placement are likely to have better success. 
+- Statistic that happiness is about people you spend your time with.
+- Statistic about the are higher agency and self-determined. 
+

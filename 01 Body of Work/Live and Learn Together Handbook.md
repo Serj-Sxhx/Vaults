@@ -24,7 +24,7 @@ A paideia is Greek word with wide ranging connotations. It is broadly about the 
 - Learning Experience Designers
 
 # The problem
-Being unable to learn something new and have [[agency]] when approaching risk and uncertainty is often to do with a lack of learning power.
+Being unable to learn something new and have [[agency]] when approaching risk and uncertainty is due to a lack of [[Learning power]]
 
 Beyond teaching propositions and processes, many members of a paideia (MOP) struggle to support [[Learning power]]
 

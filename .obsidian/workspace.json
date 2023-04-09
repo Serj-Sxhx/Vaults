@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d8529293783b39b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Body of Work/Design for 'Time Well Spent' 🌈 | Intro To Human Systems & Values Empathy.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d6a42a9beca226b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Notes/4 Identities of a Teacher.md",
-                "mode": "preview",
+                "file": "Education Systems in the Age of Augmentation - What to build.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/4 Identities of a Teacher.md",
+                "file": "Education Systems in the Age of Augmentation - What to build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,9 +148,21 @@
   },
   "active": "d6a42a9beca226b9",
   "lastOpenFiles": [
-    "06 Notes/The Begining of Inifity.md",
+    "01 Body of Work/Live and Learn Together Handbook.md",
+    "01 Body of Work/Matchmaking by Curiocity.md",
+    "01 Body of Work/Expressive Pedagogy.md",
+    "Failure to Disrupt.md",
+    "01 Body of Work/Age of Augmentation.md",
     "01 Body of Work/Design for 'Time Well Spent' 🌈 | Intro To Human Systems & Values Empathy.md",
+    "01 Body of Work/Enabling the 'Golden age of pedagogy'.md",
+    "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
+    "01 Body of Work/Redesigning Assessment - Knowing how to Know - My Account of Understanding.md",
+    "01 Body of Work/The ecosystem for self-directed, lifelong learners..md",
+    "01 Body of Work/The Learning Experience Design Guide.md",
+    "01 Body of Work/The Pedagogy of Tools for Thought.md",
+    "01 Body of Work/Theory of Change v1.0.md",
     "06 Notes/4 Identities of a Teacher.md",
+    "06 Notes/The Begining of Inifity.md",
     "Screenshot 2023-03-22 at 09.25.38.png",
     "06 Notes/Expressive Pedagogy.md",
     "Education Systems in the Age of Augmentation - What to build.md",
@@ -171,19 +170,10 @@
     "06 Notes/History of Education - Summary.md",
     "06 Notes/History of Education - Themes, conclusions, questions.md",
     "06 Notes/Learning power.md",
-    "01 Body of Work/Expressive Pedagogy.md",
-    "01 Body of Work/Redesigning Assessment - Knowing how to Know - My Account of Understanding.md",
     "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
-    "01 Body of Work/Age of Augmentation.md",
-    "01 Body of Work/Enabling the 'Golden age of pedagogy'.md",
-    "01 Body of Work/Live and Learn Together Handbook.md",
-    "01 Body of Work/Matchmaking by Curiocity.md",
-    "01 Body of Work/The Pedagogy of Tools for Thought.md",
-    "01 Body of Work/Theory of Change v1.0.md",
     "04 Archive/_Paideia x Praxis Old Homepage.md",
     "06 Notes/Agency.md",
     "1000 YoP.md",
-    "02 Areas/Auger.md",
-    "06 Notes/Auger.md"
+    "02 Areas/Auger.md"
   ]
 }

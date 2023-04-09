@@ -6,4 +6,7 @@ Getting the right questions infront of the right groups of people in a dynamic w
 
 But why do we not enable this in our educational institutions?
 
-Assuming that one of the primary goals of education systems is not only to enable citizens to use the tools of current culture but also to go beyond the previous generation and [[update culture]] then surely imitating the behaviours of the groups who do this repeatedly is worth persuing? 
+Assuming that one of the primary goals of education systems is not only to enable citizens become active participants of the current culture but also to go beyond the previous generation and [[update culture]] then surely imitating the behaviours of the groups who do this repeatedly is worth persuing?
+
+Education is both the character creating function of a society and the engine of culture.
+
