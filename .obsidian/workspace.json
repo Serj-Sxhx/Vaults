@@ -11,8 +11,12 @@
             "id": "a7688276314d48af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "06 Notes/Expressive Pedagogy.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Resources/Attachments/Structural Features Field Tripping @School.png",
+                "file": "06 Notes/Expressive Pedagogy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +145,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "874292d2bd1072c5",
+  "active": "a7688276314d48af",
   "lastOpenFiles": [
     "06 Notes/social games.md",
     "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
