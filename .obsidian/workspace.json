@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "339aa29d4b591d92",
+        "id": "3043345fe827da2e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a42a9beca226b9",
+            "id": "a7688276314d48af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -57,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
+                "file": "03 Resources/Attachments/Structural Features Field Tripping @School.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +141,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d6a42a9beca226b9",
+  "active": "874292d2bd1072c5",
   "lastOpenFiles": [
+    "06 Notes/social games.md",
+    "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
     "02 Areas/Perennial Problems.md",
     "06 Notes/4 Identities of a Teacher.md",
     "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
@@ -164,7 +160,6 @@
     "01 Body of Work/Age of Augmentation.md",
     "01 Body of Work/Design for 'Time Well Spent' 🌈 | Intro To Human Systems & Values Empathy.md",
     "01 Body of Work/Enabling the 'Golden age of pedagogy'.md",
-    "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
     "01 Body of Work/Redesigning Assessment - Knowing how to Know - My Account of Understanding.md",
     "01 Body of Work/The ecosystem for self-directed, lifelong learners..md",
     "01 Body of Work/The Learning Experience Design Guide.md",
@@ -174,7 +169,6 @@
     "Screenshot 2023-03-22 at 09.25.38.png",
     "06 Notes/Expressive Pedagogy.md",
     "06 Notes/History of Education - Themes, conclusions, questions.md",
-    "04 Archive/_Paideia x Praxis Old Homepage.md",
-    "06 Notes/Agency.md"
+    "04 Archive/_Paideia x Praxis Old Homepage.md"
   ]
 }
