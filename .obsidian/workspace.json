@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "36bf78bc18a6fc8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Open Society And It's Friends.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Notes/Expressive Pedagogy.md",
+                "file": "The Open Society And It's Friends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +158,11 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a7688276314d48af",
+  "active": "874292d2bd1072c5",
   "lastOpenFiles": [
+    "06 Notes/Expressive Pedagogy.md",
+    "The Open Society And It's Friends.md",
+    "The Open Society And It's Friends",
     "06 Notes/social games.md",
     "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
     "02 Areas/Perennial Problems.md",
@@ -171,8 +187,6 @@
     "01 Body of Work/Theory of Change v1.0.md",
     "06 Notes/The Begining of Inifity.md",
     "Screenshot 2023-03-22 at 09.25.38.png",
-    "06 Notes/Expressive Pedagogy.md",
-    "06 Notes/History of Education - Themes, conclusions, questions.md",
-    "04 Archive/_Paideia x Praxis Old Homepage.md"
+    "06 Notes/History of Education - Themes, conclusions, questions.md"
   ]
 }
