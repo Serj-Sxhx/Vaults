@@ -1,5 +1,25 @@
 In his "Guerrilla Open Access Manifesto," the late Aaron Swartz, an activist and Internet prodigy, passionately argued for universal access to knowledge, a sentiment that echoes the principles laid down by philosopher Karl Popper in his seminal work, "The Open Society and Its Enemies." Popper championed the idea of a society where knowledge and ideas are exchanged freely, without barriers, as a way to spur innovation, creativity, and human progress. Swartz's manifesto further extrapolated this to the realm of digital information, advocating for open access to scholarly and scientific resources.
 
+## The Problem: The Paradox of Scholarly Publishing - Open Access vs Monopolized Knowledge
+
+The current landscape of academic publishing is a paradox. On one hand, we have researchers and academics who pour their time, effort, and intellect into generating new knowledge. On the other, we have a handful of for-profit publishers who reap the benefits of this labor. Companies like Elsevier, Springer, and Wiley, to name a few, charge substantial fees for access to research papers, creating a barrier to the very knowledge that was intended to benefit humanity.
+
+Consider an extreme scenario: the complete monopolization of scholarly and scientific knowledge by a single company, to make it worse, imagine if Facebook were the only group to have access to this knowledge. This would lead to a dangerous concentration of power, limiting access to knowledge, stifling innovation, and creating a dependency on a single entity for our understanding of the world.
+
+On the opposite end of the spectrum is total open access. In this model, all scholarly work would be freely accessible to anyone with an Internet connection. This would democratize knowledge, breaking down barriers to access and enabling global collaboration and innovation.
+
+Of course, every model has its pros and cons. While total open access promotes knowledge sharing, it also raises questions about the sustainability of research funding, the quality control of published work, and the fair compensation of researchers. We'll look at how to solve for this in future essays. 
+
+Despite these challenges, it's important to remember the immense benefits that open innovation and open access have brought to our society. Here are three examples:
+
+1.  **The Human Genome Project**: This international scientific research project aimed to map the human genome. The project adopted an open access policy, making all its data freely available to the global scientific community. This has sparked countless medical and scientific breakthroughs, from personalized medicine to advanced forensic analysis.
+    
+2.  **The Polio Vaccine**: When Jonas Salk developed the first effective vaccine for polio, he made the decision not to patent it. Instead, he wanted the vaccine to be as widely available as possible. This act of open access has saved countless lives and has been instrumental in nearly eradicating polio.
+    
+3.  **OpenAI's GPT Models**: OpenAI, an artificial intelligence research lab, has developed a series of powerful language models. While they have adopted a more controlled access policy with their latest models due to ethical concerns, their earlier models are open access and have driven innovation across a wide range of fields, from natural language processing to creative writing and beyond.
+
+It's crucial for us to strike a balance in the scholarly publishing landscape. We must protect the rights and interests of researchers, while also ensuring that knowledge is accessible and beneficial to all.
+
 ## Progress Through Openness
 
 The importance of progress is a shared theme in both Swartz's manifesto and Popper's philosophy. The idea that knowledge should be available to all, without any form of discrimination, has been the driving force behind movements like decentralized science and open innovation. These movements have spurred breakthroughs that would not have been possible in a closed, controlled system.
@@ -42,7 +62,9 @@ Take, for instance, the creation of decentralized applications that resist censo
 
 ## A Call to Action
 
-In conclusion, it is pertinent to recall the words of futurist and inventor R. Buckminster Fuller: "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." The existing reality is one of information control and surveillance, of whistleblowers being silenced and persecuted.
+> "You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete." - R. Buckminster Fuller
+
+The existing reality is one of information control and surveillance, of whistleblowers being silenced and persecuted.
 
 Instead of fighting this reality, we must strive to build a new one. A reality that embraces the principles of an open society, where knowledge is free, truth is protected, and innovation is unbounded. We must leverage technologies like IPFS to create decentralized applications that resist censorship. We must foster networks of positive-sum friends, committed to building alternative infrastructures that promote human flourishing.
 
@@ -50,4 +72,9 @@ This is not just a call to action—it's an invitation to dream and to dare. An 
 
 This future won't be handed to us; we must build it, brick by brick, line of code by line of code, relationship by relationship.
 
-The task may seem monumental, even insurmountable, but remember: change often starts small, with a single step, a single voice, a single idea. So let us take that step, raise the voices of the suppressed,   our ideas. For in doing so, we can transform the world—one open access at a time.
+The task may seem monumental, even insurmountable, but remember: change often starts small, with a single step, a single voice, a single idea. Let us take that step, towards self sovereignty, justice and open innovation. For in doing so, we create a new world — In service of returning our world and fellow humans to wholeness, 
+
+With quiet compassion for the systems that don't serve us.
+
+Anon
+
