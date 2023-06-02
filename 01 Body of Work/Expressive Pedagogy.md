@@ -179,6 +179,6 @@ When approaching a choice between social games (yoga classes vs frisbee in the p
 
 # Social Games 
 
-Any environment where human behaviour is regulated by rules, roles and responsibilities. e.g. a tea party, voting, 
+Any environment where human behaviour is regulated by rules, roles and responsibilities. e.g. a tea party, voting, dating. 
 
 "social games" is a geeky sociologist frame for thinking about refer to formal or informal activities, interactions, or situations in which individuals engage with others to achieve certain goals or objectives. From this perspective you're always in some form of social game. Math class, cooking dinner with friends, dating, negotiation, choir practice and all gradients between are social games. They involve various explicate and implicate roles, rules, expectations, and social norms that participants must navigate.
