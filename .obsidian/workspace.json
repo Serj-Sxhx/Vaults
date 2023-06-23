@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd10f4ec9d6c5df0",
+        "id": "8036036979f24ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "2e0f264ba80c14bd",
+            "id": "2d0101c1c302a489",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +146,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "2e0f264ba80c14bd",
+  "active": "2d0101c1c302a489",
   "lastOpenFiles": [
     "01 Body of Work/Expressive Pedagogy.md",
     "06 Notes/Expressive Pedagogy.md",
