@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8036036979f24ce9",
+        "id": "30d31e94ce6fedeb",
         "type": "tabs",
         "children": [
           {
-            "id": "2d0101c1c302a489",
+            "id": "e0dd64350ea50310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +141,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "2d0101c1c302a489",
+  "active": "e0dd64350ea50310",
   "lastOpenFiles": [
+    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "01 Body of Work/Expressive Pedagogy.md",
     "06 Notes/Expressive Pedagogy.md",
     "01 Body of Work/The ecosystem for self-directed, lifelong learners..md",
@@ -162,7 +158,6 @@
     "01 Body of Work/Outcome Aligning Society - Wellbeing metrics.md",
     "02 Areas/Perennial Problems.md",
     "06 Notes/4 Identities of a Teacher.md",
-    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "06 Notes/History of Education - Summary.md",
     "06 Notes/History of Education - Montessorium.md",
     "06 Notes/History of Education - Week 6 Comenius, Pictures, Enlightenment, Locke.md",
