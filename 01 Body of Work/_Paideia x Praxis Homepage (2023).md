@@ -16,7 +16,7 @@ Education
 Economics 
 Environment
 
-Each of these requires new conceptions of 'what a human is'. Each world systems and mechanisms are downstream of assumptions of human nature. 
+Each of these requires new conceptions of 'what a human is'. Each world system's, mechanisms and architecture is downstream of assumptions of human nature. e.g. 
 
 **Economics** - Phase 2 of my career will return to working on redesigning economics continuing my work with the School For [Social Design](https://sfsd.io/)
 
