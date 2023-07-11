@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30d31e94ce6fedeb",
+        "id": "b6dfe9f2101b9174",
         "type": "tabs",
         "children": [
           {
-            "id": "e0dd64350ea50310",
+            "id": "bb52a063e5751163",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,7 +141,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "e0dd64350ea50310",
+  "active": "bb52a063e5751163",
   "lastOpenFiles": [
     "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "01 Body of Work/Expressive Pedagogy.md",
