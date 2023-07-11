@@ -1,8 +1,8 @@
-Hey I'm Serj Hunt, 
+Hey I'm Serj Hunt, I'm in phase 1 of my career. Redesigning Education. Below you can find out more about phases 2,3 and 4. 
 
-Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/) 
+I'm currently Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/) 
 
-Associate at [WILD learning sciences](https://wildlearn.co/), supporting the development of self-directed learning in schools and organisations.   
+Associate at [WILD learning sciences](https://wildlearn.co/), where we build assessment for supporting human agency, train teachers / coaches to support self-leadership, systems thinking and complex problem solving. 
 
 I'm interested in questions related to human nature, building [ubiquitous computation](https://www.ics.uci.edu/~djp3/classes/2012_09_INF241/papers/Weiser-Computer21Century-SciAm.pdf) to support perspectival freedom and systems that support human flourishing.
 
@@ -10,11 +10,22 @@ You can read [[About & Work  - Serj Hunt]].
 
 ![[Gold Divider for Notion.png]]
 
-I want to play an infinite game,
+I have three career goals in life. Redesign & paradigm shift the three E’s.
 
-The infinite game of knowledge creation.
+Education 
+Economics 
+Environment
 
-There is no end so let's stop competing and enjoy the process together.
+Each of these requires new conceptions of 'what a human is'. Each world systems and mechanisms are downstream of assumptions of human nature. 
+
+**Economics** - Phase 2 of my career will return to working on redesigning economics continuing my work with the School For [Social Design](https://sfsd.io/)
+
+**Environment** - Phase 3 of my career will be looking at how the downstream effects of redesigned (post-capitalism) economics and education systems effect the environment. Starting with research in Proof-of-work, mining rigs incentivising renewable energy production and local community resilience. 
+
+Phase 4 is to chill out with my family, meditate lots and work quietly funding / organising decentralised science (de-sci) so smart people can work on fundamental physics and computational cognitive science. Likely remotely in a special economic zone, post-nation state territory with no guns and insane natural abundance due to human-nature technological harmony.
+
+I'm Networking 100 positive-sum friends building for human flourishing. I get along well with other researchers with a heavy bias towards action and building things. DM me [@serjhunt_Ark](https://twitter.com/Serjhunt_ARK)
+
 
 ![[Gold Divider for Notion.png]]
 
