@@ -12,20 +12,21 @@ You can read [[About & Work  - Serj Hunt]].
 
 I have three career goals in life. Redesign & paradigm shift the three E’s.
 
-Education 
-Economics 
-Environment
+🎓 Education 
+📈 Economics 
+🌳 Environment
 
-Each of these requires new conceptions of 'what a human is'. Each world system's, mechanisms and architecture is downstream of assumptions of human nature. e.g. 
+Each of these requires new conceptions of 'what a human is'. Each world system's, mechanisms and architecture is downstream of it's assumptions of human nature e.g. education is philosophy 'developmentalised'.
 
-**Economics** - Phase 2 of my career will return to working on redesigning economics continuing my work with the School For [Social Design](https://sfsd.io/)
+[[Phase 2 Economics]] of my career will return to working on redesigning economics continuing my work with the School For [Social Design](https://sfsd.io/)
 
-**Environment** - Phase 3 of my career will be looking at how the downstream effects of redesigned (post-capitalism) economics and education systems effect the environment. Starting with research in Proof-of-work, mining rigs incentivising renewable energy production and local community resilience. 
+[[Phase 3 - Environment]] of my career will be looking at how the downstream effects of redesigned (post-capitalist) economics and education systems effect the environment. Starting with research in how bitcoin mining rigs incentivising renewable energy production and local community flourishing. 
 
-Phase 4 is to chill out with my family, meditate lots and work quietly funding / organising decentralised science (de-sci) so smart people can work on fundamental physics and computational cognitive science. Likely remotely in a special economic zone, post-nation state territory with no guns and insane natural abundance due to human-nature technological harmony.
+[[Phase 4 - DeSci & Chill]] is to chill out with my family, meditate lots and work quietly funding / organising decentralised science (de-sci) so smart people can work on fundamental physics and computational cognitive science. Likely remotely in a special economic zone, post-nation state territory with no guns and insane natural abundance due to human-nature technological harmony.
 
-I'm Networking 100 positive-sum friends building for human flourishing. I get along well with other researchers with a heavy bias towards action and building things. DM me [@serjhunt_Ark](https://twitter.com/Serjhunt_ARK)
+To achieve most of this I'm Networking 100 positive-sum friends building for human flourishing. 
 
+I work best with playful and easy going 'researchers' who's existentialism is derived from some form of meaning crisis, with a heavy bias towards action and building things. DM me [@serjhunt_Ark](https://twitter.com/Serjhunt_ARK)
 
 ![[Gold Divider for Notion.png]]
 
@@ -41,7 +42,7 @@ I'm Networking 100 positive-sum friends building for human flourishing. I get al
 
 ![[Gold Divider for Notion.png]]
 
-# My current work.
+# My current work
 
 My team an I are exploring a big question...
 
@@ -65,6 +66,7 @@ Here's the TL;DR so far
 **What is a human**
 
 A human is not the aggregate of or individual 
+
 - Thoughts
 - Memory
 - Emotions
@@ -76,7 +78,11 @@ A human is not the aggregate of or individual
 
 It's experiences itself as [[disassociated from 'cosmic mind, likely through metabolism]]. 
 
+It's mostly a story. [[Only a simulation can become conscious]] - [[Joscha Bach]]
+
 This biological process sets up the conditions for [[Agency]] via an [[agent arena relationship]] which gives rise to [[counter factuals]]
+
+We are [[computationally bounded]]
 
 Conscious mind is just the tip of the iceberg - the experiencing edge of something far deeper.
 
@@ -97,18 +103,19 @@ Here's some steps in my inquiry process:
 - [[The quantified self, IEEE Standards for humans and metrics.]]
 - [[Digital Twins]]
 - [[Different but the same as my child photos]]
-	- Something that is outside of time.
+	- Is a part of me 'outside' of linear time.
 - [[I am not the body, Time and space are not fundamental.]]
+- The Ruliad
 - Not my thoughts - Surely I'm my genes? 
 - Am I fungible? Quantum entanglement 
 - So I'm everything everywhere all at once!
 - Process view of the human - Whitehead / Russel 
 - I cannot find a human, or a self,
-- The closes thing I could say that a human is a wave on an ocean, a pattern perhaps. 
+- The a human is most like a vortex in fluid dynamics.
 - Strong conviction, strong dukkha
 - - [[The best place to hide infinite potential is in a finite being]]
 - [[Primacy of Consciousness]]
-- The take away for designers. Depending on how you construct your view of what a human is will inform your design.
+- The take away for designers - Depending on how you construct your view of what a human is will inform your design.
 
 
 # What makes me think what I thought?
