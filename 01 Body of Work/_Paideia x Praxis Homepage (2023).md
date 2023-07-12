@@ -2,7 +2,7 @@ Hey I'm Serj Hunt, I'm in phase 1 of my career. Redesigning Education. Below you
 
 I'm currently Founder, CEO of [City as a School (CAS)](https://cityasaschool.com/) 
 
-Associate at [WILD learning sciences](https://wildlearn.co/), where we build assessment for supporting human agency, train teachers / coaches to support self-leadership, systems thinking and complex problem solving. 
+Associate at [WILD learning sciences](https://wildlearn.co/), where we've  assessment for supporting human agency, train teachers / coaches to support self-leadership, systems thinking and complex problem solving. 
 
 I'm interested in questions related to human nature, building [ubiquitous computation](https://www.ics.uci.edu/~djp3/classes/2012_09_INF241/papers/Weiser-Computer21Century-SciAm.pdf) to support perspectival freedom and systems that support human flourishing.
 
@@ -48,10 +48,7 @@ My team an I are exploring a big question...
 
 >How can our built and information environments (the sea of data we swim in everyday - the internet) become games that help you understand yourself, how the world works and build competencies that help you positively contribute to society?
 
-To answer this question and have the impact I'm looking to have in society I'm networking 100 positive sum friends together that live within a 10 min walking distance from each other for decades at a time.
-
-
-# Insights of Previous work
+# Insights of Previous work WIP
 
 I hope to leave this body of work public so that others can walk through my thinking, replicate, debate, critique what i'm doing, so that we can keep  creating new knowledge together.
 
