@@ -11,24 +11,15 @@
             "id": "bb52a063e5751163",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "05320f2b53fc9cf4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
-                "mode": "source",
+                "file": "01 Body of Work/About & Work  - Serj Hunt.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
+                "file": "01 Body of Work/About & Work  - Serj Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +154,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05320f2b53fc9cf4",
+  "active": "bb52a063e5751163",
   "lastOpenFiles": [
-    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
+    "01 Body of Work/Age of Augmentation.md",
+    "01 Body of Work/Design for 'Time Well Spent' 🌈 | Intro To Human Systems & Values Empathy.md",
+    "01 Body of Work/Enabling the 'Golden age of pedagogy'.md",
     "01 Body of Work/Expressive Pedagogy.md",
+    "01 Body of Work/Live and Learn Together Handbook.md",
+    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
+    "01 Body of Work/About & Work  - Serj Hunt.md",
     "06 Notes/Expressive Pedagogy.md",
     "01 Body of Work/The ecosystem for self-directed, lifelong learners..md",
     "01 Body of Work/The Learning Experience Design Guide.md",
@@ -185,13 +181,8 @@
     "06 Notes/History of Education - Week 6 Comenius, Pictures, Enlightenment, Locke.md",
     "06 Notes/Learning power.md",
     "Education Systems in the Age of Augmentation - What to build.md",
-    "01 Body of Work/Live and Learn Together Handbook.md",
     "01 Body of Work/Matchmaking by Curiocity.md",
     "Failure to Disrupt.md",
-    "01 Body of Work/Age of Augmentation.md",
-    "01 Body of Work/Design for 'Time Well Spent' 🌈 | Intro To Human Systems & Values Empathy.md",
-    "01 Body of Work/Enabling the 'Golden age of pedagogy'.md",
-    "01 Body of Work/The Pedagogy of Tools for Thought.md",
     "Screenshot 2023-03-22 at 09.25.38.png"
   ]
 }

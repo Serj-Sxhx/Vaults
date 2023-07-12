@@ -18,7 +18,7 @@ Since then I've extended that skillset to
 - and now apply the [Human Systems Methodology](https://www.notion.so/humsys/Values-Based-Social-Design-6397f7852775434982e363924d7e07e7) to my organisation City as a School.
 - I've lead workshops for ed-tech / future of work founders via [Transcend Network](https://transcend-network.com/) fellowship.
 - I previously run a 'Tools for Thought' and Pedagogy lab at [Paideia X Praxis](https://paideiaxpraxis.com/) which taught people how to use Notion and other tools for personal knowledge management
-- Hacking on A.I tools for self-directed learning using GPT-3 and other Language models at Vivid (Awaiting Reboot at City as a School)
+- Hacking on A.I tools for self-directed learning. See ARK(Coming Soon)
 - Co-designed and Led [Learning sprints](https://www.thelearningsprint.com/)
 - I'm also a huge proponent of lightning network & Bitcoin. 
 
@@ -26,7 +26,7 @@ I consult and coach a maximum of three individuals and/or organisations a year t
 
 Where am I going? I believe networks of people with interdependent relationships built on mutual care, are best primed for using new technologies for democratically discussing and voting on what kinds of economies realities they'd like to live in, what facilities and resources should/nt exist.
 
- Therefore learning communities, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational [[participatory / civic technologies]], inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems.
+ Therefore learning communities, networks of home schoolers, and distributed campuses e.t.c are my 'Trojan Horse' for deploying next generational [[participatory / civic technologies]], inspired by the ideas at groups like [@RadxChange](https://www.radicalxchange.org/) and by continued application of my work at @human systems / School for Social Design
  
 ---
 
