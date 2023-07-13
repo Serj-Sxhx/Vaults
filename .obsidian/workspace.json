@@ -11,12 +11,8 @@
             "id": "bb52a063e5751163",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,13 +150,13 @@
   },
   "active": "bb52a063e5751163",
   "lastOpenFiles": [
+    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "01 Body of Work/About & Work  - Serj Hunt.md",
     "01 Body of Work/Age of Augmentation.md",
     "01 Body of Work/Design for 'Time Well Spent' 🌈 | Intro To Human Systems & Values Empathy.md",
     "01 Body of Work/Enabling the 'Golden age of pedagogy'.md",
     "01 Body of Work/Expressive Pedagogy.md",
     "01 Body of Work/Live and Learn Together Handbook.md",
-    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "06 Notes/Expressive Pedagogy.md",
     "01 Body of Work/The ecosystem for self-directed, lifelong learners..md",
     "01 Body of Work/The Learning Experience Design Guide.md",
