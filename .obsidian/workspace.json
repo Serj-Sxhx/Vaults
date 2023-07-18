@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b6dfe9f2101b9174",
+        "id": "7b837bee807b97e7",
         "type": "tabs",
         "children": [
           {
-            "id": "bb52a063e5751163",
+            "id": "918bcb8a4ea2bda2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -148,7 +148,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bb52a063e5751163",
+  "active": "918bcb8a4ea2bda2",
   "lastOpenFiles": [
     "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "01 Body of Work/About & Work  - Serj Hunt.md",
