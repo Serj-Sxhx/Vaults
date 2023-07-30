@@ -24,7 +24,7 @@ Each of these requires new conceptions of 'what a human is'. Each world system's
 
 [[Phase 4 - DeSci & Chill]] is to chill out with my family, meditate lots and work quietly funding / organising decentralised science (de-sci) so smart people can work on fundamental physics and computational cognitive science. Likely remotely in a special economic zone, post-nation state territory with no guns and insane natural abundance due to human-nature technological harmony.
 
-To achieve most of this I'm Networking 100 positive-sum friends building for human flourishing. 
+To achieve most of this I'm Networking 100 positive-sum friends building for human flourishing. I'm also building a curriculum and ['accelerator' for people to work on the Economics, Education, Environment (EEE) Trilema](https://twitter.com/Serjhunt_ARK/status/1678684817276256256?s=20) 
 
 I work best with playful and easy going 'researchers' who's existentialism is derived from some form of meaning crisis, with a heavy bias towards action and building things. DM me [@serjhunt_Ark](https://twitter.com/Serjhunt_ARK)
 
@@ -169,9 +169,11 @@ Here's some steps in my inquiry process:
 
 # 
 
-I believe children are born who, perfect, pure. The trajectories of their lives are drawn perfectly by a bowsting made of start, destined to return to wholeness and love. However due to the pain, shame and conditioning our world impedes their ability to fly true and return to that wholeness.
+I believe children are born whole, perfect, pure. The trajectories of their lives are drawn perfectly by a bowstring made of stars, destined to return to wholeness and love. However the pain, shame and conditioning our world impedes their ability to fly true and return to that wholeness.
 
-My life is a project in umasking who I think I am, who my parents, society, school and media told me I am, so I can fly true. If I can do this better than my parents did before me then I'll be leveling up my ability to do the same for my children. I want this so that they can live a life in deep remembrance of their wholeness. 
+They come to believe themselves as a 'self'. While a necessary construct, this self is both the vehicle and prison of freedom.
+
+My life is a project in umasking who I think I am, who my parents, society, school and media told me I am, so I can fly true. If I can do this better than my parents did before me then I'll be levelling up my ability to do the same for my children. I want this so that they can live a life in deep remembrance of their wholeness. 
 
 Children have superpowers but our social design crushes their hope of discovering and acting on them. Children are the key to the shackles created by the shortcomings of older generations. Without sustainable futures for them, there is no innovation or progress, no walking through the scientific orchard, or discovery of religious and mystical experience. They are the portal between this world and the future. So opening their creative aperture to manifest, is opening our collective imagination towards new worlds and new ways of being together.
 
