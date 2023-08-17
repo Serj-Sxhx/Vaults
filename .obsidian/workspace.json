@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b5f667109a7e4cb",
+        "id": "b05c11c637ab8349",
         "type": "tabs",
         "children": [
           {
-            "id": "11883778049d0bc8",
+            "id": "47229b90c0ce61b0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "11883778049d0bc8",
+  "active": "47229b90c0ce61b0",
   "lastOpenFiles": [
     "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "Rich Dad Poor Dad Lesson 1.md",
