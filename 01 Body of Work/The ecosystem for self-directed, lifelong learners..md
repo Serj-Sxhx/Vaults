@@ -56,6 +56,8 @@ The timing of this moment is fortunate as we (humanity as a whole) are currently
 
 # Ecosystems in Theory vs practice
 
+[The Learning Society - Cisco](https://www.cisco.com/c/dam/en_us/about/citizenship/socio-economic/docs/LearningSociety_WhitePaper.pdf)
+
  a biological metaphor in response to complexity.
 
  biological ecosystems seem a perfect fit for the change requirements in education 
