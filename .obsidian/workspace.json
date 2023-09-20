@@ -19,9 +19,11 @@
             "id": "5be6dd142f073b19",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
