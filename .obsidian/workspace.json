@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e8ada379456db9",
+        "id": "0d5403f0ded8fa15",
         "type": "tabs",
         "children": [
           {
-            "id": "1379eb4a29c035eb",
+            "id": "8117b1c090145fbf",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "5be6dd142f073b19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1379eb4a29c035eb",
+  "active": "5be6dd142f073b19",
   "lastOpenFiles": [
     "01 Body of Work/The ecosystem for self-directed, lifelong learners..md",
     "01 Body of Work/The Learning Experience Design Guide.md",
