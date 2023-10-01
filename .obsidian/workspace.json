@@ -16,29 +16,17 @@
             }
           },
           {
-            "id": "5be6dd142f073b19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "63bbf3efdf6f0bb0",
+            "id": "a8fcffc10565c874",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.4.13"
+                "currentVersion": "1.4.14"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,13 +169,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "63bbf3efdf6f0bb0",
+  "active": "a8fcffc10565c874",
   "lastOpenFiles": [
+    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "01 Body of Work/The ecosystem for self-directed, lifelong learners..md",
     "01 Body of Work/The Learning Experience Design Guide.md",
     "01 Body of Work/Expressive Pedagogy.md",
     "01 Body of Work/Live and Learn Together Handbook.md",
-    "01 Body of Work/_Paideia x Praxis Homepage (2023).md",
     "Rich Dad Poor Dad Lesson 1.md",
     "01 Body of Work/About & Work  - Serj Hunt.md",
     "01 Body of Work/Age of Augmentation.md",
